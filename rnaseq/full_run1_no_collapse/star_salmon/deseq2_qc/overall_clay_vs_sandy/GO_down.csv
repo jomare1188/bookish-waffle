@@ -1,0 +1,63 @@
+GO.ID,Term,Annotated,Significant,Expected,Classic,p.adj
+GO:0016259,selenocysteine metabolic process,1,1,0,0.0013,0.0403
+GO:0019510,S-adenosylhomocysteine catabolic process,1,1,0,0.0013,0.0403
+GO:0033353,S-adenosylmethionine cycle,2,1,0,0.0026,0.0403
+GO:0046439,L-cysteine metabolic process,2,1,0,0.0026,0.0403
+GO:0046498,S-adenosylhomocysteine metabolic process,3,1,0,0.0040,0.0434
+GO:0170044,non-proteinogenic amino acid catabolic p...,4,1,0.01,0.0053,0.0434
+GO:0046130,purine ribonucleoside catabolic process,5,1,0.01,0.0066,0.0434
+GO:0046500,S-adenosylmethionine metabolic process,5,1,0.01,0.0066,0.0434
+GO:0070911,global genome nucleotide-excision repair,5,1,0.01,0.0066,0.0434
+GO:0042219,cellular modified amino acid catabolic p...,6,1,0.01,0.0079,0.0434
+GO:0006152,purine nucleoside catabolic process,7,1,0.01,0.0092,0.0434
+GO:0042454,ribonucleoside catabolic process,7,1,0.01,0.0092,0.0434
+GO:0009164,nucleoside catabolic process,8,1,0.01,0.0105,0.0434
+GO:0034656,nucleobase-containing small molecule cat...,8,1,0.01,0.0105,0.0434
+GO:0044273,sulfur compound catabolic process,8,1,0.01,0.0105,0.0434
+GO:1901658,glycosyl compound catabolic process,9,1,0.01,0.0119,0.0461
+GO:0006409,tRNA export from nucleus,11,1,0.01,0.0145,0.0481
+GO:0006656,phosphatidylcholine biosynthetic process,12,1,0.02,0.0158,0.0481
+GO:0006534,cysteine metabolic process,13,1,0.02,0.0171,0.0481
+GO:0046128,purine ribonucleoside metabolic process,13,1,0.02,0.0171,0.0481
+GO:0046470,phosphatidylcholine metabolic process,13,1,0.02,0.0171,0.0481
+GO:0006639,acylglycerol metabolic process,14,1,0.02,0.0184,0.0481
+GO:0006641,triglyceride metabolic process,14,1,0.02,0.0184,0.0481
+GO:0006638,neutral lipid metabolic process,15,1,0.02,0.0197,0.0481
+GO:0042278,purine nucleoside metabolic process,16,1,0.02,0.0210,0.0481
+GO:0051031,tRNA transport,16,1,0.02,0.0210,0.0481
+GO:0002181,cytoplasmic translation,189,2,0.25,0.0214,0.0481
+GO:0006334,nucleosome assembly,17,1,0.02,0.0223,0.0481
+GO:0007094,mitotic spindle assembly checkpoint sign...,19,1,0.03,0.0249,0.0481
+GO:0071173,spindle assembly checkpoint signaling,19,1,0.03,0.0249,0.0481
+GO:0006555,methionine metabolic process,21,1,0.03,0.0275,0.0481
+GO:0002182,cytoplasmic translational elongation,23,1,0.03,0.0301,0.0481
+GO:0009303,rRNA transcription,23,1,0.03,0.0301,0.0481
+GO:0097164,ammonium ion metabolic process,23,1,0.03,0.0301,0.0481
+GO:0031445,regulation of heterochromatin formation,24,1,0.03,0.0314,0.0481
+GO:0170035,L-amino acid catabolic process,24,1,0.03,0.0314,0.0481
+GO:1901606,alpha-amino acid catabolic process,26,1,0.03,0.0340,0.0481
+GO:0009069,serine family amino acid metabolic proce...,27,1,0.04,0.0353,0.0481
+GO:0031577,spindle checkpoint signaling,27,1,0.04,0.0353,0.0481
+GO:0045841,negative regulation of mitotic metaphase...,27,1,0.04,0.0353,0.0481
+GO:0071174,mitotic spindle checkpoint signaling,27,1,0.04,0.0353,0.0481
+GO:0072523,purine-containing compound catabolic pro...,27,1,0.04,0.0353,0.0481
+GO:2000816,negative regulation of mitotic sister ch...,27,1,0.04,0.0353,0.0481
+GO:0043043,peptide biosynthetic process,250,2,0.33,0.0365,0.0481
+GO:0170041,non-proteinogenic amino acid metabolic p...,28,1,0.04,0.0365,0.0481
+GO:1902100,negative regulation of metaphase/anaphas...,28,1,0.04,0.0365,0.0481
+GO:1905819,negative regulation of chromosome separa...,28,1,0.04,0.0365,0.0481
+GO:0009119,ribonucleoside metabolic process,29,1,0.04,0.0378,0.0485
+GO:0000096,sulfur amino acid metabolic process,30,1,0.04,0.0391,0.0485
+GO:0009063,amino acid catabolic process,30,1,0.04,0.0391,0.0485
+GO:0006518,peptide metabolic process,268,2,0.35,0.0416,0.0489
+GO:0033048,negative regulation of mitotic sister ch...,32,1,0.04,0.0417,0.0489
+GO:0009116,nucleoside metabolic process,33,1,0.04,0.0430,0.0489
+GO:0045839,negative regulation of mitotic nuclear d...,34,1,0.04,0.0442,0.0489
+GO:1901657,glycosyl compound metabolic process,34,1,0.04,0.0442,0.0489
+GO:0009066,aspartate family amino acid metabolic pr...,35,1,0.05,0.0455,0.0489
+GO:0051701,biological process involved in interacti...,35,1,0.05,0.0455,0.0489
+GO:0033046,negative regulation of sister chromatid ...,36,1,0.05,0.0468,0.0489
+GO:1901136,carbohydrate derivative catabolic proces...,36,1,0.05,0.0468,0.0489
+GO:0006414,translational elongation,37,1,0.05,0.0481,0.0489
+GO:0051985,negative regulation of chromosome segreg...,37,1,0.05,0.0481,0.0489
+GO:0006412,translation,293,2,0.39,0.0492,0.0492

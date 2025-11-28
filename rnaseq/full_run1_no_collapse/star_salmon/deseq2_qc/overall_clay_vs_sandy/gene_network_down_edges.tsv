@@ -1,0 +1,23 @@
+from	to	source_Class	target_Class
+g5120	selenocysteine metabolic process	gene	GO
+g5120	S-adenosylhomocysteine catabolic process	gene	GO
+g5120	S-adenosylmethionine cycle	gene	GO
+g5120	L-cysteine metabolic process	gene	GO
+g5120	purine nucleoside catabolic process	gene	GO
+g5120	nucleoside catabolic process	gene	GO
+g5120	nucleobase-containing small molecule cat...	gene	GO
+g5120	cellular modified amino acid catabolic p...	gene	GO
+g5120	ribonucleoside catabolic process	gene	GO
+g5120	sulfur compound catabolic process	gene	GO
+g5120	purine ribonucleoside catabolic process	gene	GO
+g5120	S-adenosylhomocysteine metabolic process	gene	GO
+g5120	S-adenosylmethionine metabolic process	gene	GO
+g5120	glycosyl compound catabolic process	gene	GO
+g2841	global genome nucleotide-excision repair	gene	GO
+g2841	nucleosome assembly	gene	GO
+g2841	Neutrophil extracellular trap formation	gene	KEGG
+g2184	cytoplasmic translation	gene	GO
+g2184	cytoplasmic translational elongation	gene	GO
+g2184	tRNA export from nucleus	gene	GO
+g2236	cytoplasmic translation	gene	GO
+g1927	Neutrophil extracellular trap formation	gene	KEGG

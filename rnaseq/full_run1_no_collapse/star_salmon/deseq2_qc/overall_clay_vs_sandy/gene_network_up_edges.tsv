@@ -1,0 +1,197 @@
+from	to	source_Class	target_Class
+g694	carbohydrate metabolic process	gene	GO
+g694	monosaccharide metabolic process	gene	GO
+g694	glucose metabolic process	gene	GO
+g694	pyruvate metabolic process	gene	GO
+g694	NADH metabolic process	gene	GO
+g694	ATP biosynthetic process	gene	GO
+g694	nucleoside diphosphate metabolic process	gene	GO
+g694	purine nucleoside diphosphate metabolic ...	gene	GO
+g694	nucleotide catabolic process	gene	GO
+g694	purine ribonucleoside diphosphate metabo...	gene	GO
+g694	ribonucleoside diphosphate metabolic pro...	gene	GO
+g694	NAD biosynthetic process	gene	GO
+g694	heme transport	gene	GO
+g694	carbohydrate biosynthetic process	gene	GO
+g694	hexose metabolic process	gene	GO
+g694	nicotinamide nucleotide biosynthetic pro...	gene	GO
+g694	pyridine nucleotide metabolic process	gene	GO
+g694	Microbial metabolism in diverse environments	gene	KEGG
+g694	Carbon metabolism	gene	KEGG
+g694	Biosynthesis of secondary metabolites	gene	KEGG
+g694	Glycolysis / Gluconeogenesis	gene	KEGG
+g694	Biosynthesis of amino acids	gene	KEGG
+g694	Carbon fixation by Calvin cycle	gene	KEGG
+g694	HIF-1 signaling pathway	gene	KEGG
+g864	carbohydrate metabolic process	gene	GO
+g864	monosaccharide metabolic process	gene	GO
+g864	glucose metabolic process	gene	GO
+g864	pyruvate metabolic process	gene	GO
+g864	NADH metabolic process	gene	GO
+g864	ATP biosynthetic process	gene	GO
+g864	nucleoside diphosphate metabolic process	gene	GO
+g864	purine nucleoside diphosphate metabolic ...	gene	GO
+g864	nucleotide catabolic process	gene	GO
+g864	purine ribonucleoside diphosphate metabo...	gene	GO
+g864	ribonucleoside diphosphate metabolic pro...	gene	GO
+g864	NAD biosynthetic process	gene	GO
+g864	carbohydrate biosynthetic process	gene	GO
+g864	hexose metabolic process	gene	GO
+g864	nicotinamide nucleotide biosynthetic pro...	gene	GO
+g864	pyridine nucleotide metabolic process	gene	GO
+g864	Microbial metabolism in diverse environments	gene	KEGG
+g864	Carbon metabolism	gene	KEGG
+g864	Biosynthesis of secondary metabolites	gene	KEGG
+g864	Glycolysis / Gluconeogenesis	gene	KEGG
+g864	Biosynthesis of amino acids	gene	KEGG
+g864	Carbon fixation by Calvin cycle	gene	KEGG
+g864	Methane metabolism	gene	KEGG
+g3352	carbohydrate metabolic process	gene	GO
+g3352	monosaccharide metabolic process	gene	GO
+g3352	glucose metabolic process	gene	GO
+g3352	pyruvate metabolic process	gene	GO
+g3352	NADH metabolic process	gene	GO
+g3352	ATP biosynthetic process	gene	GO
+g3352	nucleoside diphosphate metabolic process	gene	GO
+g3352	purine nucleoside diphosphate metabolic ...	gene	GO
+g3352	nucleotide catabolic process	gene	GO
+g3352	purine ribonucleoside diphosphate metabo...	gene	GO
+g3352	ribonucleoside diphosphate metabolic pro...	gene	GO
+g3352	NAD biosynthetic process	gene	GO
+g3352	carbohydrate biosynthetic process	gene	GO
+g3352	hexose metabolic process	gene	GO
+g3352	nicotinamide nucleotide biosynthetic pro...	gene	GO
+g3352	pyridine nucleotide metabolic process	gene	GO
+g3352	Microbial metabolism in diverse environments	gene	KEGG
+g3352	Carbon metabolism	gene	KEGG
+g3352	Biosynthesis of secondary metabolites	gene	KEGG
+g3352	Glycolysis / Gluconeogenesis	gene	KEGG
+g3352	Biosynthesis of amino acids	gene	KEGG
+g3352	Carbon fixation by Calvin cycle	gene	KEGG
+g3352	HIF-1 signaling pathway	gene	KEGG
+g3589	carbohydrate metabolic process	gene	GO
+g3589	monosaccharide metabolic process	gene	GO
+g3589	glucose metabolic process	gene	GO
+g3589	carbohydrate biosynthetic process	gene	GO
+g3589	hexose metabolic process	gene	GO
+g3589	Microbial metabolism in diverse environments	gene	KEGG
+g3589	Carbon metabolism	gene	KEGG
+g3589	Biosynthesis of secondary metabolites	gene	KEGG
+g3589	Glycolysis / Gluconeogenesis	gene	KEGG
+g3589	Carbon fixation by Calvin cycle	gene	KEGG
+g3589	Citrate cycle (TCA cycle)	gene	KEGG
+g3589	Pyruvate metabolism	gene	KEGG
+g3951	carbohydrate metabolic process	gene	GO
+g3951	glyoxylate cycle	gene	GO
+g3951	fatty acid metabolic process	gene	GO
+g3951	Microbial metabolism in diverse environments	gene	KEGG
+g3951	Carbon metabolism	gene	KEGG
+g3951	Biosynthesis of secondary metabolites	gene	KEGG
+g3951	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g3951	Pyruvate metabolism	gene	KEGG
+g4046	carbohydrate metabolic process	gene	GO
+g4046	monosaccharide metabolic process	gene	GO
+g4046	glucose metabolic process	gene	GO
+g4046	pyruvate metabolic process	gene	GO
+g4046	NADH metabolic process	gene	GO
+g4046	ATP biosynthetic process	gene	GO
+g4046	nucleoside diphosphate metabolic process	gene	GO
+g4046	purine nucleoside diphosphate metabolic ...	gene	GO
+g4046	nucleotide catabolic process	gene	GO
+g4046	purine ribonucleoside diphosphate metabo...	gene	GO
+g4046	ribonucleoside diphosphate metabolic pro...	gene	GO
+g4046	NAD biosynthetic process	gene	GO
+g4046	carbohydrate biosynthetic process	gene	GO
+g4046	hexose metabolic process	gene	GO
+g4046	nicotinamide nucleotide biosynthetic pro...	gene	GO
+g4046	pyridine nucleotide metabolic process	gene	GO
+g4046	Microbial metabolism in diverse environments	gene	KEGG
+g4046	Carbon metabolism	gene	KEGG
+g4046	Biosynthesis of secondary metabolites	gene	KEGG
+g4046	Glycolysis / Gluconeogenesis	gene	KEGG
+g4046	Biosynthesis of amino acids	gene	KEGG
+g4046	Methane metabolism	gene	KEGG
+g4046	HIF-1 signaling pathway	gene	KEGG
+g4566	carbohydrate metabolic process	gene	GO
+g4566	glyoxylate cycle	gene	GO
+g4566	fatty acid metabolic process	gene	GO
+g4566	Microbial metabolism in diverse environments	gene	KEGG
+g4566	Carbon metabolism	gene	KEGG
+g4566	Biosynthesis of secondary metabolites	gene	KEGG
+g4566	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g5863	carbohydrate metabolic process	gene	GO
+g5863	monosaccharide metabolic process	gene	GO
+g6145	carbohydrate metabolic process	gene	GO
+g6145	carbohydrate biosynthetic process	gene	GO
+g6145	Biosynthesis of secondary metabolites	gene	KEGG
+g3168	glutamate metabolic process	gene	GO
+g3168	Microbial metabolism in diverse environments	gene	KEGG
+g3168	Carbon metabolism	gene	KEGG
+g3168	Biosynthesis of secondary metabolites	gene	KEGG
+g3168	Biosynthesis of amino acids	gene	KEGG
+g3168	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g3168	Citrate cycle (TCA cycle)	gene	KEGG
+g4724	glutamate metabolic process	gene	GO
+g4724	Microbial metabolism in diverse environments	gene	KEGG
+g4724	Biosynthesis of secondary metabolites	gene	KEGG
+g4724	Nitrogen metabolism	gene	KEGG
+g4724	Biosynthesis of amino acids	gene	KEGG
+g4724	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g4724	Necroptosis	gene	KEGG
+g4849	glutamate metabolic process	gene	GO
+g4849	Microbial metabolism in diverse environments	gene	KEGG
+g4849	Biosynthesis of secondary metabolites	gene	KEGG
+g4849	Nitrogen metabolism	gene	KEGG
+g4849	Biosynthesis of amino acids	gene	KEGG
+g6490	glutamate metabolic process	gene	GO
+g6490	Microbial metabolism in diverse environments	gene	KEGG
+g6490	Biosynthesis of secondary metabolites	gene	KEGG
+g2134	fatty acid metabolic process	gene	GO
+g3089	fatty acid metabolic process	gene	GO
+g3101	fatty acid metabolic process	gene	GO
+g2181	heme transport	gene	GO
+g2181	Necroptosis	gene	KEGG
+g5780	pyridine nucleotide metabolic process	gene	GO
+g5780	Microbial metabolism in diverse environments	gene	KEGG
+g5780	Carbon metabolism	gene	KEGG
+g5780	Biosynthesis of secondary metabolites	gene	KEGG
+g5780	Biosynthesis of amino acids	gene	KEGG
+g5780	Carbon fixation by Calvin cycle	gene	KEGG
+g5780	Methane metabolism	gene	KEGG
+g23	Microbial metabolism in diverse environments	gene	KEGG
+g747	Microbial metabolism in diverse environments	gene	KEGG
+g747	Carbon metabolism	gene	KEGG
+g747	Biosynthesis of secondary metabolites	gene	KEGG
+g747	Citrate cycle (TCA cycle)	gene	KEGG
+g747	Pyruvate metabolism	gene	KEGG
+g1448	Microbial metabolism in diverse environments	gene	KEGG
+g1448	Carbon metabolism	gene	KEGG
+g1448	Biosynthesis of secondary metabolites	gene	KEGG
+g1448	Biosynthesis of amino acids	gene	KEGG
+g1448	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g1448	Citrate cycle (TCA cycle)	gene	KEGG
+g2625	Microbial metabolism in diverse environments	gene	KEGG
+g2625	Biosynthesis of secondary metabolites	gene	KEGG
+g2625	Glycolysis / Gluconeogenesis	gene	KEGG
+g2625	Pyruvate metabolism	gene	KEGG
+g2991	Microbial metabolism in diverse environments	gene	KEGG
+g2991	Carbon metabolism	gene	KEGG
+g2991	Biosynthesis of secondary metabolites	gene	KEGG
+g2991	Glycolysis / Gluconeogenesis	gene	KEGG
+g2991	Glyoxylate and dicarboxylate metabolism	gene	KEGG
+g2991	Pyruvate metabolism	gene	KEGG
+g2991	Methane metabolism	gene	KEGG
+g3141	Microbial metabolism in diverse environments	gene	KEGG
+g4851	Microbial metabolism in diverse environments	gene	KEGG
+g4851	Nitrogen metabolism	gene	KEGG
+g4852	Microbial metabolism in diverse environments	gene	KEGG
+g4852	Nitrogen metabolism	gene	KEGG
+g5898	Microbial metabolism in diverse environments	gene	KEGG
+g5898	Carbon metabolism	gene	KEGG
+g5898	Biosynthesis of secondary metabolites	gene	KEGG
+g5898	Citrate cycle (TCA cycle)	gene	KEGG
+g1034	Biosynthesis of secondary metabolites	gene	KEGG
+g1034	Biosynthesis of amino acids	gene	KEGG
+g3832	Biosynthesis of secondary metabolites	gene	KEGG
+g4850	Nitrogen metabolism	gene	KEGG
+g2738	Necroptosis	gene	KEGG
