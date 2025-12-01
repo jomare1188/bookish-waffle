@@ -72,7 +72,7 @@ See full software versions in
 
 
 Full report of preprocess and aligment can be found in 
-[Download full report (html)]( rnaseq/collapsed_full_run/multiqc/star_salmon/multiqc_report.html)*(right-click and save as to view)*
+[Download full report (zip)]( rnaseq/collapsed_full_run/multiqc/star_salmon/multiqc_report.zip)*(right-click and save as to view)*
 
 
 ### 4. **Exploratory Analysis**
