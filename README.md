@@ -66,8 +66,13 @@ We used a `Nextflow v25.04.7` pipeline `rnaseq (v3.12.0)` from nf-core (https://
 
 We used the default method from `rnaseq (v3.12.0)` which uses `STAR` aligner and `Salmon` to quantify transcript abundance.
 
+See full software versions in 
+
+[Sofware versions (txt)](rnaseq/full_run1_no_collapse/pipeline_info/nf_core_rnaseq_software_mqc_versions.yml)
+
+
 Full report of preprocess and aligment can be found in 
-[Download full report (html)]( rnaseq/full_run1_no_collapse/multiqc/star_salmon/multiqc_report.html)*(right-click and save as to view)*
+[Download full report (html)]( rnaseq/collapsed_full_run/multiqc/star_salmon/multiqc_report.html)*(right-click and save as to view)*
 
 
 ### 4. **Exploratory Analysis**
@@ -79,9 +84,9 @@ Full report of preprocess and aligment can be found in
 
 ### 5. **Differential Expression Analysis (DEA)**
 
-We conducted a differential expression analysis (DEA) using DESEeq2 R package between several contrasts: 5503 clay vs 5503 sandy (4, 5, 6 vs 10, 11, 12), 6007 clay vs 6007 sandy (16, 17, 18 vs 22, 23, 24),  5503 clay vs 6007 clay (4, 5, 6 vs 16, 17, 18), 5503 sandy vs 6007 sandy (10, 11, 12 vs 22, 23, 24)
+We conducted a differential expression analysis (DEA) using DESEeq2 R package between several contrasts: 5503 clay vs 5503 sandy (4, 5, 6 vs 10, 11, 12), 6007 clay vs 6007 sandy (16, 17, 18 vs 22, 23, 24),  5503 clay vs 6007 clay (4, 5, 6 vs 16, 17, 18), 5503 sandy vs 6007 sandy (10, 11, 12 vs 22, 23, 24). We filtered out low expressed genes with less than 1 count in at least 7/12 samples (or 4/6 depending o the tested contrasts).
 
-We used `lfcThreshold = 1` and `altHypothesis = "greaterAbs"` to identify transcripts that were differentially expressed at least twofold above or below the background expression level. We refer to upregulated genes as those more highly expressed in the control condition than in the infected, and downregulated genes as those more highly expressed in the infected than in the control condition.
+We used `lfcThreshold = 1` and `altHypothesis = "greaterAbs"` to identify transcripts that were differentially expressed at least twofold above or below the background expression level. We refer to upregulated genes as those more highly expressed in clay than in sand, downregulated genes as those more highly expressed in the sand than in the clay soil. We corrected multiple testing using FDR (false discovery rate);
 
 | Contrast              | Total | Upregulated | Downregulated |
 |-----------------------|-------|-------------|---------------|
@@ -94,7 +99,9 @@ We used `lfcThreshold = 1` and `altHypothesis = "greaterAbs"` to identify transc
 
 
 - code: /home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/dea_claude_dev.r
-- results: /home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/
+
+    For overrall clay vs sand the complete results are located at 
+- results: /home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/
 
 ### 6. **Functional Enrichment Analysis**
 
@@ -102,11 +109,11 @@ To get insights about the function and the processes that are represented by the
 
 - GO: We used topGO R package (v2.58.0), p-value < 0.05 and corrected for multiple testing using BH procedure
 
-    - Up: [View overrepresented GO terms in up-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_up.pdf)
+    - Up: [Top 20 overrepresented GO terms by p-value in up-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_up.pdf)
 
-    - Down: [View overrepresented GO terms in down-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_down.pdf)
+    - Down: [Top 20 overrepresented GO terms by p-value in down-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_down.pdf)
 
-- KEGG: We used enrichKEGG function from Cluster profiler R package (v4.14.6) to get KEGG enriched categories in each gene set
+- KEGG: We used enrichKEGG function from Cluster profiler R package (v4.14.6) to get KEGG enriched categories in each gene set (up regulated and down regulated)
 
 [Overrepresented KEGGs in differentially expressed genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/keggs_plots.pdf)
 
@@ -115,14 +122,21 @@ To get insights about the function and the processes that are represented by the
 
 We used Phobius v1.01 (https://phobius.sbc.su.se/) to signal peptides and transmembrane domais, the proteins with at least one signal peptide and with no transmembrando domains where classified as putative effectors.
 
-references/PEDRO_genome/annotation/putative_effectors.txt
+/home/diegoj/bianca/references/PEDRO_genome/annotation
 
 
 ### 8. **GO-KEGG Interaction Network**
 
+To get some insights about the function of down regulated and up regulated genes we built two networks, one for up and another for down regulated genes, where the nodes can be represented by genes, GO or KEGG. The edges represent the GO term and/or the KEGG pathways related to that gene. In this way we can explore the functions and the procesess in which the down and up regulated genes are involved.
+
 - Up: ![Interaction network GO-KEGG for up-regulated genes](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_up.png)
 
 - Down: ![Interaction network GO-KEGG for down-regulated genes](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_down.png)
+
+
+Full results in: 
+
+/home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy
 
 ### 9. **Important Files**
 
@@ -139,4 +153,7 @@ references/PEDRO_genome/annotation/putative_effectors.txt
 | | GO–KEGG interaction network (up-regulated) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_up_edges.tsv` |
 | | GO–KEGG interaction network (down-regulated) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_down_edges.tsv` |
 | **Functional Annotation** | EggNOG results | `references/PEDRO_genome/annotation/eggnog.emapper.annotations` |
+| gene_go_table.txt | formatted GO terms | `references/PEDRO_genome/annotation/gene_go_table.txt` |
+| putative_effectors.ids | Putative effectors | `references/PEDRO_genome/annotation/putative_effectors.ids` |
+
 
