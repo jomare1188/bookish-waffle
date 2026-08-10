@@ -82,6 +82,10 @@ rnaseq/full_run1_no_collapse/fastqc/
 rnaseq/full_run1_no_collapse/fq_lint/
 rnaseq/full_run1_no_collapse/multiqc/
 rnaseq/full_run1_no_collapse/trimgalore/
+# exception: multiqc/star_salmon/multiqc_report.html is tracked (force-added,
+# linked from README sections 3 and 9). Git cannot re-include a file under an
+# excluded directory, so the rule above still lists it — but once tracked,
+# .gitignore no longer applies to it.
 rnaseq/full_run1_no_collapse/pipeline_info/execution_*
 rnaseq/full_run1_no_collapse/pipeline_info/params_*
 rnaseq/full_run1_no_collapse/pipeline_info/pipeline_dag_*
