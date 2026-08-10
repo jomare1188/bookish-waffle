@@ -1,0 +1,2634 @@
+"GO.ID","Term","Annotated","Significant","Expected","FoldEnrichment","p_classic","fdr_classic_BH","p_weight01"
+"GO:0046130","purine ribonucleoside catabolic process",5,1,0.01,151.2,0.00660063842599812,1,0.00660063842599812
+"GO:0046500","S-adenosylmethionine metabolic process",5,1,0.01,151.2,0.00660063842599812,1,0.00660063842599812
+"GO:0070911","global genome nucleotide-excision repair",5,1,0.01,151.2,0.00660063842599812,1,0.00660063842599812
+"GO:0042219","cellular modified amino acid catabolic process",6,1,0.01,126,0.00791683499648388,1,0.00791683499648388
+"GO:0006152","purine nucleoside catabolic process",7,1,0.01,108,0.00923172322047761,1,1
+"GO:0042454","ribonucleoside catabolic process",7,1,0.01,108,0.00923172322047761,1,1
+"GO:0009164","nucleoside catabolic process",8,1,0.01,94.5,0.0105453039652966,1,1
+"GO:0034656","nucleobase-containing small molecule catabolic process",8,1,0.01,94.5,0.0105453039652966,1,1
+"GO:0044273","sulfur compound catabolic process",8,1,0.01,94.5,0.0105453039652966,1,0.0105453039652966
+"GO:1901658","glycosyl compound catabolic process",9,1,0.01,84,0.0118575780979683,1,1
+"GO:0006409","tRNA export from nucleus",11,1,0.01,68.73,0.0144782099935492,1,0.0144782099935492
+"GO:0072523","purine-containing compound catabolic process",11,1,0.01,68.73,0.0144782099935492,1,1
+"GO:0006656","phosphatidylcholine biosynthetic process",12,1,0.02,63,0.0157865694890766,1,0.0157865694890766
+"GO:0006534","cysteine metabolic process",13,1,0.02,58.15,0.017093625837697,1,0.017093625837697
+"GO:0046128","purine ribonucleoside metabolic process",13,1,0.02,58.15,0.017093625837697,1,1
+"GO:0046470","phosphatidylcholine metabolic process",13,1,0.02,58.15,0.017093625837697,1,1
+"GO:0006639","acylglycerol metabolic process",14,1,0.02,54,0.0183993799049997,1,1
+"GO:0006641","triglyceride metabolic process",14,1,0.02,54,0.0183993799049997,1,0.0183993799049997
+"GO:0006638","neutral lipid metabolic process",15,1,0.02,50.4,0.0197038325562889,1,1
+"GO:0042278","purine nucleoside metabolic process",16,1,0.02,47.25,0.0210069846565794,1,1
+"GO:0051031","tRNA transport",16,1,0.02,47.25,0.0210069846565794,1,1
+"GO:0002181","cytoplasmic translation",189,2,0.25,8,0.0214414885795084,1,0.156984096331566
+"GO:0006334","nucleosome assembly",17,1,0.02,44.47,0.0223088370705999,1,0.0223088370705999
+"GO:0007094","mitotic spindle assembly checkpoint signaling",19,1,0.03,39.79,0.0249086462973052,1,0.0249086462973052
+"GO:0071173","spindle assembly checkpoint signaling",19,1,0.03,39.79,0.0249086462973052,1,1
+"GO:1901136","carbohydrate derivative catabolic process",20,1,0.03,37.8,0.0262066048380077,1,1
+"GO:0006555","methionine metabolic process",21,1,0.03,36,0.0275032671484765,1,0.0275032671484765
+"GO:0002182","cytoplasmic translational elongation",23,1,0.03,32.87,0.0300927065315851,1,0.0300927065315851
+"GO:0009303","rRNA transcription",23,1,0.03,32.87,0.0300927065315851,1,0.0300927065315851
+"GO:0097164","ammonium ion metabolic process",23,1,0.03,32.87,0.0300927065315851,1,0.0300927065315851
+"GO:0031445","regulation of heterochromatin formation",24,1,0.03,31.5,0.0313854853299437,1,0.0313854853299437
+"GO:0097064","ncRNA export from nucleus",24,1,0.03,31.5,0.0313854853299437,1,1
+"GO:0120261","regulation of heterochromatin organization",24,1,0.03,31.5,0.0313854853299437,1,1
+"GO:1901606","alpha-amino acid catabolic process",26,1,0.03,29.08,0.0339671654524052,1,0.0339671654524052
+"GO:0009069","serine family amino acid metabolic process",27,1,0.04,28,0.035256068500501,1,1
+"GO:0031577","spindle checkpoint signaling",27,1,0.04,28,0.035256068500501,1,1
+"GO:0045841","negative regulation of mitotic metaphase/anaphase transition",27,1,0.04,28,0.035256068500501,1,1
+"GO:0071174","mitotic spindle checkpoint signaling",27,1,0.04,28,0.035256068500501,1,1
+"GO:2000816","negative regulation of mitotic sister chromatid separation",27,1,0.04,28,0.035256068500501,1,1
+"GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle",28,1,0.04,27,0.0365436813553552,1,1
+"GO:1905819","negative regulation of chromosome separation",28,1,0.04,27,0.0365436813553552,1,1
+"GO:0009119","ribonucleoside metabolic process",29,1,0.04,26.07,0.0378300048782455,1,1
+"GO:0000096","sulfur amino acid metabolic process",30,1,0.04,25.2,0.039115039930161,1,1
+"GO:0009063","amino acid catabolic process",30,1,0.04,25.2,0.039115039930161,1,0.039115039930161
+"GO:1901566","organonitrogen compound biosynthetic process",699,3,0.92,3.24,0.040731134294776,1,1
+"GO:0033048","negative regulation of mitotic sister chromatid segregation",32,1,0.04,23.62,0.0416812480635892,1,1
+"GO:0009116","nucleoside metabolic process",33,1,0.04,22.91,0.0429624228656434,1,1
+"GO:0045839","negative regulation of mitotic nuclear division",34,1,0.04,22.24,0.0442423126378052,1,1
+"GO:1901657","glycosyl compound metabolic process",34,1,0.04,22.24,0.0442423126378052,1,1
+"GO:0009066","aspartate family amino acid metabolic process",35,1,0.05,21.6,0.0455209182396282,1,1
+"GO:0051701","biological process involved in interaction with host",35,1,0.05,21.6,0.0455209182396282,1,0.0455209182396282
+"GO:0033046","negative regulation of sister chromatid segregation",36,1,0.05,21,0.0467982405303752,1,1
+"GO:0006414","translational elongation",37,1,0.05,20.43,0.0480742803690218,1,1
+"GO:0051985","negative regulation of chromosome segregation",37,1,0.05,20.43,0.0480742803690218,1,1
+"GO:0006575","cellular modified amino acid metabolic process",44,1,0.06,17.18,0.056970722674424,1,1
+"GO:0098781","ncRNA transcription",45,1,0.06,16.8,0.0582365337849281,1,1
+"GO:0006412","translation",327,2,0.43,4.62,0.0603382065291922,1,1
+"GO:0006289","nucleotide-excision repair",47,1,0.06,16.09,0.0607643326592868,1,1
+"GO:0044403","biological process involved in symbiotic interaction",47,1,0.06,16.09,0.0607643326592868,1,1
+"GO:0043043","peptide biosynthetic process",335,2,0.44,4.51,0.0630932145203798,1,1
+"GO:0006518","peptide metabolic process",353,2,0.47,4.28,0.0694734544024223,1,1
+"GO:0051784","negative regulation of nuclear division",54,1,0.07,14,0.0695715734099226,1,1
+"GO:0016054","organic acid catabolic process",55,1,0.07,13.75,0.0708246756679565,1,1
+"GO:0046395","carboxylic acid catabolic process",55,1,0.07,13.75,0.0708246756679565,1,1
+"GO:0034641","cellular nitrogen compound metabolic process",1570,4,2.08,1.93,0.0725224607279483,1,1
+"GO:0034728","nucleosome organization",59,1,0.08,12.81,0.0758244313690865,1,1
+"GO:0046474","glycerophospholipid biosynthetic process",63,1,0.08,12,0.0808039826643596,1,1
+"GO:1902275","regulation of chromatin organization",64,1,0.08,11.81,0.0820457199387069,1,1
+"GO:0043604","amide biosynthetic process",395,2,0.52,3.83,0.0852968622954151,1,1
+"GO:0007091","metaphase/anaphase transition of mitotic cell cycle",67,1,0.09,11.28,0.0857633840589632,1,1
+"GO:0010965","regulation of mitotic sister chromatid separation",67,1,0.09,11.28,0.0857633840589632,1,1
+"GO:0030071","regulation of mitotic metaphase/anaphase transition",67,1,0.09,11.28,0.0857633840589632,1,1
+"GO:0044784","metaphase/anaphase transition of cell cycle",68,1,0.09,11.12,0.0870000923659515,1,1
+"GO:1902099","regulation of metaphase/anaphase transition of cell cycle",68,1,0.09,11.12,0.0870000923659515,1,1
+"GO:1905818","regulation of chromosome separation",68,1,0.09,11.12,0.0870000923659515,1,1
+"GO:0007093","mitotic cell cycle checkpoint signaling",69,1,0.09,10.96,0.0882355455562548,1,1
+"GO:0045017","glycerolipid biosynthetic process",69,1,0.09,10.96,0.0882355455562548,1,1
+"GO:2001251","negative regulation of chromosome organization",69,1,0.09,10.96,0.0882355455562548,1,1
+"GO:0051306","mitotic sister chromatid separation",70,1,0.09,10.8,0.0894697444793596,1,1
+"GO:1901991","negative regulation of mitotic cell cycle phase transition",71,1,0.09,10.65,0.0907026899844655,1,1
+"GO:0000075","cell cycle checkpoint signaling",78,1,0.1,9.69,0.099298284088573,1,1
+"GO:0034293","sexual sporulation",78,1,0.1,9.69,0.099298284088573,1,1
+"GO:0043935","sexual sporulation resulting in formation of a cellular spore",78,1,0.1,9.69,0.099298284088573,1,0.099298284088573
+"GO:0065004","protein-DNA complex assembly",78,1,0.1,9.69,0.099298284088573,1,1
+"GO:0044271","cellular nitrogen compound biosynthetic process",973,3,1.29,2.33,0.100946659419886,1,1
+"GO:0051304","chromosome separation",81,1,0.11,9.33,0.10296339366378,1,1
+"GO:0006650","glycerophospholipid metabolic process",82,1,0.11,9.22,0.104182607535797,1,1
+"GO:0033047","regulation of mitotic sister chromatid segregation",82,1,0.11,9.22,0.104182607535797,1,1
+"GO:0043603","amide metabolic process",446,2,0.59,3.39,0.106149391791238,1,1
+"GO:0031507","heterochromatin formation",85,1,0.11,8.89,0.107832793033166,1,1
+"GO:0008654","phospholipid biosynthetic process",86,1,0.11,8.79,0.109047038976639,1,1
+"GO:0033045","regulation of sister chromatid segregation",86,1,0.11,8.79,0.109047038976639,1,1
+"GO:0071166","ribonucleoprotein complex localization",86,1,0.11,8.79,0.109047038976639,1,0.109047038976639
+"GO:0006405","RNA export from nucleus",87,1,0.12,8.69,0.11026004505019,1,1
+"GO:0070828","heterochromatin organization",87,1,0.12,8.69,0.11026004505019,1,1
+"GO:0044282","small molecule catabolic process",92,1,0.12,8.22,0.11630650690992,1,1
+"GO:1901988","negative regulation of cell cycle phase transition",92,1,0.12,8.22,0.11630650690992,1,1
+"GO:0050658","RNA transport",93,1,0.12,8.13,0.117512091484394,1,1
+"GO:0051236","establishment of RNA localization",93,1,0.12,8.13,0.117512091484394,1,1
+"GO:0051983","regulation of chromosome segregation",93,1,0.12,8.13,0.117512091484394,1,1
+"GO:0044419","biological process involved in interspecies interaction between organisms",94,1,0.12,8.04,0.118716442093082,1,1
+"GO:0046486","glycerolipid metabolic process",94,1,0.12,8.04,0.118716442093082,1,1
+"GO:0050657","nucleic acid transport",94,1,0.12,8.04,0.118716442093082,1,1
+"GO:0044249","cellular biosynthetic process",1780,4,2.35,1.7,0.11988090574668,1,1
+"GO:0030435","sporulation resulting in formation of a cellular spore",95,1,0.13,7.96,0.119919559578279,1,1
+"GO:0006611","protein export from nucleus",96,1,0.13,7.88,0.121121444781996,1,0.121121444781996
+"GO:1901576","organic substance biosynthetic process",1787,4,2.36,1.69,0.121779435971517,1,1
+"GO:0045930","negative regulation of mitotic cell cycle",97,1,0.13,7.79,0.122322098545955,1,1
+"GO:0051168","nuclear export",97,1,0.13,7.79,0.122322098545955,1,1
+"GO:0009058","biosynthetic process",1791,4,2.37,1.69,0.122874383704075,1,1
+"GO:0048646","anatomical structure formation involved in morphogenesis",99,1,0.13,7.64,0.12471971512005,1,1
+"GO:0007088","regulation of mitotic nuclear division",100,1,0.13,7.56,0.125916679612194,1,1
+"GO:0043934","sporulation",100,1,0.13,7.56,0.125916679612194,1,1
+"GO:0006403","RNA localization",107,1,0.14,7.07,0.134261091972157,1,1
+"GO:0006790","sulfur compound metabolic process",107,1,0.14,7.07,0.134261091972157,1,1
+"GO:0006644","phospholipid metabolic process",109,1,0.14,6.94,0.136634197406736,1,1
+"GO:0010639","negative regulation of organelle organization",110,1,0.15,6.87,0.137818918919729,1,1
+"GO:0031503","protein-containing complex localization",113,1,0.15,6.69,0.141365768693012,1,0.141365768693012
+"GO:0044703","multi-organism reproductive process",118,1,0.16,6.41,0.147252852639514,1,0.147252852639514
+"GO:0051129","negative regulation of cellular component organization",118,1,0.16,6.41,0.147252852639514,1,1
+"GO:1901605","alpha-amino acid metabolic process",121,1,0.16,6.25,0.150770540384755,1,1
+"GO:0010948","negative regulation of cell cycle process",123,1,0.16,6.15,0.153109611706078,1,1
+"GO:0003006","developmental process involved in reproduction",124,1,0.16,6.1,0.154277333716825,1,1
+"GO:0015931","nucleobase-containing compound transport",126,1,0.17,6,0.156609154606839,1,1
+"GO:0051783","regulation of nuclear division",128,1,0.17,5.91,0.15893615020933,1,1
+"GO:0045814","negative regulation of gene expression, epigenetic",129,1,0.17,5.86,0.160097840609594,1,1
+"GO:0006913","nucleocytoplasmic transport",131,1,0.17,5.77,0.162417610769318,1,1
+"GO:0051169","nuclear transport",131,1,0.17,5.77,0.162417610769318,1,1
+"GO:0045786","negative regulation of cell cycle",132,1,0.17,5.73,0.163575692192382,1,1
+"GO:0072521","purine-containing compound metabolic process",133,1,0.18,5.68,0.164732572286168,1,1
+"GO:0040029","epigenetic regulation of gene expression",136,1,0.18,5.56,0.168196012901249,1,1
+"GO:0030154","cell differentiation",143,1,0.19,5.29,0.176235482809525,1,0.176235482809525
+"GO:1901990","regulation of mitotic cell cycle phase transition",145,1,0.19,5.21,0.178521731954048,1,1
+"GO:0010467","gene expression",1213,3,1.6,1.87,0.180345241633977,1,1
+"GO:0034655","nucleobase-containing compound catabolic process",147,1,0.19,5.14,0.180803218907725,1,1
+"GO:0044087","regulation of cellular component biogenesis",154,1,0.2,4.91,0.188751016492765,1,0.188751016492765
+"GO:0071103","DNA conformation change",154,1,0.2,4.91,0.188751016492765,1,0.188751016492765
+"GO:0000070","mitotic sister chromatid segregation",155,1,0.21,4.88,0.189881677096956,1,1
+"GO:0033044","regulation of chromosome organization",156,1,0.21,4.85,0.191011155414005,1,1
+"GO:0044270","cellular nitrogen compound catabolic process",158,1,0.21,4.78,0.193266568484258,1,1
+"GO:0046700","heterocycle catabolic process",160,1,0.21,4.73,0.195517262295818,1,1
+"GO:0019439","aromatic compound catabolic process",161,1,0.21,4.7,0.196640841538421,1,1
+"GO:0009653","anatomical structure morphogenesis",163,1,0.22,4.64,0.198884468812426,1,1
+"GO:0006520","amino acid metabolic process",165,1,0.22,4.58,0.201123393288342,1,1
+"GO:1901987","regulation of cell cycle phase transition",165,1,0.22,4.58,0.201123393288342,1,1
+"GO:0008610","lipid biosynthetic process",167,1,0.22,4.53,0.203357621542356,1,1
+"GO:1901361","organic cyclic compound catabolic process",168,1,0.22,4.5,0.204472976639952,1,1
+"GO:0000819","sister chromatid segregation",169,1,0.22,4.47,0.205587160146058,1,1
+"GO:0044772","mitotic cell cycle phase transition",174,1,0.23,4.34,0.211140532519726,1,1
+"GO:0140014","mitotic nuclear division",175,1,0.23,4.32,0.212247703702154,1,1
+"GO:0055086","nucleobase-containing small molecule metabolic process",182,1,0.24,4.15,0.219965303939366,1,1
+"GO:0090407","organophosphate biosynthetic process",183,1,0.24,4.13,0.221063171210387,1,1
+"GO:0098813","nuclear chromosome segregation",183,1,0.24,4.13,0.221063171210387,1,1
+"GO:0048856","anatomical structure development",184,1,0.24,4.11,0.222159879170668,1,1
+"GO:0006338","chromatin remodeling",192,1,0.25,3.94,0.230891905575799,1,1
+"GO:0044770","cell cycle phase transition",192,1,0.25,3.94,0.230891905575799,1,1
+"GO:0007059","chromosome segregation",193,1,0.26,3.92,0.231978216443629,1,1
+"GO:0007346","regulation of mitotic cell cycle",194,1,0.26,3.9,0.23306337615194,1,1
+"GO:0048869","cellular developmental process",198,1,0.26,3.82,0.237392519656464,1,1
+"GO:1903046","meiotic cell cycle process",199,1,0.26,3.8,0.238471935764522,1,0.238471935764522
+"GO:0006807","nitrogen compound metabolic process",2140,4,2.83,1.41,0.250594573121389,1,1
+"GO:0009059","macromolecule biosynthetic process",1406,3,1.86,1.61,0.26170631111968,1,1
+"GO:0051321","meiotic cell cycle",225,1,0.3,3.36,0.266136778895642,1,1
+"GO:0016072","rRNA metabolic process",229,1,0.3,3.3,0.270325037660099,1,1
+"GO:0044255","cellular lipid metabolic process",233,1,0.31,3.24,0.27449534356696,1,1
+"GO:0000280","nuclear division",234,1,0.31,3.23,0.275535120931966,1,1
+"GO:1901135","carbohydrate derivative metabolic process",237,1,0.31,3.19,0.278647747992632,1,1
+"GO:1901564","organonitrogen compound metabolic process",1443,3,1.91,1.57,0.278943329074076,1,1
+"GO:0048285","organelle fission",241,1,0.32,3.14,0.282782302239904,1,1
+"GO:0010564","regulation of cell cycle process",243,1,0.32,3.11,0.28484290155863,1,1
+"GO:0006325","chromatin organization",247,1,0.33,3.06,0.288950776569989,1,1
+"GO:0006629","lipid metabolic process",247,1,0.33,3.06,0.288950776569989,1,1
+"GO:0035556","intracellular signal transduction",250,1,0.33,3.02,0.292020049813418,1,1
+"GO:0006281","DNA repair",251,1,0.33,3.01,0.293040929337839,1,1
+"GO:0032502","developmental process",252,1,0.33,3,0.294060704412722,1,1
+"GO:0044238","primary metabolic process",2233,4,2.95,1.35,0.297113391918946,1,1
+"GO:1901565","organonitrogen compound catabolic process",257,1,0.34,2.94,0.299143040924115,1,1
+"GO:0019637","organophosphate metabolic process",261,1,0.35,2.9,0.303189111244571,1,1
+"GO:0051726","regulation of cell cycle",275,1,0.36,2.75,0.317212532204929,1,1
+"GO:0071824","protein-DNA complex organization",281,1,0.37,2.69,0.323157318876969,1,1
+"GO:0019752","carboxylic acid metabolic process",283,1,0.37,2.67,0.325130260669385,1,1
+"GO:0006974","DNA damage response",288,1,0.38,2.62,0.330043744808592,1,1
+"GO:0043436","oxoacid metabolic process",292,1,0.39,2.59,0.333955174563541,1,1
+"GO:0006082","organic acid metabolic process",293,1,0.39,2.58,0.334930350003418,1,1
+"GO:0033043","regulation of organelle organization",298,1,0.39,2.54,0.339790174459591,1,1
+"GO:0019953","sexual reproduction",307,1,0.41,2.46,0.348470683803546,1,1
+"GO:0010629","negative regulation of gene expression",314,1,0.42,2.41,0.355162786810994,1,1
+"GO:0007165","signal transduction",317,1,0.42,2.38,0.358014993232615,1,1
+"GO:0071704","organic substance metabolic process",2342,4,3.1,1.29,0.359558255262057,1,1
+"GO:0022414","reproductive process",334,1,0.44,2.26,0.373999192016846,1,1
+"GO:0010558","negative regulation of macromolecule biosynthetic process",335,1,0.44,2.26,0.374930048236895,1,1
+"GO:0000003","reproduction",352,1,0.47,2.15,0.390596340726292,1,1
+"GO:0009890","negative regulation of biosynthetic process",353,1,0.47,2.14,0.391508621653349,1,1
+"GO:0031327","negative regulation of cellular biosynthetic process",353,1,0.47,2.14,0.391508621653349,1,1
+"GO:0023052","signaling",354,1,0.47,2.14,0.39241987792942,1,1
+"GO:0044237","cellular metabolic process",2394,4,3.17,1.26,0.392592932241555,1,1
+"GO:0006259","DNA metabolic process",358,1,0.47,2.11,0.396054671870118,1,1
+"GO:0034660","ncRNA metabolic process",368,1,0.49,2.05,0.405070306733748,1,1
+"GO:1903047","mitotic cell cycle process",370,1,0.49,2.04,0.406861251236144,1,1
+"GO:0010605","negative regulation of macromolecule metabolic process",378,1,0.5,2,0.413984624535362,1,1
+"GO:0051128","regulation of cellular component organization",381,1,0.5,1.98,0.416639277031205,1,1
+"GO:0008152","metabolic process",2436,4,3.22,1.24,0.420895045019628,1,1
+"GO:0000278","mitotic cell cycle",387,1,0.51,1.95,0.421921514256065,1,1
+"GO:0031324","negative regulation of cellular metabolic process",402,1,0.53,1.88,0.434970166959648,1,1
+"GO:0009892","negative regulation of metabolic process",403,1,0.53,1.88,0.435832149923859,1,1
+"GO:0006886","intracellular protein transport",404,1,0.53,1.87,0.436693146261251,1,1
+"GO:0007154","cell communication",409,1,0.54,1.85,0.44098335489612,1,1
+"GO:0019538","protein metabolic process",1067,2,1.41,1.42,0.442080776833629,1,1
+"GO:0065003","protein-containing complex assembly",411,1,0.54,1.84,0.442692558300449,1,1
+"GO:0015833","peptide transport",412,1,0.54,1.83,0.443545688712542,1,0.443545688712542
+"GO:0015031","protein transport",420,1,0.56,1.8,0.450335520102767,1,1
+"GO:0042886","amide transport",423,1,0.56,1.79,0.452865617544794,1,1
+"GO:0045184","establishment of protein localization",431,1,0.57,1.75,0.459569847614124,1,1
+"GO:0006351","DNA-templated transcription",445,1,0.59,1.7,0.471153769541088,1,1
+"GO:0032774","RNA biosynthetic process",453,1,0.6,1.67,0.477688961429828,1,1
+"GO:0043170","macromolecule metabolic process",1839,3,2.43,1.23,0.489252527412735,1,1
+"GO:1901575","organic substance catabolic process",471,1,0.62,1.61,0.492171576920656,1,1
+"GO:0051276","chromosome organization",496,1,0.66,1.52,0.511784098090683,1,1
+"GO:0071705","nitrogen compound transport",498,1,0.66,1.52,0.513328168034369,1,1
+"GO:0006796","phosphate-containing compound metabolic process",505,1,0.67,1.5,0.518703585533326,1,1
+"GO:0022402","cell cycle process",512,1,0.68,1.48,0.524034349923899,1,1
+"GO:0006793","phosphorus metabolic process",515,1,0.68,1.47,0.526305355390888,1,1
+"GO:0044248","cellular catabolic process",528,1,0.7,1.43,0.536052606313837,1,1
+"GO:0048523","negative regulation of cellular process",533,1,0.71,1.42,0.539761200729406,1,1
+"GO:0048519","negative regulation of biological process",539,1,0.71,1.4,0.544182114636364,1,1
+"GO:0044281","small molecule metabolic process",542,1,0.72,1.39,0.546380589622976,1,1
+"GO:0007049","cell cycle",548,1,0.72,1.38,0.550753672019108,1,1
+"GO:0046907","intracellular transport",548,1,0.72,1.38,0.550753672019108,1,1
+"GO:0010468","regulation of gene expression",554,1,0.73,1.36,0.55509505918289,1,1
+"GO:0071702","organic substance transport",561,1,0.74,1.35,0.560120156410934,1,1
+"GO:0006139","nucleobase-containing compound metabolic process",1272,2,1.68,1.19,0.560196423014306,1,1
+"GO:0009056","catabolic process",565,1,0.75,1.34,0.562972458641088,1,1
+"GO:0033554","cellular response to stress",570,1,0.75,1.33,0.56651830346751,1,1
+"GO:0008104","protein localization",572,1,0.76,1.32,0.567930582600856,1,1
+"GO:0034654","nucleobase-containing compound biosynthetic process",581,1,0.77,1.3,0.574243180388448,1,1
+"GO:0070727","cellular macromolecule localization",582,1,0.77,1.3,0.574940285291619,1,1
+"GO:0010556","regulation of macromolecule biosynthetic process",592,1,0.78,1.28,0.581864348322143,1,1
+"GO:0051649","establishment of localization in cell",603,1,0.8,1.25,0.589382739666867,1,1
+"GO:0022607","cellular component assembly",604,1,0.8,1.25,0.590061165541023,1,1
+"GO:0006950","response to stress",605,1,0.8,1.25,0.590738750391368,1,1
+"GO:0006725","cellular aromatic compound metabolic process",1328,2,1.76,1.14,0.59125544834697,1,1
+"GO:0033036","macromolecule localization",612,1,0.81,1.24,0.595458354050106,1,1
+"GO:0031326","regulation of cellular biosynthetic process",620,1,0.82,1.22,0.600802072441684,1,1
+"GO:0009889","regulation of biosynthetic process",621,1,0.82,1.22,0.60146629528288,1,1
+"GO:0046483","heterocycle metabolic process",1348,2,1.78,1.12,0.60217568264448,1,1
+"GO:0019438","aromatic compound biosynthetic process",635,1,0.84,1.19,0.610678658416308,1,1
+"GO:0043933","protein-containing complex organization",638,1,0.84,1.18,0.612631772092429,1,1
+"GO:0018130","heterocycle biosynthetic process",655,1,0.87,1.15,0.623560976895049,1,1
+"GO:1901360","organic cyclic compound metabolic process",1389,2,1.84,1.09,0.624250039951229,1,1
+"GO:1901362","organic cyclic compound biosynthetic process",692,1,0.92,1.09,0.64654745761894,1,1
+"GO:0060255","regulation of macromolecule metabolic process",725,1,0.96,1.04,0.666145868353513,1,1
+"GO:0031323","regulation of cellular metabolic process",775,1,1.03,0.98,0.694273230438682,1,1
+"GO:0006810","transport",777,1,1.03,0.97,0.695360016638353,1,1
+"GO:0019222","regulation of metabolic process",778,1,1.03,0.97,0.695902321904684,1,1
+"GO:0051641","cellular localization",778,1,1.03,0.97,0.695902321904684,1,1
+"GO:0051234","establishment of localization",826,1,1.09,0.92,0.721092953910436,1,1
+"GO:0051716","cellular response to stimulus",844,1,1.12,0.9,0.730123599532913,1,1
+"GO:0044085","cellular component biogenesis",847,1,1.12,0.89,0.731607113042359,1,1
+"GO:0016070","RNA metabolic process",923,1,1.22,0.82,0.767191865788646,1,1
+"GO:0050896","response to stimulus",934,1,1.24,0.81,0.772032702812427,1,1
+"GO:0051179","localization",966,1,1.28,0.78,0.785686524444472,1,1
+"GO:0006996","organelle organization",1044,1,1.38,0.72,0.816397402199164,1,1
+"GO:0050794","regulation of cellular process",1065,1,1.41,0.71,0.824069279906695,1,1
+"GO:0050789","regulation of biological process",1092,1,1.44,0.69,0.833576821145065,1,1
+"GO:0090304","nucleic acid metabolic process",1107,1,1.46,0.68,0.838689287266596,1,1
+"GO:0016043","cellular component organization",1326,1,1.75,0.57,0.900745556340216,1,1
+"GO:0065007","biological regulation",1355,1,1.79,0.56,0.907360146286104,1,1
+"GO:0071840","cellular component organization or biogenesis",1512,1,2,0.5,0.93762402842688,1,1
+"GO:0009987","cellular process",2988,4,3.95,1.01,0.953201759469626,1,1
+"GO:0008150","biological_process",3024,4,4,1,1,1,1
+"GO:0000001","mitochondrion inheritance",19,0,0.03,0,1,1,1
+"GO:0000002","mitochondrial genome maintenance",29,0,0.04,0,1,1,1
+"GO:0000011","vacuole inheritance",11,0,0.01,0,1,1,1
+"GO:0000018","regulation of DNA recombination",31,0,0.04,0,1,1,1
+"GO:0000019","regulation of mitotic recombination",11,0,0.01,0,1,1,1
+"GO:0000022","mitotic spindle elongation",19,0,0.03,0,1,1,1
+"GO:0000027","ribosomal large subunit assembly",33,0,0.04,0,1,1,1
+"GO:0000028","ribosomal small subunit assembly",17,0,0.02,0,1,1,1
+"GO:0000032","cell wall mannoprotein biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0000038","very long-chain fatty acid metabolic process",5,0,0.01,0,1,1,1
+"GO:0000041","transition metal ion transport",27,0,0.04,0,1,1,1
+"GO:0000045","autophagosome assembly",27,0,0.04,0,1,1,1
+"GO:0000050","urea cycle",8,0,0.01,0,1,1,1
+"GO:0000054","ribosomal subunit export from nucleus",35,0,0.05,0,1,1,1
+"GO:0000055","ribosomal large subunit export from nucleus",18,0,0.02,0,1,1,1
+"GO:0000056","ribosomal small subunit export from nucleus",10,0,0.01,0,1,1,1
+"GO:0000073","initial mitotic spindle pole body separation",7,0,0.01,0,1,1,1
+"GO:0000076","DNA replication checkpoint signaling",19,0,0.03,0,1,1,1
+"GO:0000077","DNA damage checkpoint signaling",34,0,0.04,0,1,1,1
+"GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",17,0,0.02,0,1,1,1
+"GO:0000082","G1/S transition of mitotic cell cycle",41,0,0.05,0,1,1,1
+"GO:0000083","regulation of transcription involved in G1/S transition of mitotic cell cycle",11,0,0.01,0,1,1,1
+"GO:0000086","G2/M transition of mitotic cell cycle",59,0,0.08,0,1,1,1
+"GO:0000097","sulfur amino acid biosynthetic process",24,0,0.03,0,1,1,1
+"GO:0000103","sulfate assimilation",9,0,0.01,0,1,1,1
+"GO:0000105","histidine biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0000122","negative regulation of transcription by RNA polymerase II",85,0,0.11,0,1,1,1
+"GO:0000128","flocculation",6,0,0.01,0,1,1,1
+"GO:0000132","establishment of mitotic spindle orientation",9,0,0.01,0,1,1,1
+"GO:0000147","actin cortical patch assembly",17,0,0.02,0,1,1,1
+"GO:0000154","rRNA modification",21,0,0.03,0,1,1,1
+"GO:0000160","phosphorelay signal transduction system",5,0,0.01,0,1,1,1
+"GO:0000162","tryptophan biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0000165","MAPK cascade",36,0,0.05,0,1,1,1
+"GO:0000183","rDNA heterochromatin formation",19,0,0.03,0,1,1,1
+"GO:0000184","nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",22,0,0.03,0,1,1,1
+"GO:0000209","protein polyubiquitination",34,0,0.04,0,1,1,1
+"GO:0000212","meiotic spindle organization",5,0,0.01,0,1,1,1
+"GO:0000226","microtubule cytoskeleton organization",86,0,0.11,0,1,1,1
+"GO:0000244","spliceosomal tri-snRNP complex assembly",6,0,0.01,0,1,1,1
+"GO:0000245","spliceosomal complex assembly",35,0,0.05,0,1,1,1
+"GO:0000266","mitochondrial fission",8,0,0.01,0,1,1,1
+"GO:0000271","polysaccharide biosynthetic process",38,0,0.05,0,1,1,1
+"GO:0000272","polysaccharide catabolic process",24,0,0.03,0,1,1,1
+"GO:0000281","mitotic cytokinesis",89,0,0.12,0,1,1,1
+"GO:0000282","cellular bud site selection",23,0,0.03,0,1,1,1
+"GO:0000288","nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",46,0,0.06,0,1,1,1
+"GO:0000289","nuclear-transcribed mRNA poly(A) tail shortening",17,0,0.02,0,1,1,1
+"GO:0000290","deadenylation-dependent decapping of nuclear-transcribed mRNA",9,0,0.01,0,1,1,1
+"GO:0000291","nuclear-transcribed mRNA catabolic process, exonucleolytic",21,0,0.03,0,1,1,1
+"GO:0000302","response to reactive oxygen species",27,0,0.04,0,1,1,1
+"GO:0000338","protein deneddylation",10,0,0.01,0,1,1,1
+"GO:0000349","generation of catalytic spliceosome for first transesterification step",8,0,0.01,0,1,1,1
+"GO:0000350","generation of catalytic spliceosome for second transesterification step",9,0,0.01,0,1,1,1
+"GO:0000375","RNA splicing, via transesterification reactions",130,0,0.17,0,1,1,1
+"GO:0000377","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",128,0,0.17,0,1,1,1
+"GO:0000387","spliceosomal snRNP assembly",14,0,0.02,0,1,1,1
+"GO:0000393","spliceosomal conformational changes to generate catalytic conformation",18,0,0.02,0,1,1,1
+"GO:0000394","RNA splicing, via endonucleolytic cleavage and ligation",9,0,0.01,0,1,1,1
+"GO:0000395","mRNA 5'-splice site recognition",15,0,0.02,0,1,1,1
+"GO:0000398","mRNA splicing, via spliceosome",127,0,0.17,0,1,1,1
+"GO:0000409","regulation of transcription by galactose",5,0,0.01,0,1,1,1
+"GO:0000411","positive regulation of transcription by galactose",5,0,0.01,0,1,1,1
+"GO:0000413","protein peptidyl-prolyl isomerization",13,0,0.02,0,1,1,1
+"GO:0000422","autophagy of mitochondrion",19,0,0.03,0,1,1,1
+"GO:0000429","carbon catabolite regulation of transcription from RNA polymerase II promoter",29,0,0.04,0,1,1,1
+"GO:0000430","regulation of transcription from RNA polymerase II promoter by glucose",12,0,0.02,0,1,1,1
+"GO:0000433","carbon catabolite repression of transcription from RNA polymerase II promoter by glucose",11,0,0.01,0,1,1,1
+"GO:0000436","carbon catabolite activation of transcription from RNA polymerase II promoter",18,0,0.02,0,1,1,1
+"GO:0000447","endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",42,0,0.06,0,1,1,1
+"GO:0000448","cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",8,0,0.01,0,1,1,1
+"GO:0000460","maturation of 5.8S rRNA",74,0,0.1,0,1,1,1
+"GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",85,0,0.11,0,1,1,1
+"GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",37,0,0.05,0,1,1,1
+"GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",73,0,0.1,0,1,1,1
+"GO:0000467","exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",12,0,0.02,0,1,1,1
+"GO:0000470","maturation of LSU-rRNA",44,0,0.06,0,1,1,1
+"GO:0000472","endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",30,0,0.04,0,1,1,1
+"GO:0000479","endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",52,0,0.07,0,1,1,1
+"GO:0000480","endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",30,0,0.04,0,1,1,1
+"GO:0000491","small nucleolar ribonucleoprotein complex assembly",5,0,0.01,0,1,1,1
+"GO:0000706","meiotic DNA double-strand break processing",9,0,0.01,0,1,1,1
+"GO:0000709","meiotic joint molecule formation",6,0,0.01,0,1,1,1
+"GO:0000710","meiotic mismatch repair",11,0,0.01,0,1,1,1
+"GO:0000712","resolution of meiotic recombination intermediates",6,0,0.01,0,1,1,1
+"GO:0000722","telomere maintenance via recombination",67,0,0.09,0,1,1,1
+"GO:0000723","telomere maintenance",102,0,0.13,0,1,1,1
+"GO:0000724","double-strand break repair via homologous recombination",113,0,0.15,0,1,1,1
+"GO:0000725","recombinational repair",116,0,0.15,0,1,1,1
+"GO:0000727","double-strand break repair via break-induced replication",23,0,0.03,0,1,1,1
+"GO:0000729","DNA double-strand break processing",12,0,0.02,0,1,1,1
+"GO:0000731","DNA synthesis involved in DNA repair",23,0,0.03,0,1,1,1
+"GO:0000741","karyogamy",11,0,0.01,0,1,1,1
+"GO:0000742","karyogamy involved in conjugation with cellular fusion",11,0,0.01,0,1,1,1
+"GO:0000743","nuclear migration involved in conjugation with cellular fusion",5,0,0.01,0,1,1,1
+"GO:0000747","conjugation with cellular fusion",101,0,0.13,0,1,1,1
+"GO:0000749","response to pheromone triggering conjugation with cellular fusion",33,0,0.04,0,1,1,1
+"GO:0000750","pheromone-dependent signal transduction involved in conjugation with cellular fusion",20,0,0.03,0,1,1,1
+"GO:0000753","cell morphogenesis involved in conjugation with cellular fusion",9,0,0.01,0,1,1,1
+"GO:0000754","adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion",9,0,0.01,0,1,1,1
+"GO:0000755","cytogamy",5,0,0.01,0,1,1,1
+"GO:0000902","cell morphogenesis",68,0,0.09,0,1,1,1
+"GO:0000909","sporocarp development involved in sexual reproduction",10,0,0.01,0,1,1,1
+"GO:0000910","cytokinesis",95,0,0.13,0,1,1,1
+"GO:0000912","assembly of actomyosin apparatus involved in cytokinesis",23,0,0.03,0,1,1,1
+"GO:0000915","actomyosin contractile ring assembly",23,0,0.03,0,1,1,1
+"GO:0000916","actomyosin contractile ring contraction",28,0,0.04,0,1,1,1
+"GO:0000917","division septum assembly",31,0,0.04,0,1,1,1
+"GO:0000920","septum digestion after cytokinesis",22,0,0.03,0,1,1,1
+"GO:0000921","septin ring assembly",6,0,0.01,0,1,1,1
+"GO:0000956","nuclear-transcribed mRNA catabolic process",78,0,0.1,0,1,1,1
+"GO:0000959","mitochondrial RNA metabolic process",25,0,0.03,0,1,1,1
+"GO:0000963","mitochondrial RNA processing",11,0,0.01,0,1,1,1
+"GO:0000966","RNA 5'-end processing",34,0,0.04,0,1,1,1
+"GO:0000967","rRNA 5'-end processing",31,0,0.04,0,1,1,1
+"GO:0000972","transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery",10,0,0.01,0,1,1,1
+"GO:0000973","post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery",8,0,0.01,0,1,1,1
+"GO:0001100","negative regulation of exit from mitosis",12,0,0.02,0,1,1,1
+"GO:0001101","response to acid chemical",9,0,0.01,0,1,1,1
+"GO:0001112","DNA-templated transcription open complex formation",5,0,0.01,0,1,1,1
+"GO:0001120","protein-DNA complex remodeling",5,0,0.01,0,1,1,1
+"GO:0001173","DNA-templated transcriptional start site selection",8,0,0.01,0,1,1,1
+"GO:0001174","transcriptional start site selection at RNA polymerase II promoter",8,0,0.01,0,1,1,1
+"GO:0001403","invasive growth in response to glucose limitation",24,0,0.03,0,1,1,1
+"GO:0001410","chlamydospore formation",10,0,0.01,0,1,1,1
+"GO:0001505","regulation of neurotransmitter levels",12,0,0.02,0,1,1,1
+"GO:0001510","RNA methylation",32,0,0.04,0,1,1,1
+"GO:0001522","pseudouridine synthesis",12,0,0.02,0,1,1,1
+"GO:0001558","regulation of cell growth",22,0,0.03,0,1,1,1
+"GO:0001666","response to hypoxia",13,0,0.02,0,1,1,1
+"GO:0001676","long-chain fatty acid metabolic process",6,0,0.01,0,1,1,1
+"GO:0001678","intracellular glucose homeostasis",16,0,0.02,0,1,1,1
+"GO:0001731","formation of translation preinitiation complex",9,0,0.01,0,1,1,1
+"GO:0001732","formation of cytoplasmic translation initiation complex",12,0,0.02,0,1,1,1
+"GO:0001932","regulation of protein phosphorylation",89,0,0.12,0,1,1,1
+"GO:0001933","negative regulation of protein phosphorylation",21,0,0.03,0,1,1,1
+"GO:0001934","positive regulation of protein phosphorylation",58,0,0.08,0,1,1,1
+"GO:0002097","tRNA wobble base modification",25,0,0.03,0,1,1,1
+"GO:0002098","tRNA wobble uridine modification",22,0,0.03,0,1,1,1
+"GO:0002143","tRNA wobble position uridine thiolation",5,0,0.01,0,1,1,1
+"GO:0002183","cytoplasmic translational initiation",39,0,0.05,0,1,1,1
+"GO:0002184","cytoplasmic translational termination",8,0,0.01,0,1,1,1
+"GO:0002188","translation reinitiation",5,0,0.01,0,1,1,1
+"GO:0002376","immune system process",7,0,0.01,0,1,1,1
+"GO:0002682","regulation of immune system process",5,0,0.01,0,1,1,1
+"GO:0002684","positive regulation of immune system process",5,0,0.01,0,1,1,1
+"GO:0002790","peptide secretion",10,0,0.01,0,1,1,1
+"GO:0002831","regulation of response to biotic stimulus",14,0,0.02,0,1,1,1
+"GO:0002832","negative regulation of response to biotic stimulus",5,0,0.01,0,1,1,1
+"GO:0002833","positive regulation of response to biotic stimulus",9,0,0.01,0,1,1,1
+"GO:0003333","amino acid transmembrane transport",24,0,0.03,0,1,1,1
+"GO:0005975","carbohydrate metabolic process",150,0,0.2,0,1,1,1
+"GO:0005976","polysaccharide metabolic process",70,0,0.09,0,1,1,1
+"GO:0005977","glycogen metabolic process",18,0,0.02,0,1,1,1
+"GO:0005978","glycogen biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0005980","glycogen catabolic process",5,0,0.01,0,1,1,1
+"GO:0005984","disaccharide metabolic process",15,0,0.02,0,1,1,1
+"GO:0005991","trehalose metabolic process",9,0,0.01,0,1,1,1
+"GO:0005992","trehalose biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0005996","monosaccharide metabolic process",57,0,0.08,0,1,1,1
+"GO:0006002","fructose 6-phosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0006006","glucose metabolic process",38,0,0.05,0,1,1,1
+"GO:0006007","glucose catabolic process",10,0,0.01,0,1,1,1
+"GO:0006013","mannose metabolic process",5,0,0.01,0,1,1,1
+"GO:0006020","inositol metabolic process",6,0,0.01,0,1,1,1
+"GO:0006022","aminoglycan metabolic process",16,0,0.02,0,1,1,1
+"GO:0006023","aminoglycan biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0006030","chitin metabolic process",16,0,0.02,0,1,1,1
+"GO:0006031","chitin biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0006037","cell wall chitin metabolic process",13,0,0.02,0,1,1,1
+"GO:0006038","cell wall chitin biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0006040","amino sugar metabolic process",19,0,0.03,0,1,1,1
+"GO:0006056","mannoprotein metabolic process",5,0,0.01,0,1,1,1
+"GO:0006057","mannoprotein biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0006066","alcohol metabolic process",87,0,0.12,0,1,1,1
+"GO:0006067","ethanol metabolic process",6,0,0.01,0,1,1,1
+"GO:0006071","glycerol metabolic process",6,0,0.01,0,1,1,1
+"GO:0006074","(1->3)-beta-D-glucan metabolic process",8,0,0.01,0,1,1,1
+"GO:0006075","(1->3)-beta-D-glucan biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0006077","(1->6)-beta-D-glucan metabolic process",6,0,0.01,0,1,1,1
+"GO:0006078","(1->6)-beta-D-glucan biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0006081","cellular aldehyde metabolic process",25,0,0.03,0,1,1,1
+"GO:0006083","acetate metabolic process",6,0,0.01,0,1,1,1
+"GO:0006084","acetyl-CoA metabolic process",14,0,0.02,0,1,1,1
+"GO:0006085","acetyl-CoA biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0006086","acetyl-CoA biosynthetic process from pyruvate",5,0,0.01,0,1,1,1
+"GO:0006089","lactate metabolic process",5,0,0.01,0,1,1,1
+"GO:0006090","pyruvate metabolic process",24,0,0.03,0,1,1,1
+"GO:0006091","generation of precursor metabolites and energy",133,0,0.18,0,1,1,1
+"GO:0006094","gluconeogenesis",23,0,0.03,0,1,1,1
+"GO:0006096","glycolytic process",16,0,0.02,0,1,1,1
+"GO:0006098","pentose-phosphate shunt",12,0,0.02,0,1,1,1
+"GO:0006099","tricarboxylic acid cycle",16,0,0.02,0,1,1,1
+"GO:0006101","citrate metabolic process",17,0,0.02,0,1,1,1
+"GO:0006103","2-oxoglutarate metabolic process",5,0,0.01,0,1,1,1
+"GO:0006105","succinate metabolic process",5,0,0.01,0,1,1,1
+"GO:0006106","fumarate metabolic process",6,0,0.01,0,1,1,1
+"GO:0006109","regulation of carbohydrate metabolic process",35,0,0.05,0,1,1,1
+"GO:0006111","regulation of gluconeogenesis",14,0,0.02,0,1,1,1
+"GO:0006112","energy reserve metabolic process",21,0,0.03,0,1,1,1
+"GO:0006113","fermentation",5,0,0.01,0,1,1,1
+"GO:0006116","NADH oxidation",6,0,0.01,0,1,1,1
+"GO:0006119","oxidative phosphorylation",29,0,0.04,0,1,1,1
+"GO:0006121","mitochondrial electron transport, succinate to ubiquinone",5,0,0.01,0,1,1,1
+"GO:0006122","mitochondrial electron transport, ubiquinol to cytochrome c",8,0,0.01,0,1,1,1
+"GO:0006123","mitochondrial electron transport, cytochrome c to oxygen",5,0,0.01,0,1,1,1
+"GO:0006140","regulation of nucleotide metabolic process",6,0,0.01,0,1,1,1
+"GO:0006144","purine nucleobase metabolic process",18,0,0.02,0,1,1,1
+"GO:0006163","purine nucleotide metabolic process",116,0,0.15,0,1,1,1
+"GO:0006164","purine nucleotide biosynthetic process",65,0,0.09,0,1,1,1
+"GO:0006188","IMP biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0006189","'de novo' IMP biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0006206","pyrimidine nucleobase metabolic process",13,0,0.02,0,1,1,1
+"GO:0006207","'de novo' pyrimidine nucleobase biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0006213","pyrimidine nucleoside metabolic process",17,0,0.02,0,1,1,1
+"GO:0006220","pyrimidine nucleotide metabolic process",21,0,0.03,0,1,1,1
+"GO:0006221","pyrimidine nucleotide biosynthetic process",21,0,0.03,0,1,1,1
+"GO:0006222","UMP biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0006260","DNA replication",127,0,0.17,0,1,1,1
+"GO:0006261","DNA-templated DNA replication",122,0,0.16,0,1,1,1
+"GO:0006265","DNA topological change",10,0,0.01,0,1,1,1
+"GO:0006267","pre-replicative complex assembly involved in nuclear cell cycle DNA replication",16,0,0.02,0,1,1,1
+"GO:0006268","DNA unwinding involved in DNA replication",8,0,0.01,0,1,1,1
+"GO:0006269","DNA replication, synthesis of RNA primer",8,0,0.01,0,1,1,1
+"GO:0006270","DNA replication initiation",50,0,0.07,0,1,1,1
+"GO:0006271","DNA strand elongation involved in DNA replication",37,0,0.05,0,1,1,1
+"GO:0006272","leading strand elongation",10,0,0.01,0,1,1,1
+"GO:0006273","lagging strand elongation",22,0,0.03,0,1,1,1
+"GO:0006275","regulation of DNA replication",43,0,0.06,0,1,1,1
+"GO:0006276","plasmid maintenance",9,0,0.01,0,1,1,1
+"GO:0006278","RNA-templated DNA biosynthetic process",17,0,0.02,0,1,1,1
+"GO:0006279","premeiotic DNA replication",10,0,0.01,0,1,1,1
+"GO:0006282","regulation of DNA repair",19,0,0.03,0,1,1,1
+"GO:0006283","transcription-coupled nucleotide-excision repair",15,0,0.02,0,1,1,1
+"GO:0006284","base-excision repair",17,0,0.02,0,1,1,1
+"GO:0006298","mismatch repair",25,0,0.03,0,1,1,1
+"GO:0006301","postreplication repair",32,0,0.04,0,1,1,1
+"GO:0006302","double-strand break repair",141,0,0.19,0,1,1,1
+"GO:0006303","double-strand break repair via nonhomologous end joining",19,0,0.03,0,1,1,1
+"GO:0006310","DNA recombination",165,0,0.22,0,1,1,1
+"GO:0006312","mitotic recombination",85,0,0.11,0,1,1,1
+"GO:0006337","nucleosome disassembly",8,0,0.01,0,1,1,1
+"GO:0006352","DNA-templated transcription initiation",58,0,0.08,0,1,1,1
+"GO:0006353","DNA-templated transcription termination",29,0,0.04,0,1,1,1
+"GO:0006354","DNA-templated transcription elongation",75,0,0.1,0,1,1,1
+"GO:0006355","regulation of DNA-templated transcription",394,0,0.52,0,1,1,1
+"GO:0006356","regulation of transcription by RNA polymerase I",23,0,0.03,0,1,1,1
+"GO:0006357","regulation of transcription by RNA polymerase II",276,0,0.37,0,1,1,1
+"GO:0006359","regulation of transcription by RNA polymerase III",7,0,0.01,0,1,1,1
+"GO:0006360","transcription by RNA polymerase I",45,0,0.06,0,1,1,1
+"GO:0006362","transcription elongation by RNA polymerase I",8,0,0.01,0,1,1,1
+"GO:0006363","termination of RNA polymerase I transcription",5,0,0.01,0,1,1,1
+"GO:0006364","rRNA processing",199,0,0.26,0,1,1,1
+"GO:0006366","transcription by RNA polymerase II",309,0,0.41,0,1,1,1
+"GO:0006367","transcription initiation at RNA polymerase II promoter",52,0,0.07,0,1,1,1
+"GO:0006368","transcription elongation by RNA polymerase II",67,0,0.09,0,1,1,1
+"GO:0006369","termination of RNA polymerase II transcription",16,0,0.02,0,1,1,1
+"GO:0006370","7-methylguanosine mRNA capping",6,0,0.01,0,1,1,1
+"GO:0006376","mRNA splice site recognition",20,0,0.03,0,1,1,1
+"GO:0006378","mRNA polyadenylation",19,0,0.03,0,1,1,1
+"GO:0006383","transcription by RNA polymerase III",26,0,0.03,0,1,1,1
+"GO:0006384","transcription initiation at RNA polymerase III promoter",7,0,0.01,0,1,1,1
+"GO:0006388","tRNA splicing, via endonucleolytic cleavage and ligation",8,0,0.01,0,1,1,1
+"GO:0006396","RNA processing",432,0,0.57,0,1,1,1
+"GO:0006397","mRNA processing",165,0,0.22,0,1,1,1
+"GO:0006399","tRNA metabolic process",138,0,0.18,0,1,1,1
+"GO:0006400","tRNA modification",61,0,0.08,0,1,1,1
+"GO:0006401","RNA catabolic process",116,0,0.15,0,1,1,1
+"GO:0006402","mRNA catabolic process",91,0,0.12,0,1,1,1
+"GO:0006404","RNA import into nucleus",6,0,0.01,0,1,1,1
+"GO:0006406","mRNA export from nucleus",46,0,0.06,0,1,1,1
+"GO:0006407","rRNA export from nucleus",14,0,0.02,0,1,1,1
+"GO:0006413","translational initiation",51,0,0.07,0,1,1,1
+"GO:0006415","translational termination",19,0,0.03,0,1,1,1
+"GO:0006417","regulation of translation",114,0,0.15,0,1,1,1
+"GO:0006418","tRNA aminoacylation for protein translation",33,0,0.04,0,1,1,1
+"GO:0006446","regulation of translational initiation",19,0,0.03,0,1,1,1
+"GO:0006448","regulation of translational elongation",15,0,0.02,0,1,1,1
+"GO:0006449","regulation of translational termination",6,0,0.01,0,1,1,1
+"GO:0006450","regulation of translational fidelity",20,0,0.03,0,1,1,1
+"GO:0006452","translational frameshifting",5,0,0.01,0,1,1,1
+"GO:0006457","protein folding",83,0,0.11,0,1,1,1
+"GO:0006458","'de novo' protein folding",24,0,0.03,0,1,1,1
+"GO:0006465","signal peptide processing",5,0,0.01,0,1,1,1
+"GO:0006468","protein phosphorylation",163,0,0.22,0,1,1,1
+"GO:0006469","negative regulation of protein kinase activity",15,0,0.02,0,1,1,1
+"GO:0006470","protein dephosphorylation",49,0,0.06,0,1,1,1
+"GO:0006473","protein acetylation",49,0,0.06,0,1,1,1
+"GO:0006474","N-terminal protein amino acid acetylation",8,0,0.01,0,1,1,1
+"GO:0006475","internal protein amino acid acetylation",42,0,0.06,0,1,1,1
+"GO:0006476","protein deacetylation",22,0,0.03,0,1,1,1
+"GO:0006479","protein methylation",54,0,0.07,0,1,1,1
+"GO:0006482","protein demethylation",5,0,0.01,0,1,1,1
+"GO:0006486","protein glycosylation",47,0,0.06,0,1,1,1
+"GO:0006487","protein N-linked glycosylation",35,0,0.05,0,1,1,1
+"GO:0006488","dolichol-linked oligosaccharide biosynthetic process",12,0,0.02,0,1,1,1
+"GO:0006490","oligosaccharide-lipid intermediate biosynthetic process",13,0,0.02,0,1,1,1
+"GO:0006491","N-glycan processing",6,0,0.01,0,1,1,1
+"GO:0006493","protein O-linked glycosylation",11,0,0.01,0,1,1,1
+"GO:0006497","protein lipidation",33,0,0.04,0,1,1,1
+"GO:0006505","GPI anchor metabolic process",24,0,0.03,0,1,1,1
+"GO:0006506","GPI anchor biosynthetic process",23,0,0.03,0,1,1,1
+"GO:0006508","proteolysis",256,0,0.34,0,1,1,1
+"GO:0006511","ubiquitin-dependent protein catabolic process",158,0,0.21,0,1,1,1
+"GO:0006513","protein monoubiquitination",11,0,0.01,0,1,1,1
+"GO:0006515","protein quality control for misfolded or incompletely synthesized proteins",20,0,0.03,0,1,1,1
+"GO:0006525","arginine metabolic process",17,0,0.02,0,1,1,1
+"GO:0006526","arginine biosynthetic process",13,0,0.02,0,1,1,1
+"GO:0006535","cysteine biosynthetic process from serine",5,0,0.01,0,1,1,1
+"GO:0006536","glutamate metabolic process",24,0,0.03,0,1,1,1
+"GO:0006537","glutamate biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0006541","glutamine metabolic process",5,0,0.01,0,1,1,1
+"GO:0006544","glycine metabolic process",5,0,0.01,0,1,1,1
+"GO:0006547","histidine metabolic process",7,0,0.01,0,1,1,1
+"GO:0006549","isoleucine metabolic process",9,0,0.01,0,1,1,1
+"GO:0006551","leucine metabolic process",10,0,0.01,0,1,1,1
+"GO:0006553","lysine metabolic process",7,0,0.01,0,1,1,1
+"GO:0006560","proline metabolic process",8,0,0.01,0,1,1,1
+"GO:0006563","L-serine metabolic process",9,0,0.01,0,1,1,1
+"GO:0006566","threonine metabolic process",7,0,0.01,0,1,1,1
+"GO:0006568","tryptophan metabolic process",8,0,0.01,0,1,1,1
+"GO:0006573","valine metabolic process",9,0,0.01,0,1,1,1
+"GO:0006576","biogenic amine metabolic process",12,0,0.02,0,1,1,1
+"GO:0006586","indolalkylamine metabolic process",8,0,0.01,0,1,1,1
+"GO:0006591","ornithine metabolic process",9,0,0.01,0,1,1,1
+"GO:0006605","protein targeting",164,0,0.22,0,1,1,1
+"GO:0006606","protein import into nucleus",38,0,0.05,0,1,1,1
+"GO:0006607","NLS-bearing protein import into nucleus",6,0,0.01,0,1,1,1
+"GO:0006612","protein targeting to membrane",36,0,0.05,0,1,1,1
+"GO:0006613","cotranslational protein targeting to membrane",10,0,0.01,0,1,1,1
+"GO:0006614","SRP-dependent cotranslational protein targeting to membrane",9,0,0.01,0,1,1,1
+"GO:0006616","SRP-dependent cotranslational protein targeting to membrane, translocation",7,0,0.01,0,1,1,1
+"GO:0006620","post-translational protein targeting to endoplasmic reticulum membrane",14,0,0.02,0,1,1,1
+"GO:0006621","protein retention in ER lumen",8,0,0.01,0,1,1,1
+"GO:0006623","protein targeting to vacuole",69,0,0.09,0,1,1,1
+"GO:0006624","vacuolar protein processing",5,0,0.01,0,1,1,1
+"GO:0006625","protein targeting to peroxisome",17,0,0.02,0,1,1,1
+"GO:0006626","protein targeting to mitochondrion",47,0,0.06,0,1,1,1
+"GO:0006627","protein processing involved in protein targeting to mitochondrion",5,0,0.01,0,1,1,1
+"GO:0006631","fatty acid metabolic process",46,0,0.06,0,1,1,1
+"GO:0006633","fatty acid biosynthetic process",19,0,0.03,0,1,1,1
+"GO:0006635","fatty acid beta-oxidation",9,0,0.01,0,1,1,1
+"GO:0006637","acyl-CoA metabolic process",19,0,0.03,0,1,1,1
+"GO:0006643","membrane lipid metabolic process",65,0,0.09,0,1,1,1
+"GO:0006646","phosphatidylethanolamine biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0006655","phosphatidylglycerol biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0006658","phosphatidylserine metabolic process",7,0,0.01,0,1,1,1
+"GO:0006661","phosphatidylinositol biosynthetic process",41,0,0.05,0,1,1,1
+"GO:0006664","glycolipid metabolic process",34,0,0.04,0,1,1,1
+"GO:0006665","sphingolipid metabolic process",41,0,0.05,0,1,1,1
+"GO:0006672","ceramide metabolic process",13,0,0.02,0,1,1,1
+"GO:0006673","inositol phosphoceramide metabolic process",5,0,0.01,0,1,1,1
+"GO:0006687","glycosphingolipid metabolic process",9,0,0.01,0,1,1,1
+"GO:0006688","glycosphingolipid biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0006694","steroid biosynthetic process",38,0,0.05,0,1,1,1
+"GO:0006696","ergosterol biosynthetic process",33,0,0.04,0,1,1,1
+"GO:0006720","isoprenoid metabolic process",26,0,0.03,0,1,1,1
+"GO:0006721","terpenoid metabolic process",7,0,0.01,0,1,1,1
+"GO:0006730","one-carbon metabolic process",10,0,0.01,0,1,1,1
+"GO:0006734","NADH metabolic process",18,0,0.02,0,1,1,1
+"GO:0006735","NADH regeneration",10,0,0.01,0,1,1,1
+"GO:0006739","NADP metabolic process",17,0,0.02,0,1,1,1
+"GO:0006740","NADPH regeneration",14,0,0.02,0,1,1,1
+"GO:0006743","ubiquinone metabolic process",14,0,0.02,0,1,1,1
+"GO:0006744","ubiquinone biosynthetic process",14,0,0.02,0,1,1,1
+"GO:0006749","glutathione metabolic process",14,0,0.02,0,1,1,1
+"GO:0006753","nucleoside phosphate metabolic process",151,0,0.2,0,1,1,1
+"GO:0006754","ATP biosynthetic process",27,0,0.04,0,1,1,1
+"GO:0006760","folic acid-containing compound metabolic process",9,0,0.01,0,1,1,1
+"GO:0006766","vitamin metabolic process",33,0,0.04,0,1,1,1
+"GO:0006767","water-soluble vitamin metabolic process",33,0,0.04,0,1,1,1
+"GO:0006771","riboflavin metabolic process",6,0,0.01,0,1,1,1
+"GO:0006772","thiamine metabolic process",6,0,0.01,0,1,1,1
+"GO:0006778","porphyrin-containing compound metabolic process",16,0,0.02,0,1,1,1
+"GO:0006779","porphyrin-containing compound biosynthetic process",15,0,0.02,0,1,1,1
+"GO:0006783","heme biosynthetic process",15,0,0.02,0,1,1,1
+"GO:0006797","polyphosphate metabolic process",7,0,0.01,0,1,1,1
+"GO:0006808","regulation of nitrogen utilization",5,0,0.01,0,1,1,1
+"GO:0006811","monoatomic ion transport",207,0,0.27,0,1,1,1
+"GO:0006812","monoatomic cation transport",116,0,0.15,0,1,1,1
+"GO:0006813","potassium ion transport",11,0,0.01,0,1,1,1
+"GO:0006814","sodium ion transport",5,0,0.01,0,1,1,1
+"GO:0006816","calcium ion transport",20,0,0.03,0,1,1,1
+"GO:0006817","phosphate ion transport",8,0,0.01,0,1,1,1
+"GO:0006820","monoatomic anion transport",117,0,0.15,0,1,1,1
+"GO:0006825","copper ion transport",7,0,0.01,0,1,1,1
+"GO:0006826","iron ion transport",14,0,0.02,0,1,1,1
+"GO:0006828","manganese ion transport",6,0,0.01,0,1,1,1
+"GO:0006835","dicarboxylic acid transport",11,0,0.01,0,1,1,1
+"GO:0006836","neurotransmitter transport",5,0,0.01,0,1,1,1
+"GO:0006839","mitochondrial transport",93,0,0.12,0,1,1,1
+"GO:0006855","xenobiotic transmembrane transport",28,0,0.04,0,1,1,1
+"GO:0006857","oligopeptide transport",11,0,0.01,0,1,1,1
+"GO:0006862","nucleotide transport",23,0,0.03,0,1,1,1
+"GO:0006865","amino acid transport",27,0,0.04,0,1,1,1
+"GO:0006869","lipid transport",33,0,0.04,0,1,1,1
+"GO:0006873","intracellular monoatomic ion homeostasis",103,0,0.14,0,1,1,1
+"GO:0006874","intracellular calcium ion homeostasis",21,0,0.03,0,1,1,1
+"GO:0006878","intracellular copper ion homeostasis",11,0,0.01,0,1,1,1
+"GO:0006879","intracellular iron ion homeostasis",29,0,0.04,0,1,1,1
+"GO:0006882","intracellular zinc ion homeostasis",6,0,0.01,0,1,1,1
+"GO:0006885","regulation of pH",25,0,0.03,0,1,1,1
+"GO:0006887","exocytosis",37,0,0.05,0,1,1,1
+"GO:0006888","endoplasmic reticulum to Golgi vesicle-mediated transport",73,0,0.1,0,1,1,1
+"GO:0006890","retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",24,0,0.03,0,1,1,1
+"GO:0006891","intra-Golgi vesicle-mediated transport",22,0,0.03,0,1,1,1
+"GO:0006892","post-Golgi vesicle-mediated transport",65,0,0.09,0,1,1,1
+"GO:0006893","Golgi to plasma membrane transport",27,0,0.04,0,1,1,1
+"GO:0006895","Golgi to endosome transport",18,0,0.02,0,1,1,1
+"GO:0006896","Golgi to vacuole transport",25,0,0.03,0,1,1,1
+"GO:0006897","endocytosis",92,0,0.12,0,1,1,1
+"GO:0006898","receptor-mediated endocytosis",14,0,0.02,0,1,1,1
+"GO:0006900","vesicle budding from membrane",21,0,0.03,0,1,1,1
+"GO:0006903","vesicle targeting",20,0,0.03,0,1,1,1
+"GO:0006904","vesicle docking involved in exocytosis",11,0,0.01,0,1,1,1
+"GO:0006906","vesicle fusion",41,0,0.05,0,1,1,1
+"GO:0006914","autophagy",110,0,0.15,0,1,1,1
+"GO:0006915","apoptotic process",38,0,0.05,0,1,1,1
+"GO:0006952","defense response",15,0,0.02,0,1,1,1
+"GO:0006955","immune response",5,0,0.01,0,1,1,1
+"GO:0006970","response to osmotic stress",64,0,0.08,0,1,1,1
+"GO:0006972","hyperosmotic response",10,0,0.01,0,1,1,1
+"GO:0006979","response to oxidative stress",95,0,0.13,0,1,1,1
+"GO:0006984","ER-nucleus signaling pathway",12,0,0.02,0,1,1,1
+"GO:0006986","response to unfolded protein",33,0,0.04,0,1,1,1
+"GO:0006991","response to sterol depletion",11,0,0.01,0,1,1,1
+"GO:0006995","cellular response to nitrogen starvation",17,0,0.02,0,1,1,1
+"GO:0006997","nucleus organization",67,0,0.09,0,1,1,1
+"GO:0006998","nuclear envelope organization",11,0,0.01,0,1,1,1
+"GO:0006999","nuclear pore organization",10,0,0.01,0,1,1,1
+"GO:0007000","nucleolus organization",26,0,0.03,0,1,1,1
+"GO:0007004","telomere maintenance via telomerase",14,0,0.02,0,1,1,1
+"GO:0007005","mitochondrion organization",173,0,0.23,0,1,1,1
+"GO:0007006","mitochondrial membrane organization",40,0,0.05,0,1,1,1
+"GO:0007007","inner mitochondrial membrane organization",19,0,0.03,0,1,1,1
+"GO:0007008","outer mitochondrial membrane organization",9,0,0.01,0,1,1,1
+"GO:0007009","plasma membrane organization",10,0,0.01,0,1,1,1
+"GO:0007010","cytoskeleton organization",208,0,0.28,0,1,1,1
+"GO:0007015","actin filament organization",61,0,0.08,0,1,1,1
+"GO:0007017","microtubule-based process",97,0,0.13,0,1,1,1
+"GO:0007018","microtubule-based movement",29,0,0.04,0,1,1,1
+"GO:0007019","microtubule depolymerization",8,0,0.01,0,1,1,1
+"GO:0007020","microtubule nucleation",13,0,0.02,0,1,1,1
+"GO:0007021","tubulin complex assembly",11,0,0.01,0,1,1,1
+"GO:0007029","endoplasmic reticulum organization",31,0,0.04,0,1,1,1
+"GO:0007030","Golgi organization",18,0,0.02,0,1,1,1
+"GO:0007031","peroxisome organization",28,0,0.04,0,1,1,1
+"GO:0007032","endosome organization",14,0,0.02,0,1,1,1
+"GO:0007033","vacuole organization",70,0,0.09,0,1,1,1
+"GO:0007034","vacuolar transport",119,0,0.16,0,1,1,1
+"GO:0007035","vacuolar acidification",22,0,0.03,0,1,1,1
+"GO:0007051","spindle organization",42,0,0.06,0,1,1,1
+"GO:0007052","mitotic spindle organization",35,0,0.05,0,1,1,1
+"GO:0007062","sister chromatid cohesion",38,0,0.05,0,1,1,1
+"GO:0007063","regulation of sister chromatid cohesion",7,0,0.01,0,1,1,1
+"GO:0007064","mitotic sister chromatid cohesion",24,0,0.03,0,1,1,1
+"GO:0007076","mitotic chromosome condensation",15,0,0.02,0,1,1,1
+"GO:0007080","mitotic metaphase chromosome alignment",28,0,0.04,0,1,1,1
+"GO:0007089","traversing start control point of mitotic cell cycle",9,0,0.01,0,1,1,1
+"GO:0007095","mitotic G2 DNA damage checkpoint signaling",9,0,0.01,0,1,1,1
+"GO:0007096","regulation of exit from mitosis",32,0,0.04,0,1,1,1
+"GO:0007097","nuclear migration",25,0,0.03,0,1,1,1
+"GO:0007105","cytokinesis, division site positioning",7,0,0.01,0,1,1,1
+"GO:0007114","cell budding",28,0,0.04,0,1,1,1
+"GO:0007117","budding cell bud growth",20,0,0.03,0,1,1,1
+"GO:0007118","budding cell apical bud growth",15,0,0.02,0,1,1,1
+"GO:0007120","axial cellular bud site selection",5,0,0.01,0,1,1,1
+"GO:0007121","bipolar cellular bud site selection",6,0,0.01,0,1,1,1
+"GO:0007124","pseudohyphal growth",25,0,0.03,0,1,1,1
+"GO:0007127","meiosis I",86,0,0.11,0,1,1,1
+"GO:0007129","homologous chromosome pairing at meiosis",14,0,0.02,0,1,1,1
+"GO:0007130","synaptonemal complex assembly",6,0,0.01,0,1,1,1
+"GO:0007131","reciprocal meiotic recombination",38,0,0.05,0,1,1,1
+"GO:0007135","meiosis II",11,0,0.01,0,1,1,1
+"GO:0007155","cell adhesion",28,0,0.04,0,1,1,1
+"GO:0007163","establishment or maintenance of cell polarity",118,0,0.16,0,1,1,1
+"GO:0007166","cell surface receptor signaling pathway",8,0,0.01,0,1,1,1
+"GO:0007167","enzyme-linked receptor protein signaling pathway",5,0,0.01,0,1,1,1
+"GO:0007169","transmembrane receptor protein tyrosine kinase signaling pathway",5,0,0.01,0,1,1,1
+"GO:0007186","G protein-coupled receptor signaling pathway",29,0,0.04,0,1,1,1
+"GO:0007187","G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",7,0,0.01,0,1,1,1
+"GO:0007188","adenylate cyclase-modulating G protein-coupled receptor signaling pathway",10,0,0.01,0,1,1,1
+"GO:0007189","adenylate cyclase-activating G protein-coupled receptor signaling pathway",9,0,0.01,0,1,1,1
+"GO:0007204","positive regulation of cytosolic calcium ion concentration",7,0,0.01,0,1,1,1
+"GO:0007231","osmosensory signaling pathway",13,0,0.02,0,1,1,1
+"GO:0007264","small GTPase mediated signal transduction",83,0,0.11,0,1,1,1
+"GO:0007265","Ras protein signal transduction",57,0,0.08,0,1,1,1
+"GO:0007266","Rho protein signal transduction",22,0,0.03,0,1,1,1
+"GO:0007275","multicellular organism development",26,0,0.03,0,1,1,1
+"GO:0007323","peptide pheromone maturation",6,0,0.01,0,1,1,1
+"GO:0007530","sex determination",25,0,0.03,0,1,1,1
+"GO:0007531","mating type determination",25,0,0.03,0,1,1,1
+"GO:0007533","mating type switching",24,0,0.03,0,1,1,1
+"GO:0007534","gene conversion at mating-type locus",9,0,0.01,0,1,1,1
+"GO:0007535","donor selection",5,0,0.01,0,1,1,1
+"GO:0007584","response to nutrient",43,0,0.06,0,1,1,1
+"GO:0008033","tRNA processing",81,0,0.11,0,1,1,1
+"GO:0008064","regulation of actin polymerization or depolymerization",31,0,0.04,0,1,1,1
+"GO:0008154","actin polymerization or depolymerization",32,0,0.04,0,1,1,1
+"GO:0008156","negative regulation of DNA replication",19,0,0.03,0,1,1,1
+"GO:0008202","steroid metabolic process",42,0,0.06,0,1,1,1
+"GO:0008204","ergosterol metabolic process",33,0,0.04,0,1,1,1
+"GO:0008213","protein alkylation",54,0,0.07,0,1,1,1
+"GO:0008214","protein dealkylation",5,0,0.01,0,1,1,1
+"GO:0008219","cell death",42,0,0.06,0,1,1,1
+"GO:0008277","regulation of G protein-coupled receptor signaling pathway",10,0,0.01,0,1,1,1
+"GO:0008283","cell population proliferation",13,0,0.02,0,1,1,1
+"GO:0008298","intracellular mRNA localization",16,0,0.02,0,1,1,1
+"GO:0008299","isoprenoid biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0008360","regulation of cell shape",54,0,0.07,0,1,1,1
+"GO:0008361","regulation of cell size",27,0,0.04,0,1,1,1
+"GO:0008380","RNA splicing",144,0,0.19,0,1,1,1
+"GO:0008535","respiratory chain complex IV assembly",12,0,0.02,0,1,1,1
+"GO:0008608","attachment of spindle microtubules to kinetochore",36,0,0.05,0,1,1,1
+"GO:0008643","carbohydrate transport",10,0,0.01,0,1,1,1
+"GO:0008645","hexose transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0008652","amino acid biosynthetic process",89,0,0.12,0,1,1,1
+"GO:0008655","pyrimidine-containing compound salvage",10,0,0.01,0,1,1,1
+"GO:0009051","pentose-phosphate shunt, oxidative branch",6,0,0.01,0,1,1,1
+"GO:0009057","macromolecule catabolic process",329,0,0.44,0,1,1,1
+"GO:0009060","aerobic respiration",58,0,0.08,0,1,1,1
+"GO:0009062","fatty acid catabolic process",15,0,0.02,0,1,1,1
+"GO:0009064","glutamine family amino acid metabolic process",41,0,0.05,0,1,1,1
+"GO:0009065","glutamine family amino acid catabolic process",11,0,0.01,0,1,1,1
+"GO:0009067","aspartate family amino acid biosynthetic process",29,0,0.04,0,1,1,1
+"GO:0009070","serine family amino acid biosynthetic process",16,0,0.02,0,1,1,1
+"GO:0009072","aromatic amino acid metabolic process",16,0,0.02,0,1,1,1
+"GO:0009073","aromatic amino acid family biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0009074","aromatic amino acid family catabolic process",7,0,0.01,0,1,1,1
+"GO:0009081","branched-chain amino acid metabolic process",15,0,0.02,0,1,1,1
+"GO:0009082","branched-chain amino acid biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0009084","glutamine family amino acid biosynthetic process",26,0,0.03,0,1,1,1
+"GO:0009085","lysine biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0009086","methionine biosynthetic process",18,0,0.02,0,1,1,1
+"GO:0009088","threonine biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009092","homoserine metabolic process",11,0,0.01,0,1,1,1
+"GO:0009097","isoleucine biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0009098","leucine biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009099","valine biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009100","glycoprotein metabolic process",56,0,0.07,0,1,1,1
+"GO:0009101","glycoprotein biosynthetic process",49,0,0.06,0,1,1,1
+"GO:0009110","vitamin biosynthetic process",30,0,0.04,0,1,1,1
+"GO:0009112","nucleobase metabolic process",31,0,0.04,0,1,1,1
+"GO:0009113","purine nucleobase biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0009117","nucleotide metabolic process",149,0,0.2,0,1,1,1
+"GO:0009123","nucleoside monophosphate metabolic process",75,0,0.1,0,1,1,1
+"GO:0009124","nucleoside monophosphate biosynthetic process",47,0,0.06,0,1,1,1
+"GO:0009126","purine nucleoside monophosphate metabolic process",60,0,0.08,0,1,1,1
+"GO:0009127","purine nucleoside monophosphate biosynthetic process",37,0,0.05,0,1,1,1
+"GO:0009129","pyrimidine nucleoside monophosphate metabolic process",9,0,0.01,0,1,1,1
+"GO:0009130","pyrimidine nucleoside monophosphate biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0009132","nucleoside diphosphate metabolic process",23,0,0.03,0,1,1,1
+"GO:0009133","nucleoside diphosphate biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009135","purine nucleoside diphosphate metabolic process",18,0,0.02,0,1,1,1
+"GO:0009141","nucleoside triphosphate metabolic process",60,0,0.08,0,1,1,1
+"GO:0009142","nucleoside triphosphate biosynthetic process",35,0,0.05,0,1,1,1
+"GO:0009144","purine nucleoside triphosphate metabolic process",53,0,0.07,0,1,1,1
+"GO:0009145","purine nucleoside triphosphate biosynthetic process",30,0,0.04,0,1,1,1
+"GO:0009147","pyrimidine nucleoside triphosphate metabolic process",8,0,0.01,0,1,1,1
+"GO:0009148","pyrimidine nucleoside triphosphate biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009150","purine ribonucleotide metabolic process",89,0,0.12,0,1,1,1
+"GO:0009152","purine ribonucleotide biosynthetic process",54,0,0.07,0,1,1,1
+"GO:0009156","ribonucleoside monophosphate biosynthetic process",45,0,0.06,0,1,1,1
+"GO:0009161","ribonucleoside monophosphate metabolic process",69,0,0.09,0,1,1,1
+"GO:0009163","nucleoside biosynthetic process",20,0,0.03,0,1,1,1
+"GO:0009165","nucleotide biosynthetic process",92,0,0.12,0,1,1,1
+"GO:0009166","nucleotide catabolic process",19,0,0.03,0,1,1,1
+"GO:0009167","purine ribonucleoside monophosphate metabolic process",60,0,0.08,0,1,1,1
+"GO:0009168","purine ribonucleoside monophosphate biosynthetic process",37,0,0.05,0,1,1,1
+"GO:0009173","pyrimidine ribonucleoside monophosphate metabolic process",7,0,0.01,0,1,1,1
+"GO:0009174","pyrimidine ribonucleoside monophosphate biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0009179","purine ribonucleoside diphosphate metabolic process",18,0,0.02,0,1,1,1
+"GO:0009185","ribonucleoside diphosphate metabolic process",20,0,0.03,0,1,1,1
+"GO:0009199","ribonucleoside triphosphate metabolic process",54,0,0.07,0,1,1,1
+"GO:0009200","deoxyribonucleoside triphosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0009201","ribonucleoside triphosphate biosynthetic process",32,0,0.04,0,1,1,1
+"GO:0009205","purine ribonucleoside triphosphate metabolic process",51,0,0.07,0,1,1,1
+"GO:0009206","purine ribonucleoside triphosphate biosynthetic process",29,0,0.04,0,1,1,1
+"GO:0009211","pyrimidine deoxyribonucleoside triphosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0009218","pyrimidine ribonucleotide metabolic process",12,0,0.02,0,1,1,1
+"GO:0009219","pyrimidine deoxyribonucleotide metabolic process",5,0,0.01,0,1,1,1
+"GO:0009220","pyrimidine ribonucleotide biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0009221","pyrimidine deoxyribonucleotide biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009225","nucleotide-sugar metabolic process",8,0,0.01,0,1,1,1
+"GO:0009228","thiamine biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009231","riboflavin biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009240","isopentenyl diphosphate biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009247","glycolipid biosynthetic process",29,0,0.04,0,1,1,1
+"GO:0009249","protein lipoylation",5,0,0.01,0,1,1,1
+"GO:0009250","glucan biosynthetic process",26,0,0.03,0,1,1,1
+"GO:0009251","glucan catabolic process",14,0,0.02,0,1,1,1
+"GO:0009259","ribonucleotide metabolic process",103,0,0.14,0,1,1,1
+"GO:0009260","ribonucleotide biosynthetic process",65,0,0.09,0,1,1,1
+"GO:0009262","deoxyribonucleotide metabolic process",5,0,0.01,0,1,1,1
+"GO:0009263","deoxyribonucleotide biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009265","2'-deoxyribonucleotide biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0009266","response to temperature stimulus",47,0,0.06,0,1,1,1
+"GO:0009267","cellular response to starvation",98,0,0.13,0,1,1,1
+"GO:0009268","response to pH",33,0,0.04,0,1,1,1
+"GO:0009272","fungal-type cell wall biogenesis",51,0,0.07,0,1,1,1
+"GO:0009300","antisense RNA transcription",6,0,0.01,0,1,1,1
+"GO:0009304","tRNA transcription",12,0,0.02,0,1,1,1
+"GO:0009306","protein secretion",10,0,0.01,0,1,1,1
+"GO:0009308","amine metabolic process",21,0,0.03,0,1,1,1
+"GO:0009309","amine biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0009310","amine catabolic process",5,0,0.01,0,1,1,1
+"GO:0009311","oligosaccharide metabolic process",19,0,0.03,0,1,1,1
+"GO:0009312","oligosaccharide biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0009313","oligosaccharide catabolic process",11,0,0.01,0,1,1,1
+"GO:0009314","response to radiation",33,0,0.04,0,1,1,1
+"GO:0009394","2'-deoxyribonucleotide metabolic process",5,0,0.01,0,1,1,1
+"GO:0009396","folic acid-containing compound biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0009403","toxin biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0009404","toxin metabolic process",7,0,0.01,0,1,1,1
+"GO:0009408","response to heat",45,0,0.06,0,1,1,1
+"GO:0009410","response to xenobiotic stimulus",11,0,0.01,0,1,1,1
+"GO:0009411","response to UV",27,0,0.04,0,1,1,1
+"GO:0009416","response to light stimulus",30,0,0.04,0,1,1,1
+"GO:0009435","NAD biosynthetic process",19,0,0.03,0,1,1,1
+"GO:0009451","RNA modification",84,0,0.11,0,1,1,1
+"GO:0009452","7-methylguanosine RNA capping",6,0,0.01,0,1,1,1
+"GO:0009605","response to external stimulus",171,0,0.23,0,1,1,1
+"GO:0009607","response to biotic stimulus",63,0,0.08,0,1,1,1
+"GO:0009628","response to abiotic stimulus",159,0,0.21,0,1,1,1
+"GO:0009636","response to toxic substance",46,0,0.06,0,1,1,1
+"GO:0009651","response to salt stress",18,0,0.02,0,1,1,1
+"GO:0009719","response to endogenous stimulus",28,0,0.04,0,1,1,1
+"GO:0009743","response to carbohydrate",15,0,0.02,0,1,1,1
+"GO:0009746","response to hexose",15,0,0.02,0,1,1,1
+"GO:0009749","response to glucose",15,0,0.02,0,1,1,1
+"GO:0009756","carbohydrate mediated signaling",12,0,0.02,0,1,1,1
+"GO:0009757","hexose mediated signaling",12,0,0.02,0,1,1,1
+"GO:0009826","unidimensional cell growth",6,0,0.01,0,1,1,1
+"GO:0009891","positive regulation of biosynthetic process",258,0,0.34,0,1,1,1
+"GO:0009893","positive regulation of metabolic process",407,0,0.54,0,1,1,1
+"GO:0009894","regulation of catabolic process",156,0,0.21,0,1,1,1
+"GO:0009895","negative regulation of catabolic process",22,0,0.03,0,1,1,1
+"GO:0009896","positive regulation of catabolic process",124,0,0.16,0,1,1,1
+"GO:0009966","regulation of signal transduction",133,0,0.18,0,1,1,1
+"GO:0009967","positive regulation of signal transduction",43,0,0.06,0,1,1,1
+"GO:0009968","negative regulation of signal transduction",62,0,0.08,0,1,1,1
+"GO:0009991","response to extracellular stimulus",159,0,0.21,0,1,1,1
+"GO:0010033","response to organic substance",184,0,0.24,0,1,1,1
+"GO:0010035","response to inorganic substance",54,0,0.07,0,1,1,1
+"GO:0010038","response to metal ion",37,0,0.05,0,1,1,1
+"GO:0010039","response to iron ion",5,0,0.01,0,1,1,1
+"GO:0010106","cellular response to iron ion starvation",10,0,0.01,0,1,1,1
+"GO:0010182","sugar mediated signaling pathway",12,0,0.02,0,1,1,1
+"GO:0010226","response to lithium ion",5,0,0.01,0,1,1,1
+"GO:0010243","response to organonitrogen compound",61,0,0.08,0,1,1,1
+"GO:0010255","glucose mediated signaling pathway",12,0,0.02,0,1,1,1
+"GO:0010256","endomembrane system organization",76,0,0.1,0,1,1,1
+"GO:0010383","cell wall polysaccharide metabolic process",39,0,0.05,0,1,1,1
+"GO:0010389","regulation of G2/M transition of mitotic cell cycle",49,0,0.06,0,1,1,1
+"GO:0010410","hemicellulose metabolic process",5,0,0.01,0,1,1,1
+"GO:0010447","response to acidic pH",7,0,0.01,0,1,1,1
+"GO:0010458","exit from mitosis",37,0,0.05,0,1,1,1
+"GO:0010498","proteasomal protein catabolic process",135,0,0.18,0,1,1,1
+"GO:0010499","proteasomal ubiquitin-independent protein catabolic process",16,0,0.02,0,1,1,1
+"GO:0010501","RNA secondary structure unwinding",29,0,0.04,0,1,1,1
+"GO:0010506","regulation of autophagy",28,0,0.04,0,1,1,1
+"GO:0010507","negative regulation of autophagy",8,0,0.01,0,1,1,1
+"GO:0010508","positive regulation of autophagy",16,0,0.02,0,1,1,1
+"GO:0010514","induction of conjugation with cellular fusion",21,0,0.03,0,1,1,1
+"GO:0010515","negative regulation of induction of conjugation with cellular fusion",10,0,0.01,0,1,1,1
+"GO:0010520","regulation of reciprocal meiotic recombination",13,0,0.02,0,1,1,1
+"GO:0010526","retrotransposon silencing",5,0,0.01,0,1,1,1
+"GO:0010557","positive regulation of macromolecule biosynthetic process",241,0,0.32,0,1,1,1
+"GO:0010562","positive regulation of phosphorus metabolic process",75,0,0.1,0,1,1,1
+"GO:0010563","negative regulation of phosphorus metabolic process",39,0,0.05,0,1,1,1
+"GO:0010565","regulation of cellular ketone metabolic process",16,0,0.02,0,1,1,1
+"GO:0010569","regulation of double-strand break repair via homologous recombination",5,0,0.01,0,1,1,1
+"GO:0010570","regulation of filamentous growth",49,0,0.06,0,1,1,1
+"GO:0010603","regulation of cytoplasmic mRNA processing body assembly",6,0,0.01,0,1,1,1
+"GO:0010604","positive regulation of macromolecule metabolic process",376,0,0.5,0,1,1,1
+"GO:0010608","post-transcriptional regulation of gene expression",127,0,0.17,0,1,1,1
+"GO:0010619","adenylate cyclase-activating glucose-activated G protein-coupled receptor signaling pathway",7,0,0.01,0,1,1,1
+"GO:0010628","positive regulation of gene expression",223,0,0.29,0,1,1,1
+"GO:0010638","positive regulation of organelle organization",125,0,0.17,0,1,1,1
+"GO:0010646","regulation of cell communication",145,0,0.19,0,1,1,1
+"GO:0010647","positive regulation of cell communication",55,0,0.07,0,1,1,1
+"GO:0010648","negative regulation of cell communication",65,0,0.09,0,1,1,1
+"GO:0010720","positive regulation of cell development",15,0,0.02,0,1,1,1
+"GO:0010810","regulation of cell-substrate adhesion",6,0,0.01,0,1,1,1
+"GO:0010811","positive regulation of cell-substrate adhesion",6,0,0.01,0,1,1,1
+"GO:0010821","regulation of mitochondrion organization",5,0,0.01,0,1,1,1
+"GO:0010833","telomere maintenance via telomere lengthening",14,0,0.02,0,1,1,1
+"GO:0010876","lipid localization",38,0,0.05,0,1,1,1
+"GO:0010906","regulation of glucose metabolic process",19,0,0.03,0,1,1,1
+"GO:0010907","positive regulation of glucose metabolic process",6,0,0.01,0,1,1,1
+"GO:0010921","regulation of phosphatase activity",24,0,0.03,0,1,1,1
+"GO:0010922","positive regulation of phosphatase activity",6,0,0.01,0,1,1,1
+"GO:0010923","negative regulation of phosphatase activity",6,0,0.01,0,1,1,1
+"GO:0010927","cellular component assembly involved in morphogenesis",40,0,0.05,0,1,1,1
+"GO:0010958","regulation of amino acid import across plasma membrane",6,0,0.01,0,1,1,1
+"GO:0010959","regulation of metal ion transport",5,0,0.01,0,1,1,1
+"GO:0010962","regulation of glucan biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0010969","regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion",6,0,0.01,0,1,1,1
+"GO:0010970","transport along microtubule",24,0,0.03,0,1,1,1
+"GO:0010971","positive regulation of G2/M transition of mitotic cell cycle",11,0,0.01,0,1,1,1
+"GO:0010972","negative regulation of G2/M transition of mitotic cell cycle",34,0,0.04,0,1,1,1
+"GO:0010973","positive regulation of division septum assembly",9,0,0.01,0,1,1,1
+"GO:0010974","negative regulation of division septum assembly",10,0,0.01,0,1,1,1
+"GO:0010981","regulation of cell wall macromolecule metabolic process",7,0,0.01,0,1,1,1
+"GO:0010992","ubiquitin recycling",11,0,0.01,0,1,1,1
+"GO:0010994","free ubiquitin chain polymerization",6,0,0.01,0,1,1,1
+"GO:0012501","programmed cell death",42,0,0.06,0,1,1,1
+"GO:0014070","response to organic cyclic compound",17,0,0.02,0,1,1,1
+"GO:0015695","organic cation transport",5,0,0.01,0,1,1,1
+"GO:0015698","inorganic anion transport",19,0,0.03,0,1,1,1
+"GO:0015711","organic anion transport",99,0,0.13,0,1,1,1
+"GO:0015718","monocarboxylic acid transport",14,0,0.02,0,1,1,1
+"GO:0015740","C4-dicarboxylate transport",7,0,0.01,0,1,1,1
+"GO:0015748","organophosphate ester transport",45,0,0.06,0,1,1,1
+"GO:0015749","monosaccharide transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0015780","nucleotide-sugar transmembrane transport",8,0,0.01,0,1,1,1
+"GO:0015802","basic amino acid transport",8,0,0.01,0,1,1,1
+"GO:0015803","branched-chain amino acid transport",8,0,0.01,0,1,1,1
+"GO:0015804","neutral amino acid transport",13,0,0.02,0,1,1,1
+"GO:0015807","L-amino acid transport",17,0,0.02,0,1,1,1
+"GO:0015820","leucine transport",5,0,0.01,0,1,1,1
+"GO:0015837","amine transport",7,0,0.01,0,1,1,1
+"GO:0015849","organic acid transport",55,0,0.07,0,1,1,1
+"GO:0015850","organic hydroxy compound transport",14,0,0.02,0,1,1,1
+"GO:0015865","purine nucleotide transport",21,0,0.03,0,1,1,1
+"GO:0015867","ATP transport",16,0,0.02,0,1,1,1
+"GO:0015868","purine ribonucleotide transport",19,0,0.03,0,1,1,1
+"GO:0015908","fatty acid transport",5,0,0.01,0,1,1,1
+"GO:0015914","phospholipid transport",16,0,0.02,0,1,1,1
+"GO:0015918","sterol transport",8,0,0.01,0,1,1,1
+"GO:0015919","peroxisomal membrane transport",16,0,0.02,0,1,1,1
+"GO:0015936","coenzyme A metabolic process",5,0,0.01,0,1,1,1
+"GO:0015939","pantothenate metabolic process",6,0,0.01,0,1,1,1
+"GO:0015940","pantothenate biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0015976","carbon utilization",11,0,0.01,0,1,1,1
+"GO:0015980","energy derivation by oxidation of organic compounds",99,0,0.13,0,1,1,1
+"GO:0015985","energy coupled proton transport, down electrochemical gradient",11,0,0.01,0,1,1,1
+"GO:0015986","proton motive force-driven ATP synthesis",11,0,0.01,0,1,1,1
+"GO:0015988","energy coupled proton transmembrane transport, against electrochemical gradient",13,0,0.02,0,1,1,1
+"GO:0016036","cellular response to phosphate starvation",6,0,0.01,0,1,1,1
+"GO:0016042","lipid catabolic process",30,0,0.04,0,1,1,1
+"GO:0016049","cell growth",45,0,0.06,0,1,1,1
+"GO:0016050","vesicle organization",76,0,0.1,0,1,1,1
+"GO:0016051","carbohydrate biosynthetic process",71,0,0.09,0,1,1,1
+"GO:0016052","carbohydrate catabolic process",57,0,0.08,0,1,1,1
+"GO:0016053","organic acid biosynthetic process",149,0,0.2,0,1,1,1
+"GO:0016071","mRNA metabolic process",251,0,0.33,0,1,1,1
+"GO:0016073","snRNA metabolic process",21,0,0.03,0,1,1,1
+"GO:0016074","sno(s)RNA metabolic process",28,0,0.04,0,1,1,1
+"GO:0016075","rRNA catabolic process",23,0,0.03,0,1,1,1
+"GO:0016078","tRNA catabolic process",11,0,0.01,0,1,1,1
+"GO:0016093","polyprenol metabolic process",15,0,0.02,0,1,1,1
+"GO:0016114","terpenoid biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0016125","sterol metabolic process",40,0,0.05,0,1,1,1
+"GO:0016126","sterol biosynthetic process",37,0,0.05,0,1,1,1
+"GO:0016128","phytosteroid metabolic process",33,0,0.04,0,1,1,1
+"GO:0016129","phytosteroid biosynthetic process",33,0,0.04,0,1,1,1
+"GO:0016180","snRNA processing",9,0,0.01,0,1,1,1
+"GO:0016192","vesicle-mediated transport",295,0,0.39,0,1,1,1
+"GO:0016197","endosomal transport",75,0,0.1,0,1,1,1
+"GO:0016226","iron-sulfur cluster assembly",25,0,0.03,0,1,1,1
+"GO:0016233","telomere capping",7,0,0.01,0,1,1,1
+"GO:0016236","macroautophagy",78,0,0.1,0,1,1,1
+"GO:0016237","lysosomal microautophagy",30,0,0.04,0,1,1,1
+"GO:0016239","positive regulation of macroautophagy",12,0,0.02,0,1,1,1
+"GO:0016241","regulation of macroautophagy",19,0,0.03,0,1,1,1
+"GO:0016310","phosphorylation",274,0,0.36,0,1,1,1
+"GO:0016311","dephosphorylation",89,0,0.12,0,1,1,1
+"GO:0016482","cytosolic transport",51,0,0.07,0,1,1,1
+"GO:0016485","protein processing",40,0,0.05,0,1,1,1
+"GO:0016556","mRNA modification",8,0,0.01,0,1,1,1
+"GO:0016558","protein import into peroxisome matrix",14,0,0.02,0,1,1,1
+"GO:0016559","peroxisome fission",7,0,0.01,0,1,1,1
+"GO:0016567","protein ubiquitination",93,0,0.12,0,1,1,1
+"GO:0016570","histone modification",111,0,0.15,0,1,1,1
+"GO:0016571","histone methylation",39,0,0.05,0,1,1,1
+"GO:0016573","histone acetylation",42,0,0.06,0,1,1,1
+"GO:0016574","histone ubiquitination",14,0,0.02,0,1,1,1
+"GO:0016575","histone deacetylation",22,0,0.03,0,1,1,1
+"GO:0016579","protein deubiquitination",17,0,0.02,0,1,1,1
+"GO:0016925","protein sumoylation",6,0,0.01,0,1,1,1
+"GO:0016973","poly(A)+ mRNA export from nucleus",30,0,0.04,0,1,1,1
+"GO:0016998","cell wall macromolecule catabolic process",8,0,0.01,0,1,1,1
+"GO:0016999","antibiotic metabolic process",43,0,0.06,0,1,1,1
+"GO:0017000","antibiotic biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0017001","antibiotic catabolic process",14,0,0.02,0,1,1,1
+"GO:0017004","cytochrome complex assembly",19,0,0.03,0,1,1,1
+"GO:0017038","protein import",91,0,0.12,0,1,1,1
+"GO:0017148","negative regulation of translation",61,0,0.08,0,1,1,1
+"GO:0017157","regulation of exocytosis",5,0,0.01,0,1,1,1
+"GO:0017183","protein histidyl modification to diphthamide",6,0,0.01,0,1,1,1
+"GO:0017196","N-terminal peptidyl-methionine acetylation",7,0,0.01,0,1,1,1
+"GO:0018022","peptidyl-lysine methylation",39,0,0.05,0,1,1,1
+"GO:0018023","peptidyl-lysine trimethylation",10,0,0.01,0,1,1,1
+"GO:0018105","peptidyl-serine phosphorylation",34,0,0.04,0,1,1,1
+"GO:0018107","peptidyl-threonine phosphorylation",14,0,0.02,0,1,1,1
+"GO:0018108","peptidyl-tyrosine phosphorylation",6,0,0.01,0,1,1,1
+"GO:0018193","peptidyl-amino acid modification",169,0,0.22,0,1,1,1
+"GO:0018202","peptidyl-histidine modification",8,0,0.01,0,1,1,1
+"GO:0018205","peptidyl-lysine modification",91,0,0.12,0,1,1,1
+"GO:0018206","peptidyl-methionine modification",7,0,0.01,0,1,1,1
+"GO:0018208","peptidyl-proline modification",16,0,0.02,0,1,1,1
+"GO:0018209","peptidyl-serine modification",36,0,0.05,0,1,1,1
+"GO:0018210","peptidyl-threonine modification",14,0,0.02,0,1,1,1
+"GO:0018212","peptidyl-tyrosine modification",7,0,0.01,0,1,1,1
+"GO:0018279","protein N-linked glycosylation via asparagine",6,0,0.01,0,1,1,1
+"GO:0018342","protein prenylation",5,0,0.01,0,1,1,1
+"GO:0018393","internal peptidyl-lysine acetylation",42,0,0.06,0,1,1,1
+"GO:0018394","peptidyl-lysine acetylation",42,0,0.06,0,1,1,1
+"GO:0018410","C-terminal protein amino acid modification",7,0,0.01,0,1,1,1
+"GO:0018958","phenol-containing compound metabolic process",7,0,0.01,0,1,1,1
+"GO:0019184","nonribosomal peptide biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0019216","regulation of lipid metabolic process",37,0,0.05,0,1,1,1
+"GO:0019217","regulation of fatty acid metabolic process",6,0,0.01,0,1,1,1
+"GO:0019218","regulation of steroid metabolic process",6,0,0.01,0,1,1,1
+"GO:0019219","regulation of nucleobase-containing compound metabolic process",504,0,0.67,0,1,1,1
+"GO:0019220","regulation of phosphate metabolic process",144,0,0.19,0,1,1,1
+"GO:0019236","response to pheromone",40,0,0.05,0,1,1,1
+"GO:0019318","hexose metabolic process",44,0,0.06,0,1,1,1
+"GO:0019319","hexose biosynthetic process",23,0,0.03,0,1,1,1
+"GO:0019320","hexose catabolic process",15,0,0.02,0,1,1,1
+"GO:0019321","pentose metabolic process",13,0,0.02,0,1,1,1
+"GO:0019323","pentose catabolic process",5,0,0.01,0,1,1,1
+"GO:0019344","cysteine biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0019346","transsulfuration",5,0,0.01,0,1,1,1
+"GO:0019348","dolichol metabolic process",15,0,0.02,0,1,1,1
+"GO:0019359","nicotinamide nucleotide biosynthetic process",24,0,0.03,0,1,1,1
+"GO:0019362","pyridine nucleotide metabolic process",46,0,0.06,0,1,1,1
+"GO:0019363","pyridine nucleotide biosynthetic process",25,0,0.03,0,1,1,1
+"GO:0019395","fatty acid oxidation",10,0,0.01,0,1,1,1
+"GO:0019400","alditol metabolic process",6,0,0.01,0,1,1,1
+"GO:0019432","triglyceride biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0019566","arabinose metabolic process",6,0,0.01,0,1,1,1
+"GO:0019627","urea metabolic process",11,0,0.01,0,1,1,1
+"GO:0019646","aerobic electron transport chain",20,0,0.03,0,1,1,1
+"GO:0019674","NAD metabolic process",29,0,0.04,0,1,1,1
+"GO:0019682","glyceraldehyde-3-phosphate metabolic process",11,0,0.01,0,1,1,1
+"GO:0019692","deoxyribose phosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0019693","ribose phosphate metabolic process",110,0,0.15,0,1,1,1
+"GO:0019722","calcium-mediated signaling",12,0,0.02,0,1,1,1
+"GO:0019725","cellular homeostasis",148,0,0.2,0,1,1,1
+"GO:0019740","nitrogen utilization",9,0,0.01,0,1,1,1
+"GO:0019748","secondary metabolic process",27,0,0.04,0,1,1,1
+"GO:0019751","polyol metabolic process",18,0,0.02,0,1,1,1
+"GO:0019856","pyrimidine nucleobase biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0019878","lysine biosynthetic process via aminoadipic acid",5,0,0.01,0,1,1,1
+"GO:0019932","second-messenger-mediated signaling",28,0,0.04,0,1,1,1
+"GO:0019933","cAMP-mediated signaling",15,0,0.02,0,1,1,1
+"GO:0019935","cyclic-nucleotide-mediated signaling",15,0,0.02,0,1,1,1
+"GO:0019941","modification-dependent protein catabolic process",158,0,0.21,0,1,1,1
+"GO:0019954","asexual reproduction",52,0,0.07,0,1,1,1
+"GO:0019985","translesion synthesis",17,0,0.02,0,1,1,1
+"GO:0022406","membrane docking",38,0,0.05,0,1,1,1
+"GO:0022407","regulation of cell-cell adhesion",6,0,0.01,0,1,1,1
+"GO:0022411","cellular component disassembly",111,0,0.15,0,1,1,1
+"GO:0022413","reproductive process in single-celled organism",98,0,0.13,0,1,1,1
+"GO:0022603","regulation of anatomical structure morphogenesis",74,0,0.1,0,1,1,1
+"GO:0022604","regulation of cell morphogenesis",58,0,0.08,0,1,1,1
+"GO:0022613","ribonucleoprotein complex biogenesis",363,0,0.48,0,1,1,1
+"GO:0022616","DNA strand elongation",39,0,0.05,0,1,1,1
+"GO:0022618","protein-RNA complex assembly",154,0,0.2,0,1,1,1
+"GO:0022900","electron transport chain",36,0,0.05,0,1,1,1
+"GO:0022904","respiratory electron transport chain",29,0,0.04,0,1,1,1
+"GO:0023051","regulation of signaling",137,0,0.18,0,1,1,1
+"GO:0023056","positive regulation of signaling",43,0,0.06,0,1,1,1
+"GO:0023057","negative regulation of signaling",63,0,0.08,0,1,1,1
+"GO:0023058","adaptation of signaling pathway",9,0,0.01,0,1,1,1
+"GO:0030001","metal ion transport",60,0,0.08,0,1,1,1
+"GO:0030003","intracellular monoatomic cation homeostasis",98,0,0.13,0,1,1,1
+"GO:0030010","establishment of cell polarity",55,0,0.07,0,1,1,1
+"GO:0030011","maintenance of cell polarity",9,0,0.01,0,1,1,1
+"GO:0030026","intracellular manganese ion homeostasis",6,0,0.01,0,1,1,1
+"GO:0030029","actin filament-based process",129,0,0.17,0,1,1,1
+"GO:0030030","cell projection organization",8,0,0.01,0,1,1,1
+"GO:0030031","cell projection assembly",6,0,0.01,0,1,1,1
+"GO:0030036","actin cytoskeleton organization",127,0,0.17,0,1,1,1
+"GO:0030041","actin filament polymerization",30,0,0.04,0,1,1,1
+"GO:0030042","actin filament depolymerization",11,0,0.01,0,1,1,1
+"GO:0030046","parallel actin filament bundle assembly",9,0,0.01,0,1,1,1
+"GO:0030100","regulation of endocytosis",13,0,0.02,0,1,1,1
+"GO:0030148","sphingolipid biosynthetic process",33,0,0.04,0,1,1,1
+"GO:0030150","protein import into mitochondrial matrix",20,0,0.03,0,1,1,1
+"GO:0030155","regulation of cell adhesion",12,0,0.02,0,1,1,1
+"GO:0030162","regulation of proteolysis",67,0,0.09,0,1,1,1
+"GO:0030163","protein catabolic process",193,0,0.26,0,1,1,1
+"GO:0030174","regulation of DNA-templated DNA replication initiation",15,0,0.02,0,1,1,1
+"GO:0030242","autophagy of peroxisome",16,0,0.02,0,1,1,1
+"GO:0030258","lipid modification",29,0,0.04,0,1,1,1
+"GO:0030261","chromosome condensation",17,0,0.02,0,1,1,1
+"GO:0030307","positive regulation of cell growth",7,0,0.01,0,1,1,1
+"GO:0030308","negative regulation of cell growth",5,0,0.01,0,1,1,1
+"GO:0030433","ubiquitin-dependent ERAD pathway",43,0,0.06,0,1,1,1
+"GO:0030436","asexual sporulation",25,0,0.03,0,1,1,1
+"GO:0030437","ascospore formation",69,0,0.09,0,1,1,1
+"GO:0030447","filamentous growth",137,0,0.18,0,1,1,1
+"GO:0030448","hyphal growth",23,0,0.03,0,1,1,1
+"GO:0030466","silent mating-type cassette heterochromatin formation",45,0,0.06,0,1,1,1
+"GO:0030473","nuclear migration along microtubule",21,0,0.03,0,1,1,1
+"GO:0030474","spindle pole body duplication",6,0,0.01,0,1,1,1
+"GO:0030476","ascospore wall assembly",15,0,0.02,0,1,1,1
+"GO:0030488","tRNA methylation",18,0,0.02,0,1,1,1
+"GO:0030490","maturation of SSU-rRNA",95,0,0.13,0,1,1,1
+"GO:0030491","heteroduplex formation",5,0,0.01,0,1,1,1
+"GO:0030582","reproductive fruiting body development",11,0,0.01,0,1,1,1
+"GO:0030584","sporocarp development",11,0,0.01,0,1,1,1
+"GO:0030641","regulation of cellular pH",25,0,0.03,0,1,1,1
+"GO:0030682","mitigation of host defenses by symbiont",7,0,0.01,0,1,1,1
+"GO:0030705","cytoskeleton-dependent intracellular transport",25,0,0.03,0,1,1,1
+"GO:0030832","regulation of actin filament length",31,0,0.04,0,1,1,1
+"GO:0030833","regulation of actin filament polymerization",30,0,0.04,0,1,1,1
+"GO:0030834","regulation of actin filament depolymerization",9,0,0.01,0,1,1,1
+"GO:0030835","negative regulation of actin filament depolymerization",7,0,0.01,0,1,1,1
+"GO:0030836","positive regulation of actin filament depolymerization",6,0,0.01,0,1,1,1
+"GO:0030837","negative regulation of actin filament polymerization",8,0,0.01,0,1,1,1
+"GO:0030838","positive regulation of actin filament polymerization",19,0,0.03,0,1,1,1
+"GO:0030846","termination of RNA polymerase II transcription, poly(A)-coupled",6,0,0.01,0,1,1,1
+"GO:0030847","termination of RNA polymerase II transcription, exosome-dependent",6,0,0.01,0,1,1,1
+"GO:0030865","cortical cytoskeleton organization",69,0,0.09,0,1,1,1
+"GO:0030866","cortical actin cytoskeleton organization",68,0,0.09,0,1,1,1
+"GO:0030950","establishment or maintenance of actin cytoskeleton polarity",16,0,0.02,0,1,1,1
+"GO:0030952","establishment or maintenance of cytoskeleton polarity",20,0,0.03,0,1,1,1
+"GO:0030968","endoplasmic reticulum unfolded protein response",25,0,0.03,0,1,1,1
+"GO:0030970","retrograde protein transport, ER to cytosol",7,0,0.01,0,1,1,1
+"GO:0030989","dynein-driven meiotic oscillatory nuclear movement",9,0,0.01,0,1,1,1
+"GO:0031023","microtubule organizing center organization",20,0,0.03,0,1,1,1
+"GO:0031028","septation initiation signaling",19,0,0.03,0,1,1,1
+"GO:0031029","regulation of septation initiation signaling",13,0,0.02,0,1,1,1
+"GO:0031030","negative regulation of septation initiation signaling",10,0,0.01,0,1,1,1
+"GO:0031032","actomyosin structure organization",48,0,0.06,0,1,1,1
+"GO:0031047","regulatory ncRNA-mediated gene silencing",42,0,0.06,0,1,1,1
+"GO:0031048","regulatory ncRNA-mediated heterochromatin formation",15,0,0.02,0,1,1,1
+"GO:0031055","chromatin remodeling at centromere",7,0,0.01,0,1,1,1
+"GO:0031056","regulation of histone modification",32,0,0.04,0,1,1,1
+"GO:0031060","regulation of histone methylation",20,0,0.03,0,1,1,1
+"GO:0031062","positive regulation of histone methylation",5,0,0.01,0,1,1,1
+"GO:0031086","nuclear-transcribed mRNA catabolic process, deadenylation-independent decay",10,0,0.01,0,1,1,1
+"GO:0031087","deadenylation-independent decapping of nuclear-transcribed mRNA",9,0,0.01,0,1,1,1
+"GO:0031098","stress-activated protein kinase signaling cascade",29,0,0.04,0,1,1,1
+"GO:0031106","septin ring organization",17,0,0.02,0,1,1,1
+"GO:0031109","microtubule polymerization or depolymerization",25,0,0.03,0,1,1,1
+"GO:0031110","regulation of microtubule polymerization or depolymerization",10,0,0.01,0,1,1,1
+"GO:0031111","negative regulation of microtubule polymerization or depolymerization",5,0,0.01,0,1,1,1
+"GO:0031112","positive regulation of microtubule polymerization or depolymerization",6,0,0.01,0,1,1,1
+"GO:0031113","regulation of microtubule polymerization",8,0,0.01,0,1,1,1
+"GO:0031116","positive regulation of microtubule polymerization",6,0,0.01,0,1,1,1
+"GO:0031118","rRNA pseudouridine synthesis",5,0,0.01,0,1,1,1
+"GO:0031119","tRNA pseudouridine synthesis",6,0,0.01,0,1,1,1
+"GO:0031120","snRNA pseudouridine synthesis",7,0,0.01,0,1,1,1
+"GO:0031122","cytoplasmic microtubule organization",17,0,0.02,0,1,1,1
+"GO:0031123","RNA 3'-end processing",54,0,0.07,0,1,1,1
+"GO:0031124","mRNA 3'-end processing",32,0,0.04,0,1,1,1
+"GO:0031125","rRNA 3'-end processing",15,0,0.02,0,1,1,1
+"GO:0031126","sno(s)RNA 3'-end processing",14,0,0.02,0,1,1,1
+"GO:0031134","sister chromatid biorientation",19,0,0.03,0,1,1,1
+"GO:0031137","regulation of conjugation with cellular fusion",65,0,0.09,0,1,1,1
+"GO:0031138","negative regulation of conjugation with cellular fusion",14,0,0.02,0,1,1,1
+"GO:0031139","positive regulation of conjugation with cellular fusion",59,0,0.08,0,1,1,1
+"GO:0031145","anaphase-promoting complex-dependent catabolic process",8,0,0.01,0,1,1,1
+"GO:0031146","SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",8,0,0.01,0,1,1,1
+"GO:0031163","metallo-sulfur cluster assembly",25,0,0.03,0,1,1,1
+"GO:0031167","rRNA methylation",12,0,0.02,0,1,1,1
+"GO:0031204","post-translational protein targeting to membrane, translocation",7,0,0.01,0,1,1,1
+"GO:0031279","regulation of cyclase activity",5,0,0.01,0,1,1,1
+"GO:0031297","replication fork processing",20,0,0.03,0,1,1,1
+"GO:0031321","ascospore-type prospore assembly",21,0,0.03,0,1,1,1
+"GO:0031325","positive regulation of cellular metabolic process",407,0,0.54,0,1,1,1
+"GO:0031328","positive regulation of cellular biosynthetic process",258,0,0.34,0,1,1,1
+"GO:0031329","regulation of cellular catabolic process",154,0,0.2,0,1,1,1
+"GO:0031330","negative regulation of cellular catabolic process",21,0,0.03,0,1,1,1
+"GO:0031331","positive regulation of cellular catabolic process",124,0,0.16,0,1,1,1
+"GO:0031333","negative regulation of protein-containing complex assembly",14,0,0.02,0,1,1,1
+"GO:0031334","positive regulation of protein-containing complex assembly",47,0,0.06,0,1,1,1
+"GO:0031338","regulation of vesicle fusion",20,0,0.03,0,1,1,1
+"GO:0031344","regulation of cell projection organization",5,0,0.01,0,1,1,1
+"GO:0031347","regulation of defense response",15,0,0.02,0,1,1,1
+"GO:0031349","positive regulation of defense response",11,0,0.01,0,1,1,1
+"GO:0031365","N-terminal protein amino acid modification",10,0,0.01,0,1,1,1
+"GO:0031396","regulation of protein ubiquitination",12,0,0.02,0,1,1,1
+"GO:0031398","positive regulation of protein ubiquitination",6,0,0.01,0,1,1,1
+"GO:0031399","regulation of protein modification process",147,0,0.19,0,1,1,1
+"GO:0031400","negative regulation of protein modification process",39,0,0.05,0,1,1,1
+"GO:0031401","positive regulation of protein modification process",80,0,0.11,0,1,1,1
+"GO:0031440","regulation of mRNA 3'-end processing",6,0,0.01,0,1,1,1
+"GO:0031452","negative regulation of heterochromatin formation",10,0,0.01,0,1,1,1
+"GO:0031505","fungal-type cell wall organization",81,0,0.11,0,1,1,1
+"GO:0031506","cell wall glycoprotein biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0031508","pericentric heterochromatin formation",7,0,0.01,0,1,1,1
+"GO:0031554","regulation of termination of DNA-templated transcription",5,0,0.01,0,1,1,1
+"GO:0031566","actomyosin contractile ring maturation",8,0,0.01,0,1,1,1
+"GO:0031570","DNA integrity checkpoint signaling",48,0,0.06,0,1,1,1
+"GO:0031571","mitotic G1 DNA damage checkpoint signaling",7,0,0.01,0,1,1,1
+"GO:0031573","mitotic intra-S DNA damage checkpoint signaling",16,0,0.02,0,1,1,1
+"GO:0031578","mitotic spindle orientation checkpoint signaling",9,0,0.01,0,1,1,1
+"GO:0031589","cell-substrate adhesion",13,0,0.02,0,1,1,1
+"GO:0031647","regulation of protein stability",13,0,0.02,0,1,1,1
+"GO:0031667","response to nutrient levels",157,0,0.21,0,1,1,1
+"GO:0031668","cellular response to extracellular stimulus",134,0,0.18,0,1,1,1
+"GO:0031669","cellular response to nutrient levels",132,0,0.17,0,1,1,1
+"GO:0031670","cellular response to nutrient",40,0,0.05,0,1,1,1
+"GO:0031929","TOR signaling",30,0,0.04,0,1,1,1
+"GO:0031991","regulation of actomyosin contractile ring contraction",24,0,0.03,0,1,1,1
+"GO:0032005","signal transduction involved in positive regulation of conjugation with cellular fusion",23,0,0.03,0,1,1,1
+"GO:0032006","regulation of TOR signaling",19,0,0.03,0,1,1,1
+"GO:0032007","negative regulation of TOR signaling",12,0,0.02,0,1,1,1
+"GO:0032008","positive regulation of TOR signaling",8,0,0.01,0,1,1,1
+"GO:0032042","mitochondrial DNA metabolic process",9,0,0.01,0,1,1,1
+"GO:0032048","cardiolipin metabolic process",8,0,0.01,0,1,1,1
+"GO:0032049","cardiolipin biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0032069","regulation of nuclease activity",8,0,0.01,0,1,1,1
+"GO:0032070","regulation of deoxyribonuclease activity",6,0,0.01,0,1,1,1
+"GO:0032071","regulation of endodeoxyribonuclease activity",5,0,0.01,0,1,1,1
+"GO:0032075","positive regulation of nuclease activity",7,0,0.01,0,1,1,1
+"GO:0032077","positive regulation of deoxyribonuclease activity",5,0,0.01,0,1,1,1
+"GO:0032091","negative regulation of protein binding",6,0,0.01,0,1,1,1
+"GO:0032101","regulation of response to external stimulus",44,0,0.06,0,1,1,1
+"GO:0032102","negative regulation of response to external stimulus",10,0,0.01,0,1,1,1
+"GO:0032103","positive regulation of response to external stimulus",27,0,0.04,0,1,1,1
+"GO:0032104","regulation of response to extracellular stimulus",37,0,0.05,0,1,1,1
+"GO:0032105","negative regulation of response to extracellular stimulus",6,0,0.01,0,1,1,1
+"GO:0032106","positive regulation of response to extracellular stimulus",25,0,0.03,0,1,1,1
+"GO:0032107","regulation of response to nutrient levels",37,0,0.05,0,1,1,1
+"GO:0032108","negative regulation of response to nutrient levels",6,0,0.01,0,1,1,1
+"GO:0032109","positive regulation of response to nutrient levels",25,0,0.03,0,1,1,1
+"GO:0032120","ascospore-type prospore membrane formation",12,0,0.02,0,1,1,1
+"GO:0032147","activation of protein kinase activity",34,0,0.04,0,1,1,1
+"GO:0032185","septin cytoskeleton organization",17,0,0.02,0,1,1,1
+"GO:0032196","transposition",9,0,0.01,0,1,1,1
+"GO:0032197","retrotransposition",6,0,0.01,0,1,1,1
+"GO:0032200","telomere organization",102,0,0.13,0,1,1,1
+"GO:0032204","regulation of telomere maintenance",10,0,0.01,0,1,1,1
+"GO:0032210","regulation of telomere maintenance via telomerase",7,0,0.01,0,1,1,1
+"GO:0032231","regulation of actin filament bundle assembly",9,0,0.01,0,1,1,1
+"GO:0032258","cytoplasm to vacuole transport by the Cvt pathway",34,0,0.04,0,1,1,1
+"GO:0032259","methylation",104,0,0.14,0,1,1,1
+"GO:0032271","regulation of protein polymerization",38,0,0.05,0,1,1,1
+"GO:0032272","negative regulation of protein polymerization",10,0,0.01,0,1,1,1
+"GO:0032273","positive regulation of protein polymerization",25,0,0.03,0,1,1,1
+"GO:0032365","intracellular lipid transport",5,0,0.01,0,1,1,1
+"GO:0032368","regulation of lipid transport",6,0,0.01,0,1,1,1
+"GO:0032386","regulation of intracellular transport",36,0,0.05,0,1,1,1
+"GO:0032388","positive regulation of intracellular transport",14,0,0.02,0,1,1,1
+"GO:0032392","DNA geometric change",94,0,0.12,0,1,1,1
+"GO:0032434","regulation of proteasomal ubiquitin-dependent protein catabolic process",54,0,0.07,0,1,1,1
+"GO:0032436","positive regulation of proteasomal ubiquitin-dependent protein catabolic process",52,0,0.07,0,1,1,1
+"GO:0032446","protein modification by small protein conjugation",106,0,0.14,0,1,1,1
+"GO:0032456","endocytic recycling",8,0,0.01,0,1,1,1
+"GO:0032465","regulation of cytokinesis",38,0,0.05,0,1,1,1
+"GO:0032466","negative regulation of cytokinesis",13,0,0.02,0,1,1,1
+"GO:0032467","positive regulation of cytokinesis",15,0,0.02,0,1,1,1
+"GO:0032488","Cdc42 protein signal transduction",6,0,0.01,0,1,1,1
+"GO:0032501","multicellular organismal process",132,0,0.17,0,1,1,1
+"GO:0032505","reproduction of a single-celled organism",122,0,0.16,0,1,1,1
+"GO:0032506","cytokinetic process",63,0,0.08,0,1,1,1
+"GO:0032507","maintenance of protein location in cell",30,0,0.04,0,1,1,1
+"GO:0032508","DNA duplex unwinding",87,0,0.12,0,1,1,1
+"GO:0032509","endosome transport via multivesicular body sorting pathway",31,0,0.04,0,1,1,1
+"GO:0032511","late endosome to vacuole transport via multivesicular body sorting pathway",31,0,0.04,0,1,1,1
+"GO:0032515","negative regulation of phosphoprotein phosphatase activity",6,0,0.01,0,1,1,1
+"GO:0032527","protein exit from endoplasmic reticulum",11,0,0.01,0,1,1,1
+"GO:0032535","regulation of cellular component size",60,0,0.08,0,1,1,1
+"GO:0032543","mitochondrial translation",77,0,0.1,0,1,1,1
+"GO:0032780","negative regulation of ATP-dependent activity",9,0,0.01,0,1,1,1
+"GO:0032781","positive regulation of ATP-dependent activity",18,0,0.02,0,1,1,1
+"GO:0032784","regulation of DNA-templated transcription elongation",47,0,0.06,0,1,1,1
+"GO:0032786","positive regulation of DNA-templated transcription, elongation",42,0,0.06,0,1,1,1
+"GO:0032787","monocarboxylic acid metabolic process",105,0,0.14,0,1,1,1
+"GO:0032872","regulation of stress-activated MAPK cascade",10,0,0.01,0,1,1,1
+"GO:0032874","positive regulation of stress-activated MAPK cascade",6,0,0.01,0,1,1,1
+"GO:0032878","regulation of establishment or maintenance of cell polarity",23,0,0.03,0,1,1,1
+"GO:0032879","regulation of localization",145,0,0.19,0,1,1,1
+"GO:0032880","regulation of protein localization",72,0,0.1,0,1,1,1
+"GO:0032881","regulation of polysaccharide metabolic process",12,0,0.02,0,1,1,1
+"GO:0032885","regulation of polysaccharide biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0032886","regulation of microtubule-based process",27,0,0.04,0,1,1,1
+"GO:0032887","regulation of spindle elongation",7,0,0.01,0,1,1,1
+"GO:0032888","regulation of mitotic spindle elongation",7,0,0.01,0,1,1,1
+"GO:0032889","regulation of vacuole fusion, non-autophagic",13,0,0.02,0,1,1,1
+"GO:0032890","regulation of organic acid transport",9,0,0.01,0,1,1,1
+"GO:0032892","positive regulation of organic acid transport",5,0,0.01,0,1,1,1
+"GO:0032933","SREBP signaling pathway",11,0,0.01,0,1,1,1
+"GO:0032940","secretion by cell",44,0,0.06,0,1,1,1
+"GO:0032950","regulation of beta-glucan metabolic process",8,0,0.01,0,1,1,1
+"GO:0032951","regulation of beta-glucan biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0032952","regulation of (1->3)-beta-D-glucan metabolic process",6,0,0.01,0,1,1,1
+"GO:0032953","regulation of (1->3)-beta-D-glucan biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0032954","regulation of cytokinetic process",31,0,0.04,0,1,1,1
+"GO:0032955","regulation of division septum assembly",23,0,0.03,0,1,1,1
+"GO:0032956","regulation of actin cytoskeleton organization",73,0,0.1,0,1,1,1
+"GO:0032968","positive regulation of transcription elongation by RNA polymerase II",38,0,0.05,0,1,1,1
+"GO:0032970","regulation of actin filament-based process",73,0,0.1,0,1,1,1
+"GO:0032984","protein-containing complex disassembly",69,0,0.09,0,1,1,1
+"GO:0032986","protein-DNA complex disassembly",9,0,0.01,0,1,1,1
+"GO:0032988","protein-RNA complex disassembly",10,0,0.01,0,1,1,1
+"GO:0032989","cellular component morphogenesis",61,0,0.08,0,1,1,1
+"GO:0032995","regulation of fungal-type cell wall biogenesis",10,0,0.01,0,1,1,1
+"GO:0033013","tetrapyrrole metabolic process",16,0,0.02,0,1,1,1
+"GO:0033014","tetrapyrrole biosynthetic process",15,0,0.02,0,1,1,1
+"GO:0033108","mitochondrial respiratory chain complex assembly",21,0,0.03,0,1,1,1
+"GO:0033120","positive regulation of RNA splicing",6,0,0.01,0,1,1,1
+"GO:0033157","regulation of intracellular protein transport",25,0,0.03,0,1,1,1
+"GO:0033182","regulation of histone ubiquitination",5,0,0.01,0,1,1,1
+"GO:0033212","iron import into cell",5,0,0.01,0,1,1,1
+"GO:0033238","regulation of amine metabolic process",8,0,0.01,0,1,1,1
+"GO:0033240","positive regulation of amine metabolic process",5,0,0.01,0,1,1,1
+"GO:0033260","nuclear DNA replication",76,0,0.1,0,1,1,1
+"GO:0033262","regulation of nuclear cell cycle DNA replication",12,0,0.02,0,1,1,1
+"GO:0033313","meiotic cell cycle checkpoint signaling",9,0,0.01,0,1,1,1
+"GO:0033314","mitotic DNA replication checkpoint signaling",18,0,0.02,0,1,1,1
+"GO:0033365","protein localization to organelle",295,0,0.39,0,1,1,1
+"GO:0033500","carbohydrate homeostasis",17,0,0.02,0,1,1,1
+"GO:0033523","histone H2B ubiquitination",10,0,0.01,0,1,1,1
+"GO:0033567","DNA replication, Okazaki fragment processing",13,0,0.02,0,1,1,1
+"GO:0033617","mitochondrial cytochrome c oxidase assembly",12,0,0.02,0,1,1,1
+"GO:0033621","nuclear-transcribed mRNA catabolic process, meiosis-specific transcripts",5,0,0.01,0,1,1,1
+"GO:0033673","negative regulation of kinase activity",15,0,0.02,0,1,1,1
+"GO:0033674","positive regulation of kinase activity",43,0,0.06,0,1,1,1
+"GO:0033750","ribosome localization",35,0,0.05,0,1,1,1
+"GO:0033865","nucleoside bisphosphate metabolic process",23,0,0.03,0,1,1,1
+"GO:0033866","nucleoside bisphosphate biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0033875","ribonucleoside bisphosphate metabolic process",23,0,0.03,0,1,1,1
+"GO:0033962","P-body assembly",11,0,0.01,0,1,1,1
+"GO:0033993","response to lipid",14,0,0.02,0,1,1,1
+"GO:0034030","ribonucleoside bisphosphate biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0034032","purine nucleoside bisphosphate metabolic process",23,0,0.03,0,1,1,1
+"GO:0034033","purine nucleoside bisphosphate biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0034063","stress granule assembly",6,0,0.01,0,1,1,1
+"GO:0034067","protein localization to Golgi apparatus",16,0,0.02,0,1,1,1
+"GO:0034085","establishment of sister chromatid cohesion",12,0,0.02,0,1,1,1
+"GO:0034086","maintenance of sister chromatid cohesion",7,0,0.01,0,1,1,1
+"GO:0034087","establishment of mitotic sister chromatid cohesion",10,0,0.01,0,1,1,1
+"GO:0034088","maintenance of mitotic sister chromatid cohesion",6,0,0.01,0,1,1,1
+"GO:0034198","cellular response to amino acid starvation",15,0,0.02,0,1,1,1
+"GO:0034204","lipid translocation",9,0,0.01,0,1,1,1
+"GO:0034219","carbohydrate transmembrane transport",10,0,0.01,0,1,1,1
+"GO:0034220","monoatomic ion transmembrane transport",156,0,0.21,0,1,1,1
+"GO:0034221","fungal-type cell wall chitin biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0034227","tRNA thio-modification",5,0,0.01,0,1,1,1
+"GO:0034243","regulation of transcription elongation by RNA polymerase II",43,0,0.06,0,1,1,1
+"GO:0034248","regulation of amide metabolic process",125,0,0.17,0,1,1,1
+"GO:0034249","negative regulation of amide metabolic process",64,0,0.08,0,1,1,1
+"GO:0034250","positive regulation of amide metabolic process",31,0,0.04,0,1,1,1
+"GO:0034284","response to monosaccharide",15,0,0.02,0,1,1,1
+"GO:0034305","regulation of asexual sporulation",7,0,0.01,0,1,1,1
+"GO:0034306","regulation of sexual sporulation",13,0,0.02,0,1,1,1
+"GO:0034307","regulation of ascospore formation",11,0,0.01,0,1,1,1
+"GO:0034308","primary alcohol metabolic process",13,0,0.02,0,1,1,1
+"GO:0034309","primary alcohol biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0034314","Arp2/3 complex-mediated actin nucleation",18,0,0.02,0,1,1,1
+"GO:0034315","regulation of Arp2/3 complex-mediated actin nucleation",10,0,0.01,0,1,1,1
+"GO:0034316","negative regulation of Arp2/3 complex-mediated actin nucleation",5,0,0.01,0,1,1,1
+"GO:0034367","protein-containing complex remodeling",6,0,0.01,0,1,1,1
+"GO:0034397","telomere localization",13,0,0.02,0,1,1,1
+"GO:0034398","telomere tethering at nuclear periphery",7,0,0.01,0,1,1,1
+"GO:0034404","nucleobase-containing small molecule biosynthetic process",37,0,0.05,0,1,1,1
+"GO:0034406","cell wall beta-glucan metabolic process",19,0,0.03,0,1,1,1
+"GO:0034407","cell wall (1->3)-beta-D-glucan metabolic process",8,0,0.01,0,1,1,1
+"GO:0034410","cell wall beta-glucan biosynthetic process",13,0,0.02,0,1,1,1
+"GO:0034411","cell wall (1->3)-beta-D-glucan biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0034427","nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'",14,0,0.02,0,1,1,1
+"GO:0034440","lipid oxidation",10,0,0.01,0,1,1,1
+"GO:0034470","ncRNA processing",283,0,0.37,0,1,1,1
+"GO:0034471","ncRNA 5'-end processing",33,0,0.04,0,1,1,1
+"GO:0034472","snRNA 3'-end processing",9,0,0.01,0,1,1,1
+"GO:0034475","U4 snRNA 3'-end processing",9,0,0.01,0,1,1,1
+"GO:0034476","U5 snRNA 3'-end processing",6,0,0.01,0,1,1,1
+"GO:0034486","vacuolar transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0034497","protein localization to phagophore assembly site",10,0,0.01,0,1,1,1
+"GO:0034498","early endosome to Golgi transport",8,0,0.01,0,1,1,1
+"GO:0034501","protein localization to kinetochore",17,0,0.02,0,1,1,1
+"GO:0034502","protein localization to chromosome",35,0,0.05,0,1,1,1
+"GO:0034504","protein localization to nucleus",56,0,0.07,0,1,1,1
+"GO:0034508","centromere complex assembly",16,0,0.02,0,1,1,1
+"GO:0034517","ribophagy",5,0,0.01,0,1,1,1
+"GO:0034599","cellular response to oxidative stress",90,0,0.12,0,1,1,1
+"GO:0034605","cellular response to heat",37,0,0.05,0,1,1,1
+"GO:0034614","cellular response to reactive oxygen species",21,0,0.03,0,1,1,1
+"GO:0034620","cellular response to unfolded protein",28,0,0.04,0,1,1,1
+"GO:0034644","cellular response to UV",25,0,0.03,0,1,1,1
+"GO:0034661","ncRNA catabolic process",25,0,0.03,0,1,1,1
+"GO:0034727","piecemeal microautophagy of the nucleus",25,0,0.03,0,1,1,1
+"GO:0034755","iron ion transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0034762","regulation of transmembrane transport",11,0,0.01,0,1,1,1
+"GO:0034764","positive regulation of transmembrane transport",7,0,0.01,0,1,1,1
+"GO:0034765","regulation of monoatomic ion transmembrane transport",11,0,0.01,0,1,1,1
+"GO:0034767","positive regulation of monoatomic ion transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0034968","histone lysine methylation",33,0,0.04,0,1,1,1
+"GO:0034975","protein folding in endoplasmic reticulum",23,0,0.03,0,1,1,1
+"GO:0034976","response to endoplasmic reticulum stress",71,0,0.09,0,1,1,1
+"GO:0034982","mitochondrial protein processing",7,0,0.01,0,1,1,1
+"GO:0035023","regulation of Rho protein signal transduction",12,0,0.02,0,1,1,1
+"GO:0035024","negative regulation of Rho protein signal transduction",6,0,0.01,0,1,1,1
+"GO:0035065","regulation of histone acetylation",7,0,0.01,0,1,1,1
+"GO:0035268","protein mannosylation",9,0,0.01,0,1,1,1
+"GO:0035269","protein O-linked mannosylation",9,0,0.01,0,1,1,1
+"GO:0035303","regulation of dephosphorylation",30,0,0.04,0,1,1,1
+"GO:0035304","regulation of protein dephosphorylation",23,0,0.03,0,1,1,1
+"GO:0035305","negative regulation of dephosphorylation",7,0,0.01,0,1,1,1
+"GO:0035306","positive regulation of dephosphorylation",8,0,0.01,0,1,1,1
+"GO:0035307","positive regulation of protein dephosphorylation",5,0,0.01,0,1,1,1
+"GO:0035308","negative regulation of protein dephosphorylation",7,0,0.01,0,1,1,1
+"GO:0035335","peptidyl-tyrosine dephosphorylation",10,0,0.01,0,1,1,1
+"GO:0035383","thioester metabolic process",19,0,0.03,0,1,1,1
+"GO:0035384","thioester biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0035435","phosphate ion transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0035437","maintenance of protein localization in endoplasmic reticulum",8,0,0.01,0,1,1,1
+"GO:0035493","SNARE complex assembly",11,0,0.01,0,1,1,1
+"GO:0035542","regulation of SNARE complex assembly",9,0,0.01,0,1,1,1
+"GO:0035592","establishment of protein localization to extracellular region",10,0,0.01,0,1,1,1
+"GO:0035601","protein deacylation",24,0,0.03,0,1,1,1
+"GO:0035725","sodium ion transmembrane transport",5,0,0.01,0,1,1,1
+"GO:0035753","maintenance of DNA trinucleotide repeats",7,0,0.01,0,1,1,1
+"GO:0035821","modulation of process of another organism",15,0,0.02,0,1,1,1
+"GO:0035822","gene conversion",12,0,0.02,0,1,1,1
+"GO:0035825","homologous recombination",44,0,0.06,0,1,1,1
+"GO:0035966","response to topologically incorrect protein",44,0,0.06,0,1,1,1
+"GO:0035967","cellular response to topologically incorrect protein",39,0,0.05,0,1,1,1
+"GO:0035973","aggrephagy",5,0,0.01,0,1,1,1
+"GO:0036003","positive regulation of transcription from RNA polymerase II promoter in response to stress",13,0,0.02,0,1,1,1
+"GO:0036092","phosphatidylinositol-3-phosphate biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0036166","phenotypic switching",14,0,0.02,0,1,1,1
+"GO:0036170","filamentous growth of a population of unicellular organisms in response to starvation",38,0,0.05,0,1,1,1
+"GO:0036171","filamentous growth of a population of unicellular organisms in response to chemical stimulus",10,0,0.01,0,1,1,1
+"GO:0036176","response to neutral pH",16,0,0.02,0,1,1,1
+"GO:0036177","filamentous growth of a population of unicellular organisms in response to pH",19,0,0.03,0,1,1,1
+"GO:0036178","filamentous growth of a population of unicellular organisms in response to neutral pH",15,0,0.02,0,1,1,1
+"GO:0036180","filamentous growth of a population of unicellular organisms in response to biotic stimulus",38,0,0.05,0,1,1,1
+"GO:0036187","cell growth mode switching, budding to filamentous",5,0,0.01,0,1,1,1
+"GO:0036211","protein modification process",574,0,0.76,0,1,1,1
+"GO:0036213","contractile ring contraction",28,0,0.04,0,1,1,1
+"GO:0036214","contractile ring localization",14,0,0.02,0,1,1,1
+"GO:0036244","cellular response to neutral pH",13,0,0.02,0,1,1,1
+"GO:0036260","RNA capping",40,0,0.05,0,1,1,1
+"GO:0036265","RNA (guanine-N7)-methylation",5,0,0.01,0,1,1,1
+"GO:0036267","invasive filamentous growth",29,0,0.04,0,1,1,1
+"GO:0036293","response to decreased oxygen levels",15,0,0.02,0,1,1,1
+"GO:0036294","cellular response to decreased oxygen levels",14,0,0.02,0,1,1,1
+"GO:0036297","interstrand cross-link repair",14,0,0.02,0,1,1,1
+"GO:0036388","pre-replicative complex assembly",16,0,0.02,0,1,1,1
+"GO:0036503","ERAD pathway",47,0,0.06,0,1,1,1
+"GO:0038202","TORC1 signaling",14,0,0.02,0,1,1,1
+"GO:0038203","TORC2 signaling",7,0,0.01,0,1,1,1
+"GO:0040001","establishment of mitotic spindle localization",11,0,0.01,0,1,1,1
+"GO:0040007","growth",168,0,0.22,0,1,1,1
+"GO:0040008","regulation of growth",66,0,0.09,0,1,1,1
+"GO:0040011","locomotion",7,0,0.01,0,1,1,1
+"GO:0040020","regulation of meiotic nuclear division",34,0,0.04,0,1,1,1
+"GO:0040031","snRNA modification",8,0,0.01,0,1,1,1
+"GO:0042026","protein refolding",13,0,0.02,0,1,1,1
+"GO:0042127","regulation of cell population proliferation",10,0,0.01,0,1,1,1
+"GO:0042133","neurotransmitter metabolic process",10,0,0.01,0,1,1,1
+"GO:0042135","neurotransmitter catabolic process",5,0,0.01,0,1,1,1
+"GO:0042138","meiotic DNA double-strand break formation",14,0,0.02,0,1,1,1
+"GO:0042144","vacuole fusion, non-autophagic",26,0,0.03,0,1,1,1
+"GO:0042147","retrograde transport, endosome to Golgi",35,0,0.05,0,1,1,1
+"GO:0042149","cellular response to glucose starvation",14,0,0.02,0,1,1,1
+"GO:0042157","lipoprotein metabolic process",35,0,0.05,0,1,1,1
+"GO:0042158","lipoprotein biosynthetic process",33,0,0.04,0,1,1,1
+"GO:0042168","heme metabolic process",16,0,0.02,0,1,1,1
+"GO:0042173","regulation of sporulation resulting in formation of a cellular spore",15,0,0.02,0,1,1,1
+"GO:0042176","regulation of protein catabolic process",60,0,0.08,0,1,1,1
+"GO:0042177","negative regulation of protein catabolic process",6,0,0.01,0,1,1,1
+"GO:0042180","cellular ketone metabolic process",38,0,0.05,0,1,1,1
+"GO:0042181","ketone biosynthetic process",18,0,0.02,0,1,1,1
+"GO:0042221","response to chemical",428,0,0.57,0,1,1,1
+"GO:0042244","spore wall assembly",17,0,0.02,0,1,1,1
+"GO:0042254","ribosome biogenesis",279,0,0.37,0,1,1,1
+"GO:0042255","ribosome assembly",55,0,0.07,0,1,1,1
+"GO:0042273","ribosomal large subunit biogenesis",90,0,0.12,0,1,1,1
+"GO:0042274","ribosomal small subunit biogenesis",116,0,0.15,0,1,1,1
+"GO:0042276","error-prone translesion synthesis",11,0,0.01,0,1,1,1
+"GO:0042306","regulation of protein import into nucleus",6,0,0.01,0,1,1,1
+"GO:0042325","regulation of phosphorylation",98,0,0.13,0,1,1,1
+"GO:0042326","negative regulation of phosphorylation",23,0,0.03,0,1,1,1
+"GO:0042327","positive regulation of phosphorylation",60,0,0.08,0,1,1,1
+"GO:0042364","water-soluble vitamin biosynthetic process",30,0,0.04,0,1,1,1
+"GO:0042391","regulation of membrane potential",5,0,0.01,0,1,1,1
+"GO:0042398","cellular modified amino acid biosynthetic process",21,0,0.03,0,1,1,1
+"GO:0042401","biogenic amine biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0042430","indole-containing compound metabolic process",8,0,0.01,0,1,1,1
+"GO:0042435","indole-containing compound biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0042440","pigment metabolic process",28,0,0.04,0,1,1,1
+"GO:0042451","purine nucleoside biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0042455","ribonucleoside biosynthetic process",19,0,0.03,0,1,1,1
+"GO:0042537","benzene-containing compound metabolic process",8,0,0.01,0,1,1,1
+"GO:0042542","response to hydrogen peroxide",13,0,0.02,0,1,1,1
+"GO:0042546","cell wall biogenesis",60,0,0.08,0,1,1,1
+"GO:0042558","pteridine-containing compound metabolic process",9,0,0.01,0,1,1,1
+"GO:0042559","pteridine-containing compound biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0042592","homeostatic process",254,0,0.34,0,1,1,1
+"GO:0042593","glucose homeostasis",17,0,0.02,0,1,1,1
+"GO:0042594","response to starvation",104,0,0.14,0,1,1,1
+"GO:0042710","biofilm formation",24,0,0.03,0,1,1,1
+"GO:0042723","thiamine-containing compound metabolic process",6,0,0.01,0,1,1,1
+"GO:0042724","thiamine-containing compound biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0042726","flavin-containing compound metabolic process",8,0,0.01,0,1,1,1
+"GO:0042727","flavin-containing compound biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0042743","hydrogen peroxide metabolic process",7,0,0.01,0,1,1,1
+"GO:0042744","hydrogen peroxide catabolic process",6,0,0.01,0,1,1,1
+"GO:0042761","very long-chain fatty acid biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0042762","regulation of sulfur metabolic process",7,0,0.01,0,1,1,1
+"GO:0042770","signal transduction in response to DNA damage",35,0,0.05,0,1,1,1
+"GO:0042773","ATP synthesis coupled electron transport",22,0,0.03,0,1,1,1
+"GO:0042775","mitochondrial ATP synthesis coupled electron transport",22,0,0.03,0,1,1,1
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis",9,0,0.01,0,1,1,1
+"GO:0042790","nucleolar large rRNA transcription by RNA polymerase I",16,0,0.02,0,1,1,1
+"GO:0042797","tRNA transcription by RNA polymerase III",12,0,0.02,0,1,1,1
+"GO:0042816","vitamin B6 metabolic process",6,0,0.01,0,1,1,1
+"GO:0042819","vitamin B6 biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0042866","pyruvate biosynthetic process",13,0,0.02,0,1,1,1
+"GO:0042868","antisense RNA metabolic process",8,0,0.01,0,1,1,1
+"GO:0042908","xenobiotic transport",41,0,0.05,0,1,1,1
+"GO:0042938","dipeptide transport",5,0,0.01,0,1,1,1
+"GO:0042981","regulation of apoptotic process",21,0,0.03,0,1,1,1
+"GO:0043001","Golgi to plasma membrane protein transport",11,0,0.01,0,1,1,1
+"GO:0043007","maintenance of rDNA",9,0,0.01,0,1,1,1
+"GO:0043038","amino acid activation",35,0,0.05,0,1,1,1
+"GO:0043039","tRNA aminoacylation",35,0,0.05,0,1,1,1
+"GO:0043060","meiotic metaphase I homologous chromosome alignment",19,0,0.03,0,1,1,1
+"GO:0043067","regulation of programmed cell death",23,0,0.03,0,1,1,1
+"GO:0043085","positive regulation of catalytic activity",154,0,0.2,0,1,1,1
+"GO:0043086","negative regulation of catalytic activity",44,0,0.06,0,1,1,1
+"GO:0043087","regulation of GTPase activity",48,0,0.06,0,1,1,1
+"GO:0043090","amino acid import",5,0,0.01,0,1,1,1
+"GO:0043094","cellular metabolic compound salvage",21,0,0.03,0,1,1,1
+"GO:0043097","pyrimidine nucleoside salvage",6,0,0.01,0,1,1,1
+"GO:0043101","purine-containing compound salvage",5,0,0.01,0,1,1,1
+"GO:0043111","replication fork arrest",5,0,0.01,0,1,1,1
+"GO:0043137","DNA replication, removal of RNA primer",9,0,0.01,0,1,1,1
+"GO:0043144","sno(s)RNA processing",23,0,0.03,0,1,1,1
+"GO:0043161","proteasome-mediated ubiquitin-dependent protein catabolic process",127,0,0.17,0,1,1,1
+"GO:0043162","ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",22,0,0.03,0,1,1,1
+"GO:0043171","peptide catabolic process",7,0,0.01,0,1,1,1
+"GO:0043173","nucleotide salvage",6,0,0.01,0,1,1,1
+"GO:0043174","nucleoside salvage",9,0,0.01,0,1,1,1
+"GO:0043200","response to amino acid",5,0,0.01,0,1,1,1
+"GO:0043207","response to external biotic stimulus",22,0,0.03,0,1,1,1
+"GO:0043242","negative regulation of protein-containing complex disassembly",14,0,0.02,0,1,1,1
+"GO:0043243","positive regulation of protein-containing complex disassembly",10,0,0.01,0,1,1,1
+"GO:0043244","regulation of protein-containing complex disassembly",25,0,0.03,0,1,1,1
+"GO:0043248","proteasome assembly",24,0,0.03,0,1,1,1
+"GO:0043254","regulation of protein-containing complex assembly",86,0,0.11,0,1,1,1
+"GO:0043255","regulation of carbohydrate biosynthetic process",27,0,0.04,0,1,1,1
+"GO:0043269","regulation of monoatomic ion transport",18,0,0.02,0,1,1,1
+"GO:0043270","positive regulation of monoatomic ion transport",7,0,0.01,0,1,1,1
+"GO:0043271","negative regulation of monoatomic ion transport",6,0,0.01,0,1,1,1
+"GO:0043328","protein transport to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway",16,0,0.02,0,1,1,1
+"GO:0043331","response to dsRNA",5,0,0.01,0,1,1,1
+"GO:0043385","mycotoxin metabolic process",5,0,0.01,0,1,1,1
+"GO:0043388","positive regulation of DNA binding",9,0,0.01,0,1,1,1
+"GO:0043392","negative regulation of DNA binding",8,0,0.01,0,1,1,1
+"GO:0043393","regulation of protein binding",10,0,0.01,0,1,1,1
+"GO:0043405","regulation of MAP kinase activity",16,0,0.02,0,1,1,1
+"GO:0043406","positive regulation of MAP kinase activity",10,0,0.01,0,1,1,1
+"GO:0043407","negative regulation of MAP kinase activity",6,0,0.01,0,1,1,1
+"GO:0043408","regulation of MAPK cascade",29,0,0.04,0,1,1,1
+"GO:0043409","negative regulation of MAPK cascade",9,0,0.01,0,1,1,1
+"GO:0043410","positive regulation of MAPK cascade",18,0,0.02,0,1,1,1
+"GO:0043412","macromolecule modification",645,0,0.85,0,1,1,1
+"GO:0043413","macromolecule glycosylation",47,0,0.06,0,1,1,1
+"GO:0043414","macromolecule methylation",84,0,0.11,0,1,1,1
+"GO:0043433","negative regulation of DNA-binding transcription factor activity",6,0,0.01,0,1,1,1
+"GO:0043455","regulation of secondary metabolic process",12,0,0.02,0,1,1,1
+"GO:0043457","regulation of cellular respiration",9,0,0.01,0,1,1,1
+"GO:0043462","regulation of ATP-dependent activity",27,0,0.04,0,1,1,1
+"GO:0043467","regulation of generation of precursor metabolites and energy",18,0,0.02,0,1,1,1
+"GO:0043470","regulation of carbohydrate catabolic process",6,0,0.01,0,1,1,1
+"GO:0043484","regulation of RNA splicing",11,0,0.01,0,1,1,1
+"GO:0043487","regulation of RNA stability",64,0,0.08,0,1,1,1
+"GO:0043488","regulation of mRNA stability",64,0,0.08,0,1,1,1
+"GO:0043489","RNA stabilization",6,0,0.01,0,1,1,1
+"GO:0043504","mitochondrial DNA repair",5,0,0.01,0,1,1,1
+"GO:0043543","protein acylation",53,0,0.07,0,1,1,1
+"GO:0043547","positive regulation of GTPase activity",43,0,0.06,0,1,1,1
+"GO:0043549","regulation of kinase activity",68,0,0.09,0,1,1,1
+"GO:0043555","regulation of translation in response to stress",5,0,0.01,0,1,1,1
+"GO:0043562","cellular response to nitrogen levels",17,0,0.02,0,1,1,1
+"GO:0043570","maintenance of DNA repeat elements",23,0,0.03,0,1,1,1
+"GO:0043574","peroxisomal transport",17,0,0.02,0,1,1,1
+"GO:0043605","amide catabolic process",7,0,0.01,0,1,1,1
+"GO:0043618","regulation of transcription from RNA polymerase II promoter in response to stress",29,0,0.04,0,1,1,1
+"GO:0043619","regulation of transcription from RNA polymerase II promoter in response to oxidative stress",6,0,0.01,0,1,1,1
+"GO:0043620","regulation of DNA-templated transcription in response to stress",29,0,0.04,0,1,1,1
+"GO:0043628","regulatory ncRNA 3'-end processing",24,0,0.03,0,1,1,1
+"GO:0043632","modification-dependent macromolecule catabolic process",176,0,0.23,0,1,1,1
+"GO:0043633","polyadenylation-dependent RNA catabolic process",17,0,0.02,0,1,1,1
+"GO:0043634","polyadenylation-dependent ncRNA catabolic process",14,0,0.02,0,1,1,1
+"GO:0043647","inositol phosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0043648","dicarboxylic acid metabolic process",50,0,0.07,0,1,1,1
+"GO:0043649","dicarboxylic acid catabolic process",6,0,0.01,0,1,1,1
+"GO:0043650","dicarboxylic acid biosynthetic process",18,0,0.02,0,1,1,1
+"GO:0043666","regulation of phosphoprotein phosphatase activity",21,0,0.03,0,1,1,1
+"GO:0043687","post-translational protein modification",249,0,0.33,0,1,1,1
+"GO:0043708","cell adhesion involved in biofilm formation",5,0,0.01,0,1,1,1
+"GO:0043709","cell adhesion involved in single-species biofilm formation",5,0,0.01,0,1,1,1
+"GO:0043903","regulation of biological process involved in symbiotic interaction",5,0,0.01,0,1,1,1
+"GO:0043928","exonucleolytic catabolism of deadenylated mRNA",15,0,0.02,0,1,1,1
+"GO:0043936","asexual sporulation resulting in formation of a cellular spore",14,0,0.02,0,1,1,1
+"GO:0043937","regulation of sporulation",19,0,0.03,0,1,1,1
+"GO:0043938","positive regulation of sporulation",11,0,0.01,0,1,1,1
+"GO:0043940","regulation of sexual sporulation resulting in formation of a cellular spore",13,0,0.02,0,1,1,1
+"GO:0043941","positive regulation of sexual sporulation resulting in formation of a cellular spore",7,0,0.01,0,1,1,1
+"GO:0043949","regulation of cAMP-mediated signaling",6,0,0.01,0,1,1,1
+"GO:0043954","cellular component maintenance",16,0,0.02,0,1,1,1
+"GO:0043966","histone H3 acetylation",10,0,0.01,0,1,1,1
+"GO:0043967","histone H4 acetylation",12,0,0.02,0,1,1,1
+"GO:0044000","movement in host",11,0,0.01,0,1,1,1
+"GO:0044003","modulation by symbiont of host process",12,0,0.02,0,1,1,1
+"GO:0044010","single-species biofilm formation",24,0,0.03,0,1,1,1
+"GO:0044011","single-species biofilm formation on inanimate substrate",21,0,0.03,0,1,1,1
+"GO:0044036","cell wall macromolecule metabolic process",44,0,0.06,0,1,1,1
+"GO:0044038","cell wall macromolecule biosynthetic process",20,0,0.03,0,1,1,1
+"GO:0044042","glucan metabolic process",44,0,0.06,0,1,1,1
+"GO:0044070","regulation of monoatomic anion transport",13,0,0.02,0,1,1,1
+"GO:0044088","regulation of vacuole organization",20,0,0.03,0,1,1,1
+"GO:0044089","positive regulation of cellular component biogenesis",67,0,0.09,0,1,1,1
+"GO:0044091","membrane biogenesis",15,0,0.02,0,1,1,1
+"GO:0044092","negative regulation of molecular function",63,0,0.08,0,1,1,1
+"GO:0044093","positive regulation of molecular function",169,0,0.22,0,1,1,1
+"GO:0044111","formation of structure involved in a symbiotic process",7,0,0.01,0,1,1,1
+"GO:0044114","development of symbiont in host",7,0,0.01,0,1,1,1
+"GO:0044182","filamentous growth of a population of unicellular organisms",108,0,0.14,0,1,1,1
+"GO:0044242","cellular lipid catabolic process",30,0,0.04,0,1,1,1
+"GO:0044272","sulfur compound biosynthetic process",54,0,0.07,0,1,1,1
+"GO:0044277","cell wall disassembly",9,0,0.01,0,1,1,1
+"GO:0044283","small molecule biosynthetic process",267,0,0.35,0,1,1,1
+"GO:0044347","cell wall polysaccharide catabolic process",7,0,0.01,0,1,1,1
+"GO:0044380","protein localization to cytoskeleton",26,0,0.03,0,1,1,1
+"GO:0044396","actin cortical patch organization",24,0,0.03,0,1,1,1
+"GO:0044406","adhesion of symbiont to host",14,0,0.02,0,1,1,1
+"GO:0044407","single-species biofilm formation in or on host organism",5,0,0.01,0,1,1,1
+"GO:0044409","entry into host",11,0,0.01,0,1,1,1
+"GO:0044416","induction by symbiont of host defense response",10,0,0.01,0,1,1,1
+"GO:0044550","secondary metabolite biosynthetic process",23,0,0.03,0,1,1,1
+"GO:0044571","[2Fe-2S] cluster assembly",11,0,0.01,0,1,1,1
+"GO:0044572","[4Fe-4S] cluster assembly",9,0,0.01,0,1,1,1
+"GO:0044743","protein transmembrane import into intracellular organelle",47,0,0.06,0,1,1,1
+"GO:0044771","meiotic cell cycle phase transition",6,0,0.01,0,1,1,1
+"GO:0044773","mitotic DNA damage checkpoint signaling",28,0,0.04,0,1,1,1
+"GO:0044774","mitotic DNA integrity checkpoint signaling",41,0,0.05,0,1,1,1
+"GO:0044786","cell cycle DNA replication",77,0,0.1,0,1,1,1
+"GO:0044804","nucleophagy",26,0,0.03,0,1,1,1
+"GO:0044805","late nucleophagy",8,0,0.01,0,1,1,1
+"GO:0044818","mitotic G2/M transition checkpoint",20,0,0.03,0,1,1,1
+"GO:0044819","mitotic G1/S transition checkpoint signaling",7,0,0.01,0,1,1,1
+"GO:0044837","actomyosin contractile ring organization",47,0,0.06,0,1,1,1
+"GO:0044839","cell cycle G2/M phase transition",59,0,0.08,0,1,1,1
+"GO:0044843","cell cycle G1/S phase transition",41,0,0.05,0,1,1,1
+"GO:0045003","double-strand break repair via synthesis-dependent strand annealing",7,0,0.01,0,1,1,1
+"GO:0045005","DNA-templated DNA replication maintenance of fidelity",38,0,0.05,0,1,1,1
+"GO:0045010","actin nucleation",22,0,0.03,0,1,1,1
+"GO:0045013","carbon catabolite repression of transcription",16,0,0.02,0,1,1,1
+"GO:0045014","carbon catabolite repression of transcription by glucose",12,0,0.02,0,1,1,1
+"GO:0045023","G0 to G1 transition",5,0,0.01,0,1,1,1
+"GO:0045039","protein insertion into mitochondrial inner membrane",11,0,0.01,0,1,1,1
+"GO:0045040","protein insertion into mitochondrial outer membrane",7,0,0.01,0,1,1,1
+"GO:0045041","protein import into mitochondrial intermembrane space",7,0,0.01,0,1,1,1
+"GO:0045047","protein targeting to ER",25,0,0.03,0,1,1,1
+"GO:0045053","protein retention in Golgi apparatus",11,0,0.01,0,1,1,1
+"GO:0045116","protein neddylation",6,0,0.01,0,1,1,1
+"GO:0045128","negative regulation of reciprocal meiotic recombination",8,0,0.01,0,1,1,1
+"GO:0045132","meiotic chromosome segregation",56,0,0.07,0,1,1,1
+"GO:0045141","meiotic telomere clustering",6,0,0.01,0,1,1,1
+"GO:0045143","homologous chromosome segregation",40,0,0.05,0,1,1,1
+"GO:0045144","meiotic sister chromatid segregation",8,0,0.01,0,1,1,1
+"GO:0045165","cell fate commitment",25,0,0.03,0,1,1,1
+"GO:0045185","maintenance of protein location",35,0,0.05,0,1,1,1
+"GO:0045229","external encapsulating structure organization",85,0,0.11,0,1,1,1
+"GO:0045292","mRNA cis splicing, via spliceosome",95,0,0.13,0,1,1,1
+"GO:0045324","late endosome to vacuole transport",47,0,0.06,0,1,1,1
+"GO:0045332","phospholipid translocation",8,0,0.01,0,1,1,1
+"GO:0045333","cellular respiration",75,0,0.1,0,1,1,1
+"GO:0045337","farnesyl diphosphate biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0045338","farnesyl diphosphate metabolic process",7,0,0.01,0,1,1,1
+"GO:0045454","cell redox homeostasis",5,0,0.01,0,1,1,1
+"GO:0045595","regulation of cell differentiation",28,0,0.04,0,1,1,1
+"GO:0045597","positive regulation of cell differentiation",18,0,0.02,0,1,1,1
+"GO:0045721","negative regulation of gluconeogenesis",8,0,0.01,0,1,1,1
+"GO:0045727","positive regulation of translation",26,0,0.03,0,1,1,1
+"GO:0045732","positive regulation of protein catabolic process",53,0,0.07,0,1,1,1
+"GO:0045737","positive regulation of cyclin-dependent protein serine/threonine kinase activity",9,0,0.01,0,1,1,1
+"GO:0045738","negative regulation of DNA repair",5,0,0.01,0,1,1,1
+"GO:0045740","positive regulation of DNA replication",6,0,0.01,0,1,1,1
+"GO:0045744","negative regulation of G protein-coupled receptor signaling pathway",6,0,0.01,0,1,1,1
+"GO:0045785","positive regulation of cell adhesion",8,0,0.01,0,1,1,1
+"GO:0045787","positive regulation of cell cycle",120,0,0.16,0,1,1,1
+"GO:0045807","positive regulation of endocytosis",8,0,0.01,0,1,1,1
+"GO:0045815","transcription initiation-coupled chromatin remodeling",16,0,0.02,0,1,1,1
+"GO:0045833","negative regulation of lipid metabolic process",12,0,0.02,0,1,1,1
+"GO:0045834","positive regulation of lipid metabolic process",12,0,0.02,0,1,1,1
+"GO:0045835","negative regulation of meiotic nuclear division",21,0,0.03,0,1,1,1
+"GO:0045836","positive regulation of meiotic nuclear division",6,0,0.01,0,1,1,1
+"GO:0045840","positive regulation of mitotic nuclear division",50,0,0.07,0,1,1,1
+"GO:0045842","positive regulation of mitotic metaphase/anaphase transition",43,0,0.06,0,1,1,1
+"GO:0045851","pH reduction",22,0,0.03,0,1,1,1
+"GO:0045859","regulation of protein kinase activity",64,0,0.08,0,1,1,1
+"GO:0045860","positive regulation of protein kinase activity",42,0,0.06,0,1,1,1
+"GO:0045861","negative regulation of proteolysis",11,0,0.01,0,1,1,1
+"GO:0045862","positive regulation of proteolysis",55,0,0.07,0,1,1,1
+"GO:0045875","negative regulation of sister chromatid cohesion",6,0,0.01,0,1,1,1
+"GO:0045881","positive regulation of sporulation resulting in formation of a cellular spore",8,0,0.01,0,1,1,1
+"GO:0045892","negative regulation of DNA-templated transcription",196,0,0.26,0,1,1,1
+"GO:0045893","positive regulation of DNA-templated transcription",185,0,0.24,0,1,1,1
+"GO:0045898","regulation of RNA polymerase II transcription preinitiation complex assembly",14,0,0.02,0,1,1,1
+"GO:0045899","positive regulation of RNA polymerase II transcription preinitiation complex assembly",12,0,0.02,0,1,1,1
+"GO:0045903","positive regulation of translational fidelity",7,0,0.01,0,1,1,1
+"GO:0045910","negative regulation of DNA recombination",17,0,0.02,0,1,1,1
+"GO:0045912","negative regulation of carbohydrate metabolic process",12,0,0.02,0,1,1,1
+"GO:0045913","positive regulation of carbohydrate metabolic process",8,0,0.01,0,1,1,1
+"GO:0045926","negative regulation of growth",18,0,0.02,0,1,1,1
+"GO:0045927","positive regulation of growth",28,0,0.04,0,1,1,1
+"GO:0045931","positive regulation of mitotic cell cycle",87,0,0.12,0,1,1,1
+"GO:0045934","negative regulation of nucleobase-containing compound metabolic process",238,0,0.31,0,1,1,1
+"GO:0045935","positive regulation of nucleobase-containing compound metabolic process",262,0,0.35,0,1,1,1
+"GO:0045936","negative regulation of phosphate metabolic process",39,0,0.05,0,1,1,1
+"GO:0045937","positive regulation of phosphate metabolic process",75,0,0.1,0,1,1,1
+"GO:0045943","positive regulation of transcription by RNA polymerase I",17,0,0.02,0,1,1,1
+"GO:0045944","positive regulation of transcription by RNA polymerase II",159,0,0.21,0,1,1,1
+"GO:0045947","negative regulation of translational initiation",5,0,0.01,0,1,1,1
+"GO:0045948","positive regulation of translational initiation",5,0,0.01,0,1,1,1
+"GO:0045990","carbon catabolite regulation of transcription",35,0,0.05,0,1,1,1
+"GO:0045991","carbon catabolite activation of transcription",21,0,0.03,0,1,1,1
+"GO:0046015","regulation of transcription by glucose",16,0,0.02,0,1,1,1
+"GO:0046031","ADP metabolic process",17,0,0.02,0,1,1,1
+"GO:0046034","ATP metabolic process",49,0,0.06,0,1,1,1
+"GO:0046040","IMP metabolic process",9,0,0.01,0,1,1,1
+"GO:0046049","UMP metabolic process",7,0,0.01,0,1,1,1
+"GO:0046083","adenine metabolic process",6,0,0.01,0,1,1,1
+"GO:0046084","adenine biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0046112","nucleobase biosynthetic process",18,0,0.02,0,1,1,1
+"GO:0046129","purine ribonucleoside biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0046131","pyrimidine ribonucleoside metabolic process",14,0,0.02,0,1,1,1
+"GO:0046132","pyrimidine ribonucleoside biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0046134","pyrimidine nucleoside biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0046148","pigment biosynthetic process",27,0,0.04,0,1,1,1
+"GO:0046164","alcohol catabolic process",7,0,0.01,0,1,1,1
+"GO:0046165","alcohol biosynthetic process",57,0,0.08,0,1,1,1
+"GO:0046173","polyol biosynthetic process",12,0,0.02,0,1,1,1
+"GO:0046184","aldehyde biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0046185","aldehyde catabolic process",5,0,0.01,0,1,1,1
+"GO:0046219","indolalkylamine biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0046337","phosphatidylethanolamine metabolic process",7,0,0.01,0,1,1,1
+"GO:0046348","amino sugar catabolic process",5,0,0.01,0,1,1,1
+"GO:0046349","amino sugar biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0046351","disaccharide biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0046352","disaccharide catabolic process",8,0,0.01,0,1,1,1
+"GO:0046364","monosaccharide biosynthetic process",24,0,0.03,0,1,1,1
+"GO:0046365","monosaccharide catabolic process",20,0,0.03,0,1,1,1
+"GO:0046385","deoxyribose phosphate biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0046390","ribose phosphate biosynthetic process",67,0,0.09,0,1,1,1
+"GO:0046394","carboxylic acid biosynthetic process",149,0,0.2,0,1,1,1
+"GO:0046434","organophosphate catabolic process",26,0,0.03,0,1,1,1
+"GO:0046460","neutral lipid biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0046463","acylglycerol biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0046467","membrane lipid biosynthetic process",56,0,0.07,0,1,1,1
+"GO:0046471","phosphatidylglycerol metabolic process",13,0,0.02,0,1,1,1
+"GO:0046488","phosphatidylinositol metabolic process",54,0,0.07,0,1,1,1
+"GO:0046490","isopentenyl diphosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0046496","nicotinamide nucleotide metabolic process",45,0,0.06,0,1,1,1
+"GO:0046503","glycerolipid catabolic process",6,0,0.01,0,1,1,1
+"GO:0046513","ceramide biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0046519","sphingoid metabolic process",5,0,0.01,0,1,1,1
+"GO:0046578","regulation of Ras protein signal transduction",32,0,0.04,0,1,1,1
+"GO:0046579","positive regulation of Ras protein signal transduction",7,0,0.01,0,1,1,1
+"GO:0046580","negative regulation of Ras protein signal transduction",21,0,0.03,0,1,1,1
+"GO:0046618","xenobiotic export from cell",15,0,0.02,0,1,1,1
+"GO:0046653","tetrahydrofolate metabolic process",5,0,0.01,0,1,1,1
+"GO:0046677","response to antibiotic",28,0,0.04,0,1,1,1
+"GO:0046686","response to cadmium ion",9,0,0.01,0,1,1,1
+"GO:0046688","response to copper ion",8,0,0.01,0,1,1,1
+"GO:0046777","protein autophosphorylation",19,0,0.03,0,1,1,1
+"GO:0046785","microtubule polymerization",23,0,0.03,0,1,1,1
+"GO:0046822","regulation of nucleocytoplasmic transport",22,0,0.03,0,1,1,1
+"GO:0046824","positive regulation of nucleocytoplasmic transport",12,0,0.02,0,1,1,1
+"GO:0046825","regulation of protein export from nucleus",15,0,0.02,0,1,1,1
+"GO:0046827","positive regulation of protein export from nucleus",8,0,0.01,0,1,1,1
+"GO:0046834","lipid phosphorylation",8,0,0.01,0,1,1,1
+"GO:0046835","carbohydrate phosphorylation",11,0,0.01,0,1,1,1
+"GO:0046839","phospholipid dephosphorylation",11,0,0.01,0,1,1,1
+"GO:0046854","phosphatidylinositol phosphate biosynthetic process",11,0,0.01,0,1,1,1
+"GO:0046856","phosphatidylinositol dephosphorylation",10,0,0.01,0,1,1,1
+"GO:0046889","positive regulation of lipid biosynthetic process",10,0,0.01,0,1,1,1
+"GO:0046890","regulation of lipid biosynthetic process",25,0,0.03,0,1,1,1
+"GO:0046903","secretion",44,0,0.06,0,1,1,1
+"GO:0046931","pore complex assembly",6,0,0.01,0,1,1,1
+"GO:0046940","nucleoside monophosphate phosphorylation",6,0,0.01,0,1,1,1
+"GO:0046942","carboxylic acid transport",51,0,0.07,0,1,1,1
+"GO:0048015","phosphatidylinositol-mediated signaling",7,0,0.01,0,1,1,1
+"GO:0048024","regulation of mRNA splicing, via spliceosome",9,0,0.01,0,1,1,1
+"GO:0048193","Golgi vesicle transport",151,0,0.2,0,1,1,1
+"GO:0048194","Golgi vesicle budding",11,0,0.01,0,1,1,1
+"GO:0048199","vesicle targeting, to, from or within Golgi",5,0,0.01,0,1,1,1
+"GO:0048255","mRNA stabilization",6,0,0.01,0,1,1,1
+"GO:0048278","vesicle docking",23,0,0.03,0,1,1,1
+"GO:0048280","vesicle fusion with Golgi apparatus",7,0,0.01,0,1,1,1
+"GO:0048284","organelle fusion",73,0,0.1,0,1,1,1
+"GO:0048308","organelle inheritance",39,0,0.05,0,1,1,1
+"GO:0048309","endoplasmic reticulum inheritance",8,0,0.01,0,1,1,1
+"GO:0048311","mitochondrion distribution",21,0,0.03,0,1,1,1
+"GO:0048315","conidium formation",11,0,0.01,0,1,1,1
+"GO:0048468","cell development",95,0,0.13,0,1,1,1
+"GO:0048513","animal organ development",7,0,0.01,0,1,1,1
+"GO:0048518","positive regulation of biological process",571,0,0.76,0,1,1,1
+"GO:0048522","positive regulation of cellular process",551,0,0.73,0,1,1,1
+"GO:0048583","regulation of response to stimulus",202,0,0.27,0,1,1,1
+"GO:0048584","positive regulation of response to stimulus",91,0,0.12,0,1,1,1
+"GO:0048585","negative regulation of response to stimulus",82,0,0.11,0,1,1,1
+"GO:0048589","developmental growth",7,0,0.01,0,1,1,1
+"GO:0048608","reproductive structure development",13,0,0.02,0,1,1,1
+"GO:0048638","regulation of developmental growth",5,0,0.01,0,1,1,1
+"GO:0048731","system development",24,0,0.03,0,1,1,1
+"GO:0048870","cell motility",5,0,0.01,0,1,1,1
+"GO:0048871","multicellular organismal-level homeostasis",99,0,0.13,0,1,1,1
+"GO:0048878","chemical homeostasis",139,0,0.18,0,1,1,1
+"GO:0050000","chromosome localization",55,0,0.07,0,1,1,1
+"GO:0050667","homocysteine metabolic process",9,0,0.01,0,1,1,1
+"GO:0050684","regulation of mRNA processing",16,0,0.02,0,1,1,1
+"GO:0050779","RNA destabilization",54,0,0.07,0,1,1,1
+"GO:0050790","regulation of catalytic activity",240,0,0.32,0,1,1,1
+"GO:0050793","regulation of developmental process",86,0,0.11,0,1,1,1
+"GO:0050801","monoatomic ion homeostasis",109,0,0.14,0,1,1,1
+"GO:0050810","regulation of steroid biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0050821","protein stabilization",9,0,0.01,0,1,1,1
+"GO:0050848","regulation of calcium-mediated signaling",5,0,0.01,0,1,1,1
+"GO:0051014","actin filament severing",5,0,0.01,0,1,1,1
+"GO:0051016","barbed-end actin filament capping",6,0,0.01,0,1,1,1
+"GO:0051017","actin filament bundle assembly",19,0,0.03,0,1,1,1
+"GO:0051028","mRNA transport",46,0,0.06,0,1,1,1
+"GO:0051029","rRNA transport",14,0,0.02,0,1,1,1
+"GO:0051037","regulation of transcription involved in meiotic cell cycle",5,0,0.01,0,1,1,1
+"GO:0051046","regulation of secretion",6,0,0.01,0,1,1,1
+"GO:0051049","regulation of transport",95,0,0.13,0,1,1,1
+"GO:0051050","positive regulation of transport",35,0,0.05,0,1,1,1
+"GO:0051051","negative regulation of transport",14,0,0.02,0,1,1,1
+"GO:0051052","regulation of DNA metabolic process",86,0,0.11,0,1,1,1
+"GO:0051053","negative regulation of DNA metabolic process",40,0,0.05,0,1,1,1
+"GO:0051054","positive regulation of DNA metabolic process",21,0,0.03,0,1,1,1
+"GO:0051055","negative regulation of lipid biosynthetic process",9,0,0.01,0,1,1,1
+"GO:0051056","regulation of small GTPase mediated signal transduction",34,0,0.04,0,1,1,1
+"GO:0051057","positive regulation of small GTPase mediated signal transduction",7,0,0.01,0,1,1,1
+"GO:0051058","negative regulation of small GTPase mediated signal transduction",22,0,0.03,0,1,1,1
+"GO:0051083","'de novo' cotranslational protein folding",5,0,0.01,0,1,1,1
+"GO:0051090","regulation of DNA-binding transcription factor activity",8,0,0.01,0,1,1,1
+"GO:0051093","negative regulation of developmental process",6,0,0.01,0,1,1,1
+"GO:0051094","positive regulation of developmental process",21,0,0.03,0,1,1,1
+"GO:0051095","regulation of helicase activity",7,0,0.01,0,1,1,1
+"GO:0051097","negative regulation of helicase activity",6,0,0.01,0,1,1,1
+"GO:0051098","regulation of binding",28,0,0.04,0,1,1,1
+"GO:0051099","positive regulation of binding",13,0,0.02,0,1,1,1
+"GO:0051100","negative regulation of binding",14,0,0.02,0,1,1,1
+"GO:0051101","regulation of DNA binding",18,0,0.02,0,1,1,1
+"GO:0051123","RNA polymerase II preinitiation complex assembly",29,0,0.04,0,1,1,1
+"GO:0051125","regulation of actin nucleation",11,0,0.01,0,1,1,1
+"GO:0051126","negative regulation of actin nucleation",5,0,0.01,0,1,1,1
+"GO:0051127","positive regulation of actin nucleation",7,0,0.01,0,1,1,1
+"GO:0051130","positive regulation of cellular component organization",157,0,0.21,0,1,1,1
+"GO:0051156","glucose 6-phosphate metabolic process",14,0,0.02,0,1,1,1
+"GO:0051170","import into nucleus",43,0,0.06,0,1,1,1
+"GO:0051171","regulation of nitrogen compound metabolic process",685,0,0.91,0,1,1,1
+"GO:0051172","negative regulation of nitrogen compound metabolic process",331,0,0.44,0,1,1,1
+"GO:0051173","positive regulation of nitrogen compound metabolic process",379,0,0.5,0,1,1,1
+"GO:0051174","regulation of phosphorus metabolic process",144,0,0.19,0,1,1,1
+"GO:0051176","positive regulation of sulfur metabolic process",7,0,0.01,0,1,1,1
+"GO:0051177","meiotic sister chromatid cohesion",5,0,0.01,0,1,1,1
+"GO:0051204","protein insertion into mitochondrial membrane",20,0,0.03,0,1,1,1
+"GO:0051205","protein insertion into membrane",24,0,0.03,0,1,1,1
+"GO:0051222","positive regulation of protein transport",14,0,0.02,0,1,1,1
+"GO:0051223","regulation of protein transport",30,0,0.04,0,1,1,1
+"GO:0051225","spindle assembly",23,0,0.03,0,1,1,1
+"GO:0051228","mitotic spindle disassembly",6,0,0.01,0,1,1,1
+"GO:0051230","spindle disassembly",9,0,0.01,0,1,1,1
+"GO:0051231","spindle elongation",19,0,0.03,0,1,1,1
+"GO:0051235","maintenance of location",49,0,0.06,0,1,1,1
+"GO:0051239","regulation of multicellular organismal process",12,0,0.02,0,1,1,1
+"GO:0051240","positive regulation of multicellular organismal process",8,0,0.01,0,1,1,1
+"GO:0051246","regulation of protein metabolic process",314,0,0.42,0,1,1,1
+"GO:0051247","positive regulation of protein metabolic process",156,0,0.21,0,1,1,1
+"GO:0051248","negative regulation of protein metabolic process",109,0,0.14,0,1,1,1
+"GO:0051252","regulation of RNA metabolic process",454,0,0.6,0,1,1,1
+"GO:0051253","negative regulation of RNA metabolic process",207,0,0.27,0,1,1,1
+"GO:0051254","positive regulation of RNA metabolic process",242,0,0.32,0,1,1,1
+"GO:0051258","protein polymerization",62,0,0.08,0,1,1,1
+"GO:0051259","protein complex oligomerization",10,0,0.01,0,1,1,1
+"GO:0051260","protein homooligomerization",8,0,0.01,0,1,1,1
+"GO:0051261","protein depolymerization",24,0,0.03,0,1,1,1
+"GO:0051273","beta-glucan metabolic process",25,0,0.03,0,1,1,1
+"GO:0051274","beta-glucan biosynthetic process",19,0,0.03,0,1,1,1
+"GO:0051278","fungal-type cell wall polysaccharide biosynthetic process",15,0,0.02,0,1,1,1
+"GO:0051292","nuclear pore complex assembly",6,0,0.01,0,1,1,1
+"GO:0051293","establishment of spindle localization",12,0,0.02,0,1,1,1
+"GO:0051294","establishment of spindle orientation",9,0,0.01,0,1,1,1
+"GO:0051300","spindle pole body organization",16,0,0.02,0,1,1,1
+"GO:0051301","cell division",167,0,0.22,0,1,1,1
+"GO:0051302","regulation of cell division",84,0,0.11,0,1,1,1
+"GO:0051303","establishment of chromosome localization",46,0,0.06,0,1,1,1
+"GO:0051307","meiotic chromosome separation",15,0,0.02,0,1,1,1
+"GO:0051310","metaphase chromosome alignment",39,0,0.05,0,1,1,1
+"GO:0051311","meiotic metaphase chromosome alignment",19,0,0.03,0,1,1,1
+"GO:0051315","attachment of mitotic spindle microtubules to kinetochore",24,0,0.03,0,1,1,1
+"GO:0051316","attachment of meiotic spindle microtubules to kinetochore",19,0,0.03,0,1,1,1
+"GO:0051336","regulation of hydrolase activity",113,0,0.15,0,1,1,1
+"GO:0051338","regulation of transferase activity",80,0,0.11,0,1,1,1
+"GO:0051345","positive regulation of hydrolase activity",79,0,0.1,0,1,1,1
+"GO:0051346","negative regulation of hydrolase activity",19,0,0.03,0,1,1,1
+"GO:0051347","positive regulation of transferase activity",49,0,0.06,0,1,1,1
+"GO:0051348","negative regulation of transferase activity",20,0,0.03,0,1,1,1
+"GO:0051382","kinetochore assembly",9,0,0.01,0,1,1,1
+"GO:0051383","kinetochore organization",9,0,0.01,0,1,1,1
+"GO:0051403","stress-activated MAPK cascade",18,0,0.02,0,1,1,1
+"GO:0051445","regulation of meiotic cell cycle",62,0,0.08,0,1,1,1
+"GO:0051446","positive regulation of meiotic cell cycle",17,0,0.02,0,1,1,1
+"GO:0051447","negative regulation of meiotic cell cycle",29,0,0.04,0,1,1,1
+"GO:0051452","intracellular pH reduction",22,0,0.03,0,1,1,1
+"GO:0051453","regulation of intracellular pH",25,0,0.03,0,1,1,1
+"GO:0051455","spindle attachment to meiosis I kinetochore",18,0,0.02,0,1,1,1
+"GO:0051480","regulation of cytosolic calcium ion concentration",6,0,0.01,0,1,1,1
+"GO:0051493","regulation of cytoskeleton organization",94,0,0.12,0,1,1,1
+"GO:0051494","negative regulation of cytoskeleton organization",25,0,0.03,0,1,1,1
+"GO:0051495","positive regulation of cytoskeleton organization",41,0,0.05,0,1,1,1
+"GO:0051503","adenine nucleotide transport",20,0,0.03,0,1,1,1
+"GO:0051567","histone H3-K9 methylation",10,0,0.01,0,1,1,1
+"GO:0051568","histone H3-K4 methylation",21,0,0.03,0,1,1,1
+"GO:0051569","regulation of histone H3-K4 methylation",12,0,0.02,0,1,1,1
+"GO:0051570","regulation of histone H3-K9 methylation",8,0,0.01,0,1,1,1
+"GO:0051598","meiotic recombination checkpoint signaling",6,0,0.01,0,1,1,1
+"GO:0051603","proteolysis involved in protein catabolic process",176,0,0.23,0,1,1,1
+"GO:0051604","protein maturation",159,0,0.21,0,1,1,1
+"GO:0051606","detection of stimulus",6,0,0.01,0,1,1,1
+"GO:0051640","organelle localization",176,0,0.23,0,1,1,1
+"GO:0051643","endoplasmic reticulum localization",10,0,0.01,0,1,1,1
+"GO:0051646","mitochondrion localization",23,0,0.03,0,1,1,1
+"GO:0051647","nucleus localization",25,0,0.03,0,1,1,1
+"GO:0051648","vesicle localization",26,0,0.03,0,1,1,1
+"GO:0051650","establishment of vesicle localization",26,0,0.03,0,1,1,1
+"GO:0051651","maintenance of location in cell",40,0,0.05,0,1,1,1
+"GO:0051653","spindle localization",12,0,0.02,0,1,1,1
+"GO:0051656","establishment of organelle localization",130,0,0.17,0,1,1,1
+"GO:0051657","maintenance of organelle location",5,0,0.01,0,1,1,1
+"GO:0051664","nuclear pore localization",5,0,0.01,0,1,1,1
+"GO:0051666","actin cortical patch localization",22,0,0.03,0,1,1,1
+"GO:0051668","localization within membrane",120,0,0.16,0,1,1,1
+"GO:0051685","maintenance of ER location",5,0,0.01,0,1,1,1
+"GO:0051693","actin filament capping",6,0,0.01,0,1,1,1
+"GO:0051703","biological process involved in intraspecies interaction between organisms",29,0,0.04,0,1,1,1
+"GO:0051707","response to other organism",22,0,0.03,0,1,1,1
+"GO:0051781","positive regulation of cell division",58,0,0.08,0,1,1,1
+"GO:0051782","negative regulation of cell division",13,0,0.02,0,1,1,1
+"GO:0051785","positive regulation of nuclear division",55,0,0.07,0,1,1,1
+"GO:0051788","response to misfolded protein",16,0,0.02,0,1,1,1
+"GO:0051952","regulation of amine transport",7,0,0.01,0,1,1,1
+"GO:0051955","regulation of amino acid transport",7,0,0.01,0,1,1,1
+"GO:0051972","regulation of telomerase activity",6,0,0.01,0,1,1,1
+"GO:0051974","negative regulation of telomerase activity",5,0,0.01,0,1,1,1
+"GO:0051984","positive regulation of chromosome segregation",54,0,0.07,0,1,1,1
+"GO:0051987","positive regulation of attachment of spindle microtubules to kinetochore",7,0,0.01,0,1,1,1
+"GO:0051988","regulation of attachment of spindle microtubules to kinetochore",8,0,0.01,0,1,1,1
+"GO:0052031","modulation by symbiont of host defense response",12,0,0.02,0,1,1,1
+"GO:0052173","response to defenses of other organism",18,0,0.02,0,1,1,1
+"GO:0052200","response to host defenses",17,0,0.02,0,1,1,1
+"GO:0052547","regulation of peptidase activity",6,0,0.01,0,1,1,1
+"GO:0052572","response to host immune response",6,0,0.01,0,1,1,1
+"GO:0052646","alditol phosphate metabolic process",5,0,0.01,0,1,1,1
+"GO:0052803","imidazole-containing compound metabolic process",7,0,0.01,0,1,1,1
+"GO:0055070","copper ion homeostasis",11,0,0.01,0,1,1,1
+"GO:0055071","manganese ion homeostasis",6,0,0.01,0,1,1,1
+"GO:0055074","calcium ion homeostasis",22,0,0.03,0,1,1,1
+"GO:0055080","monoatomic cation homeostasis",101,0,0.13,0,1,1,1
+"GO:0055081","monoatomic anion homeostasis",5,0,0.01,0,1,1,1
+"GO:0055082","intracellular chemical homeostasis",131,0,0.17,0,1,1,1
+"GO:0055085","transmembrane transport",257,0,0.34,0,1,1,1
+"GO:0055088","lipid homeostasis",16,0,0.02,0,1,1,1
+"GO:0055092","sterol homeostasis",6,0,0.01,0,1,1,1
+"GO:0060194","regulation of antisense RNA transcription",6,0,0.01,0,1,1,1
+"GO:0060195","negative regulation of antisense RNA transcription",6,0,0.01,0,1,1,1
+"GO:0060236","regulation of mitotic spindle organization",12,0,0.02,0,1,1,1
+"GO:0060237","regulation of fungal-type cell wall organization",15,0,0.02,0,1,1,1
+"GO:0060238","regulation of signal transduction involved in conjugation with cellular fusion",7,0,0.01,0,1,1,1
+"GO:0060249","anatomical structure homeostasis",96,0,0.13,0,1,1,1
+"GO:0060258","negative regulation of filamentous growth",17,0,0.02,0,1,1,1
+"GO:0060260","regulation of transcription initiation by RNA polymerase II",23,0,0.03,0,1,1,1
+"GO:0060261","positive regulation of transcription initiation by RNA polymerase II",17,0,0.02,0,1,1,1
+"GO:0060284","regulation of cell development",22,0,0.03,0,1,1,1
+"GO:0060341","regulation of cellular localization",87,0,0.12,0,1,1,1
+"GO:0060402","calcium ion transport into cytosol",7,0,0.01,0,1,1,1
+"GO:0060560","developmental growth involved in morphogenesis",6,0,0.01,0,1,1,1
+"GO:0060627","regulation of vesicle-mediated transport",47,0,0.06,0,1,1,1
+"GO:0060628","regulation of ER to Golgi vesicle-mediated transport",6,0,0.01,0,1,1,1
+"GO:0060631","regulation of meiosis I",17,0,0.02,0,1,1,1
+"GO:0061013","regulation of mRNA catabolic process",65,0,0.09,0,1,1,1
+"GO:0061014","positive regulation of mRNA catabolic process",54,0,0.07,0,1,1,1
+"GO:0061024","membrane organization",175,0,0.23,0,1,1,1
+"GO:0061025","membrane fusion",61,0,0.08,0,1,1,1
+"GO:0061077","chaperone-mediated protein folding",21,0,0.03,0,1,1,1
+"GO:0061136","regulation of proteasomal protein catabolic process",56,0,0.07,0,1,1,1
+"GO:0061157","mRNA destabilization",54,0,0.07,0,1,1,1
+"GO:0061163","endoplasmic reticulum polarization",5,0,0.01,0,1,1,1
+"GO:0061171","establishment of bipolar cell polarity",9,0,0.01,0,1,1,1
+"GO:0061245","establishment or maintenance of bipolar cell polarity",13,0,0.02,0,1,1,1
+"GO:0061246","establishment or maintenance of bipolar cell polarity regulating cell shape",13,0,0.02,0,1,1,1
+"GO:0061413","regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source",6,0,0.01,0,1,1,1
+"GO:0061414","positive regulation of transcription from RNA polymerase II promoter by a nonfermentable carbon source",6,0,0.01,0,1,1,1
+"GO:0061418","regulation of transcription from RNA polymerase II promoter in response to hypoxia",6,0,0.01,0,1,1,1
+"GO:0061458","reproductive system development",13,0,0.02,0,1,1,1
+"GO:0061492","asymmetric protein localization to old or new spindle pole body",6,0,0.01,0,1,1,1
+"GO:0061509","asymmetric protein localization to old mitotic spindle pole body",5,0,0.01,0,1,1,1
+"GO:0061572","actin filament bundle organization",21,0,0.03,0,1,1,1
+"GO:0061615","glycolytic process through fructose-6-phosphate",10,0,0.01,0,1,1,1
+"GO:0061620","glycolytic process through glucose-6-phosphate",10,0,0.01,0,1,1,1
+"GO:0061621","canonical glycolysis",10,0,0.01,0,1,1,1
+"GO:0061640","cytoskeleton-dependent cytokinesis",90,0,0.12,0,1,1,1
+"GO:0061647","histone H3-K9 modification",13,0,0.02,0,1,1,1
+"GO:0061687","detoxification of inorganic compound",8,0,0.01,0,1,1,1
+"GO:0061709","reticulophagy",7,0,0.01,0,1,1,1
+"GO:0061718","glucose catabolic process to pyruvate",10,0,0.01,0,1,1,1
+"GO:0061726","mitochondrion disassembly",19,0,0.03,0,1,1,1
+"GO:0061780","mitotic cohesin loading",7,0,0.01,0,1,1,1
+"GO:0061794","conidium development",11,0,0.01,0,1,1,1
+"GO:0061804","mitotic spindle formation (spindle phase one)",7,0,0.01,0,1,1,1
+"GO:0061912","selective autophagy",12,0,0.02,0,1,1,1
+"GO:0061919","process utilizing autophagic mechanism",114,0,0.15,0,1,1,1
+"GO:0061951","establishment of protein localization to plasma membrane",16,0,0.02,0,1,1,1
+"GO:0061982","meiosis I cell cycle process",102,0,0.13,0,1,1,1
+"GO:0061983","meiosis II cell cycle process",13,0,0.02,0,1,1,1
+"GO:0061984","catabolite repression",16,0,0.02,0,1,1,1
+"GO:0061985","carbon catabolite repression",16,0,0.02,0,1,1,1
+"GO:0061986","negative regulation of transcription by glucose",12,0,0.02,0,1,1,1
+"GO:0061987","negative regulation of transcription from RNA polymerase II promoter by glucose",11,0,0.01,0,1,1,1
+"GO:0062012","regulation of small molecule metabolic process",48,0,0.06,0,1,1,1
+"GO:0062013","positive regulation of small molecule metabolic process",20,0,0.03,0,1,1,1
+"GO:0062014","negative regulation of small molecule metabolic process",14,0,0.02,0,1,1,1
+"GO:0062022","mitotic cohesin ssDNA (lagging strand) loading",5,0,0.01,0,1,1,1
+"GO:0062033","positive regulation of mitotic sister chromatid segregation",48,0,0.06,0,1,1,1
+"GO:0062197","cellular response to chemical stress",119,0,0.16,0,1,1,1
+"GO:0065002","intracellular protein transmembrane transport",58,0,0.08,0,1,1,1
+"GO:0065008","regulation of biological quality",510,0,0.67,0,1,1,1
+"GO:0065009","regulation of molecular function",301,0,0.4,0,1,1,1
+"GO:0070058","tRNA gene clustering",5,0,0.01,0,1,1,1
+"GO:0070071","proton-transporting two-sector ATPase complex assembly",6,0,0.01,0,1,1,1
+"GO:0070085","glycosylation",51,0,0.07,0,1,1,1
+"GO:0070096","mitochondrial outer membrane translocase complex assembly",5,0,0.01,0,1,1,1
+"GO:0070127","tRNA aminoacylation for mitochondrial protein translation",12,0,0.02,0,1,1,1
+"GO:0070192","chromosome organization involved in meiotic cell cycle",28,0,0.04,0,1,1,1
+"GO:0070193","synaptonemal complex organization",7,0,0.01,0,1,1,1
+"GO:0070199","establishment of protein localization to chromosome",8,0,0.01,0,1,1,1
+"GO:0070201","regulation of establishment of protein localization",31,0,0.04,0,1,1,1
+"GO:0070301","cellular response to hydrogen peroxide",11,0,0.01,0,1,1,1
+"GO:0070302","regulation of stress-activated protein kinase signaling cascade",10,0,0.01,0,1,1,1
+"GO:0070304","positive regulation of stress-activated protein kinase signaling cascade",6,0,0.01,0,1,1,1
+"GO:0070316","regulation of G0 to G1 transition",5,0,0.01,0,1,1,1
+"GO:0070475","rRNA base methylation",8,0,0.01,0,1,1,1
+"GO:0070478","nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay",14,0,0.02,0,1,1,1
+"GO:0070481","nuclear-transcribed mRNA catabolic process, non-stop decay",15,0,0.02,0,1,1,1
+"GO:0070482","response to oxygen levels",17,0,0.02,0,1,1,1
+"GO:0070507","regulation of microtubule cytoskeleton organization",26,0,0.03,0,1,1,1
+"GO:0070509","calcium ion import",6,0,0.01,0,1,1,1
+"GO:0070525","tRNA threonylcarbamoyladenosine metabolic process",9,0,0.01,0,1,1,1
+"GO:0070534","protein K63-linked ubiquitination",5,0,0.01,0,1,1,1
+"GO:0070585","protein localization to mitochondrion",49,0,0.06,0,1,1,1
+"GO:0070588","calcium ion transmembrane transport",19,0,0.03,0,1,1,1
+"GO:0070590","spore wall biogenesis",17,0,0.02,0,1,1,1
+"GO:0070591","ascospore wall biogenesis",15,0,0.02,0,1,1,1
+"GO:0070592","cell wall polysaccharide biosynthetic process",22,0,0.03,0,1,1,1
+"GO:0070601","centromeric sister chromatid cohesion",6,0,0.01,0,1,1,1
+"GO:0070646","protein modification by small protein removal",29,0,0.04,0,1,1,1
+"GO:0070647","protein modification by small protein conjugation or removal",156,0,0.21,0,1,1,1
+"GO:0070649","formin-nucleated actin cable assembly",9,0,0.01,0,1,1,1
+"GO:0070650","actin filament bundle distribution",5,0,0.01,0,1,1,1
+"GO:0070651","nonfunctional rRNA decay",18,0,0.02,0,1,1,1
+"GO:0070676","intralumenal vesicle formation",7,0,0.01,0,1,1,1
+"GO:0070682","proteasome regulatory particle assembly",7,0,0.01,0,1,1,1
+"GO:0070726","cell wall assembly",20,0,0.03,0,1,1,1
+"GO:0070783","growth of unicellular organism as a thread of attached cells",48,0,0.06,0,1,1,1
+"GO:0070784","regulation of growth of unicellular organism as a thread of attached cells",16,0,0.02,0,1,1,1
+"GO:0070785","negative regulation of growth of unicellular organism as a thread of attached cells",5,0,0.01,0,1,1,1
+"GO:0070786","positive regulation of growth of unicellular organism as a thread of attached cells",5,0,0.01,0,1,1,1
+"GO:0070791","cleistothecium development",7,0,0.01,0,1,1,1
+"GO:0070871","cell wall organization involved in conjugation with cellular fusion",8,0,0.01,0,1,1,1
+"GO:0070873","regulation of glycogen metabolic process",5,0,0.01,0,1,1,1
+"GO:0070879","fungal-type cell wall beta-glucan metabolic process",14,0,0.02,0,1,1,1
+"GO:0070880","fungal-type cell wall beta-glucan biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0070887","cellular response to chemical stimulus",324,0,0.43,0,1,1,1
+"GO:0070897","transcription preinitiation complex assembly",31,0,0.04,0,1,1,1
+"GO:0070900","mitochondrial tRNA modification",6,0,0.01,0,1,1,1
+"GO:0070914","UV-damage excision repair",19,0,0.03,0,1,1,1
+"GO:0070918","regulatory ncRNA processing",29,0,0.04,0,1,1,1
+"GO:0070925","organelle assembly",143,0,0.19,0,1,1,1
+"GO:0070932","histone H3 deacetylation",6,0,0.01,0,1,1,1
+"GO:0070972","protein localization to endoplasmic reticulum",34,0,0.04,0,1,1,1
+"GO:0070987","error-free translesion synthesis",9,0,0.01,0,1,1,1
+"GO:0070988","demethylation",8,0,0.01,0,1,1,1
+"GO:0071025","RNA surveillance",19,0,0.03,0,1,1,1
+"GO:0071027","nuclear RNA surveillance",19,0,0.03,0,1,1,1
+"GO:0071028","nuclear mRNA surveillance",16,0,0.02,0,1,1,1
+"GO:0071029","nuclear ncRNA surveillance",14,0,0.02,0,1,1,1
+"GO:0071031","nuclear mRNA surveillance of mRNA 3'-end processing",6,0,0.01,0,1,1,1
+"GO:0071034","CUT catabolic process",6,0,0.01,0,1,1,1
+"GO:0071035","nuclear polyadenylation-dependent rRNA catabolic process",13,0,0.02,0,1,1,1
+"GO:0071038","nuclear polyadenylation-dependent tRNA catabolic process",11,0,0.01,0,1,1,1
+"GO:0071039","nuclear polyadenylation-dependent CUT catabolic process",5,0,0.01,0,1,1,1
+"GO:0071042","nuclear polyadenylation-dependent mRNA catabolic process",12,0,0.02,0,1,1,1
+"GO:0071043","CUT metabolic process",6,0,0.01,0,1,1,1
+"GO:0071046","nuclear polyadenylation-dependent ncRNA catabolic process",14,0,0.02,0,1,1,1
+"GO:0071047","polyadenylation-dependent mRNA catabolic process",12,0,0.02,0,1,1,1
+"GO:0071051","polyadenylation-dependent snoRNA 3'-end processing",8,0,0.01,0,1,1,1
+"GO:0071071","regulation of phospholipid biosynthetic process",12,0,0.02,0,1,1,1
+"GO:0071072","negative regulation of phospholipid biosynthetic process",7,0,0.01,0,1,1,1
+"GO:0071073","positive regulation of phospholipid biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0071168","protein localization to chromatin",13,0,0.02,0,1,1,1
+"GO:0071214","cellular response to abiotic stimulus",87,0,0.12,0,1,1,1
+"GO:0071216","cellular response to biotic stimulus",13,0,0.02,0,1,1,1
+"GO:0071218","cellular response to misfolded protein",16,0,0.02,0,1,1,1
+"GO:0071229","cellular response to acid chemical",9,0,0.01,0,1,1,1
+"GO:0071230","cellular response to amino acid stimulus",5,0,0.01,0,1,1,1
+"GO:0071236","cellular response to antibiotic",24,0,0.03,0,1,1,1
+"GO:0071241","cellular response to inorganic substance",30,0,0.04,0,1,1,1
+"GO:0071248","cellular response to metal ion",28,0,0.04,0,1,1,1
+"GO:0071265","L-methionine biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0071266","'de novo' L-methionine biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0071276","cellular response to cadmium ion",8,0,0.01,0,1,1,1
+"GO:0071280","cellular response to copper ion",6,0,0.01,0,1,1,1
+"GO:0071281","cellular response to iron ion",5,0,0.01,0,1,1,1
+"GO:0071285","cellular response to lithium ion",5,0,0.01,0,1,1,1
+"GO:0071310","cellular response to organic substance",126,0,0.17,0,1,1,1
+"GO:0071322","cellular response to carbohydrate stimulus",14,0,0.02,0,1,1,1
+"GO:0071326","cellular response to monosaccharide stimulus",14,0,0.02,0,1,1,1
+"GO:0071331","cellular response to hexose stimulus",14,0,0.02,0,1,1,1
+"GO:0071333","cellular response to glucose stimulus",14,0,0.02,0,1,1,1
+"GO:0071359","cellular response to dsRNA",5,0,0.01,0,1,1,1
+"GO:0071396","cellular response to lipid",13,0,0.02,0,1,1,1
+"GO:0071407","cellular response to organic cyclic compound",13,0,0.02,0,1,1,1
+"GO:0071417","cellular response to organonitrogen compound",14,0,0.02,0,1,1,1
+"GO:0071421","manganese ion transmembrane transport",6,0,0.01,0,1,1,1
+"GO:0071432","peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion",5,0,0.01,0,1,1,1
+"GO:0071444","cellular response to pheromone",39,0,0.05,0,1,1,1
+"GO:0071453","cellular response to oxygen levels",16,0,0.02,0,1,1,1
+"GO:0071456","cellular response to hypoxia",12,0,0.02,0,1,1,1
+"GO:0071459","protein localization to chromosome, centromeric region",17,0,0.02,0,1,1,1
+"GO:0071466","cellular response to xenobiotic stimulus",5,0,0.01,0,1,1,1
+"GO:0071467","cellular response to pH",26,0,0.03,0,1,1,1
+"GO:0071470","cellular response to osmotic stress",38,0,0.05,0,1,1,1
+"GO:0071472","cellular response to salt stress",8,0,0.01,0,1,1,1
+"GO:0071474","cellular hyperosmotic response",5,0,0.01,0,1,1,1
+"GO:0071478","cellular response to radiation",28,0,0.04,0,1,1,1
+"GO:0071482","cellular response to light stimulus",26,0,0.03,0,1,1,1
+"GO:0071495","cellular response to endogenous stimulus",28,0,0.04,0,1,1,1
+"GO:0071496","cellular response to external stimulus",134,0,0.18,0,1,1,1
+"GO:0071501","cellular response to sterol depletion",11,0,0.01,0,1,1,1
+"GO:0071507","pheromone response MAPK cascade",7,0,0.01,0,1,1,1
+"GO:0071554","cell wall organization or biogenesis",121,0,0.16,0,1,1,1
+"GO:0071555","cell wall organization",83,0,0.11,0,1,1,1
+"GO:0071574","protein localization to medial cortex",5,0,0.01,0,1,1,1
+"GO:0071616","acyl-CoA biosynthetic process",8,0,0.01,0,1,1,1
+"GO:0071629","cytoplasm protein quality control by the ubiquitin-proteasome system",8,0,0.01,0,1,1,1
+"GO:0071692","protein localization to extracellular region",10,0,0.01,0,1,1,1
+"GO:0071709","membrane assembly",13,0,0.02,0,1,1,1
+"GO:0071712","ER-associated misfolded protein catabolic process",7,0,0.01,0,1,1,1
+"GO:0071805","potassium ion transmembrane transport",10,0,0.01,0,1,1,1
+"GO:0071806","protein transmembrane transport",59,0,0.08,0,1,1,1
+"GO:0071825","protein-lipid complex organization",5,0,0.01,0,1,1,1
+"GO:0071826","protein-RNA complex organization",162,0,0.21,0,1,1,1
+"GO:0071852","fungal-type cell wall organization or biogenesis",108,0,0.14,0,1,1,1
+"GO:0071853","fungal-type cell wall disassembly",9,0,0.01,0,1,1,1
+"GO:0071894","histone H2B conserved C-terminal lysine ubiquitination",7,0,0.01,0,1,1,1
+"GO:0071897","DNA biosynthetic process",49,0,0.06,0,1,1,1
+"GO:0071900","regulation of protein serine/threonine kinase activity",43,0,0.06,0,1,1,1
+"GO:0071901","negative regulation of protein serine/threonine kinase activity",13,0,0.02,0,1,1,1
+"GO:0071902","positive regulation of protein serine/threonine kinase activity",25,0,0.03,0,1,1,1
+"GO:0071921","cohesin loading",7,0,0.01,0,1,1,1
+"GO:0071931","positive regulation of transcription involved in G1/S transition of mitotic cell cycle",5,0,0.01,0,1,1,1
+"GO:0071940","fungal-type cell wall assembly",18,0,0.02,0,1,1,1
+"GO:0071941","nitrogen cycle metabolic process",12,0,0.02,0,1,1,1
+"GO:0071963","establishment or maintenance of cell polarity regulating cell shape",42,0,0.06,0,1,1,1
+"GO:0071966","fungal-type cell wall polysaccharide metabolic process",22,0,0.03,0,1,1,1
+"GO:0071985","multivesicular body sorting pathway",31,0,0.04,0,1,1,1
+"GO:0071988","protein localization to spindle pole body",19,0,0.03,0,1,1,1
+"GO:0072329","monocarboxylic acid catabolic process",25,0,0.03,0,1,1,1
+"GO:0072330","monocarboxylic acid biosynthetic process",54,0,0.07,0,1,1,1
+"GO:0072334","UDP-galactose transmembrane transport",5,0,0.01,0,1,1,1
+"GO:0072337","modified amino acid transport",13,0,0.02,0,1,1,1
+"GO:0072338","lactam metabolic process",5,0,0.01,0,1,1,1
+"GO:0072339","lactam biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0072348","sulfur compound transport",12,0,0.02,0,1,1,1
+"GO:0072350","tricarboxylic acid metabolic process",18,0,0.02,0,1,1,1
+"GO:0072384","organelle transport along microtubule",22,0,0.03,0,1,1,1
+"GO:0072396","response to cell cycle checkpoint signaling",11,0,0.01,0,1,1,1
+"GO:0072402","response to DNA integrity checkpoint signaling",7,0,0.01,0,1,1,1
+"GO:0072414","response to mitotic cell cycle checkpoint signaling",5,0,0.01,0,1,1,1
+"GO:0072423","response to DNA damage checkpoint signaling",7,0,0.01,0,1,1,1
+"GO:0072522","purine-containing compound biosynthetic process",71,0,0.09,0,1,1,1
+"GO:0072524","pyridine-containing compound metabolic process",51,0,0.07,0,1,1,1
+"GO:0072525","pyridine-containing compound biosynthetic process",31,0,0.04,0,1,1,1
+"GO:0072527","pyrimidine-containing compound metabolic process",35,0,0.05,0,1,1,1
+"GO:0072528","pyrimidine-containing compound biosynthetic process",34,0,0.04,0,1,1,1
+"GO:0072529","pyrimidine-containing compound catabolic process",5,0,0.01,0,1,1,1
+"GO:0072530","purine-containing compound transmembrane transport",8,0,0.01,0,1,1,1
+"GO:0072583","clathrin-dependent endocytosis",8,0,0.01,0,1,1,1
+"GO:0072593","reactive oxygen species metabolic process",14,0,0.02,0,1,1,1
+"GO:0072594","establishment of protein localization to organelle",212,0,0.28,0,1,1,1
+"GO:0072595","maintenance of protein localization in organelle",10,0,0.01,0,1,1,1
+"GO:0072599","establishment of protein localization to endoplasmic reticulum",25,0,0.03,0,1,1,1
+"GO:0072655","establishment of protein localization to mitochondrion",49,0,0.06,0,1,1,1
+"GO:0072657","protein localization to membrane",89,0,0.12,0,1,1,1
+"GO:0072659","protein localization to plasma membrane",27,0,0.04,0,1,1,1
+"GO:0072662","protein localization to peroxisome",17,0,0.02,0,1,1,1
+"GO:0072663","establishment of protein localization to peroxisome",17,0,0.02,0,1,1,1
+"GO:0072665","protein localization to vacuole",80,0,0.11,0,1,1,1
+"GO:0072666","establishment of protein localization to vacuole",76,0,0.1,0,1,1,1
+"GO:0072671","mitochondria-associated ubiquitin-dependent protein catabolic process",6,0,0.01,0,1,1,1
+"GO:0072697","protein localization to cell cortex",17,0,0.02,0,1,1,1
+"GO:0072698","protein localization to microtubule cytoskeleton",20,0,0.03,0,1,1,1
+"GO:0072741","protein localization to cell division site",11,0,0.01,0,1,1,1
+"GO:0075136","response to host",18,0,0.02,0,1,1,1
+"GO:0075259","spore-bearing structure development",13,0,0.02,0,1,1,1
+"GO:0075296","positive regulation of ascospore formation",6,0,0.01,0,1,1,1
+"GO:0075306","regulation of conidium formation",6,0,0.01,0,1,1,1
+"GO:0080040","positive regulation of cellular response to phosphate starvation",5,0,0.01,0,1,1,1
+"GO:0080090","regulation of primary metabolic process",708,0,0.94,0,1,1,1
+"GO:0080134","regulation of response to stress",101,0,0.13,0,1,1,1
+"GO:0080135","regulation of cellular response to stress",71,0,0.09,0,1,1,1
+"GO:0089718","amino acid import across plasma membrane",7,0,0.01,0,1,1,1
+"GO:0090033","positive regulation of filamentous growth",23,0,0.03,0,1,1,1
+"GO:0090052","regulation of pericentric heterochromatin formation",6,0,0.01,0,1,1,1
+"GO:0090054","regulation of silent mating-type cassette heterochromatin formation",9,0,0.01,0,1,1,1
+"GO:0090066","regulation of anatomical structure size",60,0,0.08,0,1,1,1
+"GO:0090068","positive regulation of cell cycle process",109,0,0.14,0,1,1,1
+"GO:0090087","regulation of peptide transport",34,0,0.04,0,1,1,1
+"GO:0090088","regulation of oligopeptide transport",5,0,0.01,0,1,1,1
+"GO:0090089","regulation of dipeptide transport",5,0,0.01,0,1,1,1
+"GO:0090114","COPII-coated vesicle budding",8,0,0.01,0,1,1,1
+"GO:0090150","establishment of protein localization to membrane",72,0,0.1,0,1,1,1
+"GO:0090151","establishment of protein localization to mitochondrial membrane",20,0,0.03,0,1,1,1
+"GO:0090153","regulation of sphingolipid biosynthetic process",5,0,0.01,0,1,1,1
+"GO:0090158","endoplasmic reticulum membrane organization",11,0,0.01,0,1,1,1
+"GO:0090174","organelle membrane fusion",44,0,0.06,0,1,1,1
+"GO:0090220","chromosome localization to nuclear envelope involved in homologous chromosome segregation",6,0,0.01,0,1,1,1
+"GO:0090224","regulation of spindle organization",13,0,0.02,0,1,1,1
+"GO:0090231","regulation of spindle checkpoint",7,0,0.01,0,1,1,1
+"GO:0090262","regulation of transcription-coupled nucleotide-excision repair",5,0,0.01,0,1,1,1
+"GO:0090266","regulation of mitotic cell cycle spindle assembly checkpoint",7,0,0.01,0,1,1,1
+"GO:0090305","nucleic acid phosphodiester bond hydrolysis",163,0,0.22,0,1,1,1
+"GO:0090307","mitotic spindle assembly",22,0,0.03,0,1,1,1
+"GO:0090316","positive regulation of intracellular protein transport",12,0,0.02,0,1,1,1
+"GO:0090329","regulation of DNA-templated DNA replication",40,0,0.05,0,1,1,1
+"GO:0090334","regulation of cell wall (1->3)-beta-D-glucan biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0090337","regulation of formin-nucleated actin cable assembly",6,0,0.01,0,1,1,1
+"GO:0090481","pyrimidine nucleotide-sugar transmembrane transport",7,0,0.01,0,1,1,1
+"GO:0090522","vesicle tethering involved in exocytosis",7,0,0.01,0,1,1,1
+"GO:0090529","cell septum assembly",32,0,0.04,0,1,1,1
+"GO:0090605","submerged biofilm formation",23,0,0.03,0,1,1,1
+"GO:0090609","single-species submerged biofilm formation",23,0,0.03,0,1,1,1
+"GO:0090618","DNA clamp unloading",5,0,0.01,0,1,1,1
+"GO:0090630","activation of GTPase activity",10,0,0.01,0,1,1,1
+"GO:0090646","mitochondrial tRNA processing",7,0,0.01,0,1,1,1
+"GO:0097035","regulation of membrane lipid distribution",10,0,0.01,0,1,1,1
+"GO:0097201","negative regulation of transcription from RNA polymerase II promoter in response to stress",5,0,0.01,0,1,1,1
+"GO:0097237","cellular response to toxic substance",40,0,0.05,0,1,1,1
+"GO:0097240","chromosome attachment to the nuclear envelope",5,0,0.01,0,1,1,1
+"GO:0097305","response to alcohol",13,0,0.02,0,1,1,1
+"GO:0097306","cellular response to alcohol",12,0,0.02,0,1,1,1
+"GO:0097307","response to farnesol",10,0,0.01,0,1,1,1
+"GO:0097308","cellular response to farnesol",10,0,0.01,0,1,1,1
+"GO:0097354","prenylation",5,0,0.01,0,1,1,1
+"GO:0097384","cellular lipid biosynthetic process",33,0,0.04,0,1,1,1
+"GO:0097428","protein maturation by iron-sulfur cluster transfer",11,0,0.01,0,1,1,1
+"GO:0097435","supramolecular fiber organization",93,0,0.12,0,1,1,1
+"GO:0097502","mannosylation",20,0,0.03,0,1,1,1
+"GO:0097553","calcium ion transmembrane import into cytosol",7,0,0.01,0,1,1,1
+"GO:0097576","vacuole fusion",27,0,0.04,0,1,1,1
+"GO:0097638","L-arginine import across plasma membrane",5,0,0.01,0,1,1,1
+"GO:0098609","cell-cell adhesion",11,0,0.01,0,1,1,1
+"GO:0098610","adhesion between unicellular organisms",6,0,0.01,0,1,1,1
+"GO:0098630","aggregation of unicellular organisms",28,0,0.04,0,1,1,1
+"GO:0098655","monoatomic cation transmembrane transport",99,0,0.13,0,1,1,1
+"GO:0098656","monoatomic anion transmembrane transport",76,0,0.1,0,1,1,1
+"GO:0098657","import into cell",113,0,0.15,0,1,1,1
+"GO:0098659","inorganic cation import across plasma membrane",7,0,0.01,0,1,1,1
+"GO:0098660","inorganic ion transmembrane transport",94,0,0.12,0,1,1,1
+"GO:0098661","inorganic anion transmembrane transport",13,0,0.02,0,1,1,1
+"GO:0098662","inorganic cation transmembrane transport",81,0,0.11,0,1,1,1
+"GO:0098703","calcium ion import across plasma membrane",5,0,0.01,0,1,1,1
+"GO:0098713","leucine import across plasma membrane",5,0,0.01,0,1,1,1
+"GO:0098732","macromolecule deacylation",25,0,0.03,0,1,1,1
+"GO:0098739","import across plasma membrane",19,0,0.03,0,1,1,1
+"GO:0098743","cell aggregation",28,0,0.04,0,1,1,1
+"GO:0098754","detoxification",34,0,0.04,0,1,1,1
+"GO:0098771","inorganic ion homeostasis",96,0,0.13,0,1,1,1
+"GO:0098840","protein transport along microtubule",6,0,0.01,0,1,1,1
+"GO:0098869","cellular oxidant detoxification",10,0,0.01,0,1,1,1
+"GO:0098876","vesicle-mediated transport to the plasma membrane",34,0,0.04,0,1,1,1
+"GO:0099022","vesicle tethering",13,0,0.02,0,1,1,1
+"GO:0099098","microtubule polymerization based movement",5,0,0.01,0,1,1,1
+"GO:0099111","microtubule-based transport",25,0,0.03,0,1,1,1
+"GO:0099118","microtubule-based protein transport",6,0,0.01,0,1,1,1
+"GO:0099518","vesicle cytoskeletal trafficking",5,0,0.01,0,1,1,1
+"GO:0099587","inorganic ion import across plasma membrane",7,0,0.01,0,1,1,1
+"GO:0104004","cellular response to environmental stimulus",87,0,0.12,0,1,1,1
+"GO:0106035","protein maturation by [4Fe-4S] cluster transfer",8,0,0.01,0,1,1,1
+"GO:0106118","regulation of sterol biosynthetic process",6,0,0.01,0,1,1,1
+"GO:0106354","tRNA surveillance",11,0,0.01,0,1,1,1
+"GO:0110009","formin-nucleated actin cable organization",9,0,0.01,0,1,1,1
+"GO:0110020","regulation of actomyosin structure organization",26,0,0.03,0,1,1,1
+"GO:0110025","DNA strand resection involved in replication fork processing",6,0,0.01,0,1,1,1
+"GO:0110029","negative regulation of meiosis I",9,0,0.01,0,1,1,1
+"GO:0110053","regulation of actin filament organization",36,0,0.05,0,1,1,1
+"GO:0110100","spindle pole body separation",7,0,0.01,0,1,1,1
+"GO:0110154","RNA decapping",14,0,0.02,0,1,1,1
+"GO:0110156","methylguanosine-cap decapping",14,0,0.02,0,1,1,1
+"GO:0120009","intermembrane lipid transfer",8,0,0.01,0,1,1,1
+"GO:0120031","plasma membrane bounded cell projection assembly",5,0,0.01,0,1,1,1
+"GO:0120035","regulation of plasma membrane bounded cell projection organization",5,0,0.01,0,1,1,1
+"GO:0120036","plasma membrane bounded cell projection organization",7,0,0.01,0,1,1,1
+"GO:0120113","cytoplasm to vacuole transport by the NVT pathway",5,0,0.01,0,1,1,1
+"GO:0120262","negative regulation of heterochromatin organization",10,0,0.01,0,1,1,1
+"GO:0140013","meiotic nuclear division",106,0,0.14,0,1,1,1
+"GO:0140029","exocytic process",15,0,0.02,0,1,1,1
+"GO:0140053","mitochondrial gene expression",90,0,0.12,0,1,1,1
+"GO:0140056","organelle localization by membrane tethering",38,0,0.05,0,1,1,1
+"GO:0140255","regulation of cellular response to phosphate starvation",5,0,0.01,0,1,1,1
+"GO:0140352","export from cell",62,0,0.08,0,1,1,1
+"GO:0140455","cytoplasm protein quality control",8,0,0.01,0,1,1,1
+"GO:0140527","reciprocal homologous recombination",38,0,0.05,0,1,1,1
+"GO:0140694","non-membrane-bounded organelle assembly",114,0,0.15,0,1,1,1
+"GO:0140718","facultative heterochromatin formation",22,0,0.03,0,1,1,1
+"GO:0140719","constitutive heterochromatin formation",47,0,0.06,0,1,1,1
+"GO:0140747","regulation of ncRNA transcription",7,0,0.01,0,1,1,1
+"GO:0141067","intracellular nitrogen homeostasis",9,0,0.01,0,1,1,1
+"GO:1900034","regulation of cellular response to heat",7,0,0.01,0,1,1,1
+"GO:1900087","positive regulation of G1/S transition of mitotic cell cycle",11,0,0.01,0,1,1,1
+"GO:1900101","regulation of endoplasmic reticulum unfolded protein response",7,0,0.01,0,1,1,1
+"GO:1900151","regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",7,0,0.01,0,1,1,1
+"GO:1900180","regulation of protein localization to nucleus",16,0,0.02,0,1,1,1
+"GO:1900182","positive regulation of protein localization to nucleus",12,0,0.02,0,1,1,1
+"GO:1900190","regulation of single-species biofilm formation",9,0,0.01,0,1,1,1
+"GO:1900192","positive regulation of single-species biofilm formation",6,0,0.01,0,1,1,1
+"GO:1900231","regulation of single-species biofilm formation on inanimate substrate",6,0,0.01,0,1,1,1
+"GO:1900237","positive regulation of induction of conjugation with cellular fusion",6,0,0.01,0,1,1,1
+"GO:1900239","regulation of phenotypic switching",8,0,0.01,0,1,1,1
+"GO:1900247","regulation of cytoplasmic translational elongation",10,0,0.01,0,1,1,1
+"GO:1900376","regulation of secondary metabolite biosynthetic process",10,0,0.01,0,1,1,1
+"GO:1900378","positive regulation of secondary metabolite biosynthetic process",7,0,0.01,0,1,1,1
+"GO:1900428","regulation of filamentous growth of a population of unicellular organisms",45,0,0.06,0,1,1,1
+"GO:1900429","negative regulation of filamentous growth of a population of unicellular organisms",16,0,0.02,0,1,1,1
+"GO:1900430","positive regulation of filamentous growth of a population of unicellular organisms",23,0,0.03,0,1,1,1
+"GO:1900434","regulation of filamentous growth of a population of unicellular organisms in response to starvation",17,0,0.02,0,1,1,1
+"GO:1900436","positive regulation of filamentous growth of a population of unicellular organisms in response to starvation",13,0,0.02,0,1,1,1
+"GO:1900437","regulation of filamentous growth of a population of unicellular organisms in response to chemical stimulus",5,0,0.01,0,1,1,1
+"GO:1900440","regulation of filamentous growth of a population of unicellular organisms in response to neutral pH",5,0,0.01,0,1,1,1
+"GO:1900443","regulation of filamentous growth of a population of unicellular organisms in response to biotic stimulus",12,0,0.02,0,1,1,1
+"GO:1900445","positive regulation of filamentous growth of a population of unicellular organisms in response to biotic stimulus",8,0,0.01,0,1,1,1
+"GO:1900542","regulation of purine nucleotide metabolic process",5,0,0.01,0,1,1,1
+"GO:1900741","regulation of filamentous growth of a population of unicellular organisms in response to pH",7,0,0.01,0,1,1,1
+"GO:1900743","positive regulation of filamentous growth of a population of unicellular organisms in response to pH",5,0,0.01,0,1,1,1
+"GO:1900864","mitochondrial RNA modification",6,0,0.01,0,1,1,1
+"GO:1901068","guanosine-containing compound metabolic process",6,0,0.01,0,1,1,1
+"GO:1901071","glucosamine-containing compound metabolic process",17,0,0.02,0,1,1,1
+"GO:1901072","glucosamine-containing compound catabolic process",5,0,0.01,0,1,1,1
+"GO:1901073","glucosamine-containing compound biosynthetic process",9,0,0.01,0,1,1,1
+"GO:1901137","carbohydrate derivative biosynthetic process",162,0,0.21,0,1,1,1
+"GO:1901264","carbohydrate derivative transport",32,0,0.04,0,1,1,1
+"GO:1901292","nucleoside phosphate catabolic process",20,0,0.03,0,1,1,1
+"GO:1901293","nucleoside phosphate biosynthetic process",92,0,0.12,0,1,1,1
+"GO:1901522","positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus",8,0,0.01,0,1,1,1
+"GO:1901607","alpha-amino acid biosynthetic process",85,0,0.11,0,1,1,1
+"GO:1901615","organic hydroxy compound metabolic process",109,0,0.14,0,1,1,1
+"GO:1901616","organic hydroxy compound catabolic process",12,0,0.02,0,1,1,1
+"GO:1901617","organic hydroxy compound biosynthetic process",68,0,0.09,0,1,1,1
+"GO:1901659","glycosyl compound biosynthetic process",20,0,0.03,0,1,1,1
+"GO:1901661","quinone metabolic process",16,0,0.02,0,1,1,1
+"GO:1901663","quinone biosynthetic process",16,0,0.02,0,1,1,1
+"GO:1901679","nucleotide transmembrane transport",9,0,0.01,0,1,1,1
+"GO:1901698","response to nitrogen compound",73,0,0.1,0,1,1,1
+"GO:1901699","cellular response to nitrogen compound",22,0,0.03,0,1,1,1
+"GO:1901700","response to oxygen-containing compound",83,0,0.11,0,1,1,1
+"GO:1901701","cellular response to oxygen-containing compound",70,0,0.09,0,1,1,1
+"GO:1901800","positive regulation of proteasomal protein catabolic process",52,0,0.07,0,1,1,1
+"GO:1901873","regulation of post-translational protein modification",41,0,0.05,0,1,1,1
+"GO:1901874","negative regulation of post-translational protein modification",10,0,0.01,0,1,1,1
+"GO:1901875","positive regulation of post-translational protein modification",17,0,0.02,0,1,1,1
+"GO:1901879","regulation of protein depolymerization",12,0,0.02,0,1,1,1
+"GO:1901880","negative regulation of protein depolymerization",10,0,0.01,0,1,1,1
+"GO:1901881","positive regulation of protein depolymerization",6,0,0.01,0,1,1,1
+"GO:1901891","regulation of cell septum assembly",26,0,0.03,0,1,1,1
+"GO:1901892","negative regulation of cell septum assembly",10,0,0.01,0,1,1,1
+"GO:1901893","positive regulation of cell septum assembly",12,0,0.02,0,1,1,1
+"GO:1901970","positive regulation of mitotic sister chromatid separation",44,0,0.06,0,1,1,1
+"GO:1901976","regulation of cell cycle checkpoint",12,0,0.02,0,1,1,1
+"GO:1901978","positive regulation of cell cycle checkpoint",5,0,0.01,0,1,1,1
+"GO:1901983","regulation of protein acetylation",8,0,0.01,0,1,1,1
+"GO:1901985","positive regulation of protein acetylation",5,0,0.01,0,1,1,1
+"GO:1901989","positive regulation of cell cycle phase transition",68,0,0.09,0,1,1,1
+"GO:1901992","positive regulation of mitotic cell cycle phase transition",65,0,0.09,0,1,1,1
+"GO:1901993","regulation of meiotic cell cycle phase transition",6,0,0.01,0,1,1,1
+"GO:1902022","L-lysine transport",6,0,0.01,0,1,1,1
+"GO:1902074","response to salt",12,0,0.02,0,1,1,1
+"GO:1902075","cellular response to salt",12,0,0.02,0,1,1,1
+"GO:1902101","positive regulation of metaphase/anaphase transition of cell cycle",43,0,0.06,0,1,1,1
+"GO:1902115","regulation of organelle assembly",15,0,0.02,0,1,1,1
+"GO:1902292","cell cycle DNA replication initiation",25,0,0.03,0,1,1,1
+"GO:1902295","synthesis of RNA primer involved in cell cycle DNA replication",5,0,0.01,0,1,1,1
+"GO:1902296","DNA strand elongation involved in cell cycle DNA replication",12,0,0.02,0,1,1,1
+"GO:1902298","cell cycle DNA replication maintenance of fidelity",11,0,0.01,0,1,1,1
+"GO:1902299","pre-replicative complex assembly involved in cell cycle DNA replication",16,0,0.02,0,1,1,1
+"GO:1902315","nuclear cell cycle DNA replication initiation",25,0,0.03,0,1,1,1
+"GO:1902318","synthesis of RNA primer involved in nuclear cell cycle DNA replication",5,0,0.01,0,1,1,1
+"GO:1902319","DNA strand elongation involved in nuclear cell cycle DNA replication",12,0,0.02,0,1,1,1
+"GO:1902363","regulation of protein localization to spindle pole body",7,0,0.01,0,1,1,1
+"GO:1902369","negative regulation of RNA catabolic process",7,0,0.01,0,1,1,1
+"GO:1902373","negative regulation of mRNA catabolic process",7,0,0.01,0,1,1,1
+"GO:1902404","mitotic actomyosin contractile ring contraction",10,0,0.01,0,1,1,1
+"GO:1902406","mitotic actomyosin contractile ring maturation",5,0,0.01,0,1,1,1
+"GO:1902407","assembly of actomyosin apparatus involved in mitotic cytokinesis",19,0,0.03,0,1,1,1
+"GO:1902410","mitotic cytokinetic process",59,0,0.08,0,1,1,1
+"GO:1902412","regulation of mitotic cytokinesis",34,0,0.04,0,1,1,1
+"GO:1902413","negative regulation of mitotic cytokinesis",12,0,0.02,0,1,1,1
+"GO:1902440","protein localization to mitotic spindle pole body",14,0,0.02,0,1,1,1
+"GO:1902475","L-alpha-amino acid transmembrane transport",16,0,0.02,0,1,1,1
+"GO:1902531","regulation of intracellular signal transduction",105,0,0.14,0,1,1,1
+"GO:1902532","negative regulation of intracellular signal transduction",53,0,0.07,0,1,1,1
+"GO:1902533","positive regulation of intracellular signal transduction",42,0,0.06,0,1,1,1
+"GO:1902542","regulation of protein localization to mitotic spindle pole body",6,0,0.01,0,1,1,1
+"GO:1902600","proton transmembrane transport",38,0,0.05,0,1,1,1
+"GO:1902626","assembly of large subunit precursor of preribosome",8,0,0.01,0,1,1,1
+"GO:1902652","secondary alcohol metabolic process",40,0,0.05,0,1,1,1
+"GO:1902653","secondary alcohol biosynthetic process",37,0,0.05,0,1,1,1
+"GO:1902659","regulation of glucose mediated signaling pathway",6,0,0.01,0,1,1,1
+"GO:1902660","negative regulation of glucose mediated signaling pathway",6,0,0.01,0,1,1,1
+"GO:1902679","negative regulation of RNA biosynthetic process",199,0,0.26,0,1,1,1
+"GO:1902680","positive regulation of RNA biosynthetic process",193,0,0.26,0,1,1,1
+"GO:1902749","regulation of cell cycle G2/M phase transition",49,0,0.06,0,1,1,1
+"GO:1902750","negative regulation of cell cycle G2/M phase transition",34,0,0.04,0,1,1,1
+"GO:1902751","positive regulation of cell cycle G2/M phase transition",11,0,0.01,0,1,1,1
+"GO:1902806","regulation of cell cycle G1/S phase transition",22,0,0.03,0,1,1,1
+"GO:1902807","negative regulation of cell cycle G1/S phase transition",10,0,0.01,0,1,1,1
+"GO:1902808","positive regulation of cell cycle G1/S phase transition",12,0,0.02,0,1,1,1
+"GO:1902850","microtubule cytoskeleton organization involved in mitosis",45,0,0.06,0,1,1,1
+"GO:1902903","regulation of supramolecular fiber organization",46,0,0.06,0,1,1,1
+"GO:1902904","negative regulation of supramolecular fiber organization",21,0,0.03,0,1,1,1
+"GO:1902905","positive regulation of supramolecular fiber organization",30,0,0.04,0,1,1,1
+"GO:1902930","regulation of alcohol biosynthetic process",8,0,0.01,0,1,1,1
+"GO:1902969","mitotic DNA replication",66,0,0.09,0,1,1,1
+"GO:1902975","mitotic DNA replication initiation",24,0,0.03,0,1,1,1
+"GO:1902981","synthesis of RNA primer involved in mitotic DNA replication",5,0,0.01,0,1,1,1
+"GO:1902983","DNA strand elongation involved in mitotic DNA replication",12,0,0.02,0,1,1,1
+"GO:1903008","organelle disassembly",39,0,0.05,0,1,1,1
+"GO:1903050","regulation of proteolysis involved in protein catabolic process",57,0,0.08,0,1,1,1
+"GO:1903052","positive regulation of proteolysis involved in protein catabolic process",52,0,0.07,0,1,1,1
+"GO:1903083","protein localization to condensed chromosome",17,0,0.02,0,1,1,1
+"GO:1903119","protein localization to actin cytoskeleton",5,0,0.01,0,1,1,1
+"GO:1903311","regulation of mRNA metabolic process",78,0,0.1,0,1,1,1
+"GO:1903312","negative regulation of mRNA metabolic process",9,0,0.01,0,1,1,1
+"GO:1903313","positive regulation of mRNA metabolic process",58,0,0.08,0,1,1,1
+"GO:1903320","regulation of protein modification by small protein conjugation or removal",14,0,0.02,0,1,1,1
+"GO:1903322","positive regulation of protein modification by small protein conjugation or removal",6,0,0.01,0,1,1,1
+"GO:1903338","regulation of cell wall organization or biogenesis",20,0,0.03,0,1,1,1
+"GO:1903341","regulation of meiotic DNA double-strand break formation",8,0,0.01,0,1,1,1
+"GO:1903432","regulation of TORC1 signaling",12,0,0.02,0,1,1,1
+"GO:1903436","regulation of mitotic cytokinetic process",31,0,0.04,0,1,1,1
+"GO:1903437","negative regulation of mitotic cytokinetic process",12,0,0.02,0,1,1,1
+"GO:1903438","positive regulation of mitotic cytokinetic process",14,0,0.02,0,1,1,1
+"GO:1903459","mitotic DNA replication lagging strand elongation",5,0,0.01,0,1,1,1
+"GO:1903460","mitotic DNA replication leading strand elongation",8,0,0.01,0,1,1,1
+"GO:1903461","Okazaki fragment processing involved in mitotic DNA replication",5,0,0.01,0,1,1,1
+"GO:1903463","regulation of mitotic cell cycle DNA replication",8,0,0.01,0,1,1,1
+"GO:1903471","regulation of mitotic actomyosin contractile ring contraction",6,0,0.01,0,1,1,1
+"GO:1903475","mitotic actomyosin contractile ring assembly",19,0,0.03,0,1,1,1
+"GO:1903479","mitotic actomyosin contractile ring assembly actin filament organization",5,0,0.01,0,1,1,1
+"GO:1903490","positive regulation of mitotic cytokinesis",14,0,0.02,0,1,1,1
+"GO:1903504","regulation of mitotic spindle checkpoint",7,0,0.01,0,1,1,1
+"GO:1903509","liposaccharide metabolic process",34,0,0.04,0,1,1,1
+"GO:1903513","endoplasmic reticulum to cytosol transport",7,0,0.01,0,1,1,1
+"GO:1903530","regulation of secretion by cell",6,0,0.01,0,1,1,1
+"GO:1903664","regulation of asexual reproduction",8,0,0.01,0,1,1,1
+"GO:1903725","regulation of phospholipid metabolic process",18,0,0.02,0,1,1,1
+"GO:1903726","negative regulation of phospholipid metabolic process",7,0,0.01,0,1,1,1
+"GO:1903727","positive regulation of phospholipid metabolic process",6,0,0.01,0,1,1,1
+"GO:1903789","regulation of amino acid transmembrane transport",6,0,0.01,0,1,1,1
+"GO:1903793","positive regulation of monoatomic anion transport",6,0,0.01,0,1,1,1
+"GO:1903825","organic acid transmembrane transport",49,0,0.06,0,1,1,1
+"GO:1903828","negative regulation of protein localization",13,0,0.02,0,1,1,1
+"GO:1903829","positive regulation of protein localization",28,0,0.04,0,1,1,1
+"GO:1903832","regulation of cellular response to amino acid starvation",8,0,0.01,0,1,1,1
+"GO:1903833","positive regulation of cellular response to amino acid starvation",7,0,0.01,0,1,1,1
+"GO:1903959","regulation of monoatomic anion transmembrane transport",9,0,0.01,0,1,1,1
+"GO:1903961","positive regulation of anion transmembrane transport",5,0,0.01,0,1,1,1
+"GO:1904029","regulation of cyclin-dependent protein kinase activity",18,0,0.02,0,1,1,1
+"GO:1904031","positive regulation of cyclin-dependent protein kinase activity",10,0,0.01,0,1,1,1
+"GO:1904062","regulation of monoatomic cation transmembrane transport",8,0,0.01,0,1,1,1
+"GO:1904064","positive regulation of cation transmembrane transport",5,0,0.01,0,1,1,1
+"GO:1904262","negative regulation of TORC1 signaling",9,0,0.01,0,1,1,1
+"GO:1904263","positive regulation of TORC1 signaling",5,0,0.01,0,1,1,1
+"GO:1904356","regulation of telomere maintenance via telomere lengthening",7,0,0.01,0,1,1,1
+"GO:1904375","regulation of protein localization to cell periphery",6,0,0.01,0,1,1,1
+"GO:1904541","fungal-type cell wall disassembly involved in conjugation with cellular fusion",8,0,0.01,0,1,1,1
+"GO:1904589","regulation of protein import",6,0,0.01,0,1,1,1
+"GO:1904659","glucose transmembrane transport",5,0,0.01,0,1,1,1
+"GO:1904669","ATP export",13,0,0.02,0,1,1,1
+"GO:1904951","positive regulation of establishment of protein localization",14,0,0.02,0,1,1,1
+"GO:1905037","autophagosome organization",27,0,0.04,0,1,1,1
+"GO:1905038","regulation of membrane lipid metabolic process",5,0,0.01,0,1,1,1
+"GO:1905039","carboxylic acid transmembrane transport",45,0,0.06,0,1,1,1
+"GO:1905047","mitotic spindle pole body organization",7,0,0.01,0,1,1,1
+"GO:1905268","negative regulation of chromatin organization",29,0,0.04,0,1,1,1
+"GO:1905269","positive regulation of chromatin organization",17,0,0.02,0,1,1,1
+"GO:1905475","regulation of protein localization to membrane",6,0,0.01,0,1,1,1
+"GO:1905508","protein localization to microtubule organizing center",19,0,0.03,0,1,1,1
+"GO:1905532","regulation of leucine import across plasma membrane",5,0,0.01,0,1,1,1
+"GO:1905634","regulation of protein localization to chromatin",6,0,0.01,0,1,1,1
+"GO:1905820","positive regulation of chromosome separation",44,0,0.06,0,1,1,1
+"GO:1905897","regulation of response to endoplasmic reticulum stress",7,0,0.01,0,1,1,1
+"GO:1905952","regulation of lipid localization",8,0,0.01,0,1,1,1
+"GO:1990116","ribosome-associated ubiquitin-dependent protein catabolic process",6,0,0.01,0,1,1,1
+"GO:1990151","protein localization to cell tip",8,0,0.01,0,1,1,1
+"GO:1990414","replication-born double-strand break repair via sister chromatid exchange",6,0,0.01,0,1,1,1
+"GO:1990426","mitotic recombination-dependent replication fork processing",8,0,0.01,0,1,1,1
+"GO:1990456","mitochondrion-endoplasmic reticulum membrane tethering",8,0,0.01,0,1,1,1
+"GO:1990481","mRNA pseudouridine synthesis",5,0,0.01,0,1,1,1
+"GO:1990505","mitotic DNA replication maintenance of fidelity",11,0,0.01,0,1,1,1
+"GO:1990542","mitochondrial transmembrane transport",71,0,0.09,0,1,1,1
+"GO:1990700","nucleolar chromatin organization",23,0,0.03,0,1,1,1
+"GO:1990748","cellular detoxification",32,0,0.04,0,1,1,1
+"GO:1990758","mitotic sister chromatid biorientation",13,0,0.02,0,1,1,1
+"GO:1990778","protein localization to cell periphery",44,0,0.06,0,1,1,1
+"GO:1990822","basic amino acid transmembrane transport",6,0,0.01,0,1,1,1
+"GO:1990896","protein localization to cell cortex of cell tip",5,0,0.01,0,1,1,1
+"GO:1990928","response to amino acid starvation",15,0,0.02,0,1,1,1
+"GO:2000001","regulation of DNA damage checkpoint",5,0,0.01,0,1,1,1
+"GO:2000026","regulation of multicellular organismal development",8,0,0.01,0,1,1,1
+"GO:2000045","regulation of G1/S transition of mitotic cell cycle",21,0,0.03,0,1,1,1
+"GO:2000058","regulation of ubiquitin-dependent protein catabolic process",55,0,0.07,0,1,1,1
+"GO:2000060","positive regulation of ubiquitin-dependent protein catabolic process",52,0,0.07,0,1,1,1
+"GO:2000099","regulation of establishment or maintenance of bipolar cell polarity",12,0,0.02,0,1,1,1
+"GO:2000100","regulation of establishment or maintenance of bipolar cell polarity regulating cell shape",12,0,0.02,0,1,1,1
+"GO:2000104","negative regulation of DNA-templated DNA replication",18,0,0.02,0,1,1,1
+"GO:2000105","positive regulation of DNA-templated DNA replication",6,0,0.01,0,1,1,1
+"GO:2000114","regulation of establishment of cell polarity",7,0,0.01,0,1,1,1
+"GO:2000134","negative regulation of G1/S transition of mitotic cell cycle",10,0,0.01,0,1,1,1
+"GO:2000142","regulation of DNA-templated transcription initiation",23,0,0.03,0,1,1,1
+"GO:2000144","positive regulation of DNA-templated transcription initiation",17,0,0.02,0,1,1,1
+"GO:2000217","regulation of invasive growth in response to glucose limitation",5,0,0.01,0,1,1,1
+"GO:2000220","regulation of pseudohyphal growth",8,0,0.01,0,1,1,1
+"GO:2000241","regulation of reproductive process",123,0,0.16,0,1,1,1
+"GO:2000242","negative regulation of reproductive process",44,0,0.06,0,1,1,1
+"GO:2000243","positive regulation of reproductive process",67,0,0.09,0,1,1,1
+"GO:2000247","positive regulation of establishment or maintenance of bipolar cell polarity regulating cell shape",6,0,0.01,0,1,1,1
+"GO:2000278","regulation of DNA biosynthetic process",15,0,0.02,0,1,1,1
+"GO:2000279","negative regulation of DNA biosynthetic process",8,0,0.01,0,1,1,1
+"GO:2000573","positive regulation of DNA biosynthetic process",5,0,0.01,0,1,1,1
+"GO:2000601","positive regulation of Arp2/3 complex-mediated actin nucleation",6,0,0.01,0,1,1,1
+"GO:2000689","actomyosin contractile ring assembly actin filament organization",5,0,0.01,0,1,1,1
+"GO:2000756","regulation of peptidyl-lysine acetylation",7,0,0.01,0,1,1,1
+"GO:2000765","regulation of cytoplasmic translation",26,0,0.03,0,1,1,1
+"GO:2000766","negative regulation of cytoplasmic translation",6,0,0.01,0,1,1,1
+"GO:2000769","regulation of establishment or maintenance of cell polarity regulating cell shape",19,0,0.03,0,1,1,1
+"GO:2000771","positive regulation of establishment or maintenance of cell polarity regulating cell shape",10,0,0.01,0,1,1,1
+"GO:2000779","regulation of double-strand break repair",9,0,0.01,0,1,1,1
+"GO:2000819","regulation of nucleotide-excision repair",6,0,0.01,0,1,1,1
+"GO:2000895","hemicellulose catabolic process",5,0,0.01,0,1,1,1
+"GO:2001023","regulation of response to drug",7,0,0.01,0,1,1,1
+"GO:2001025","positive regulation of response to drug",5,0,0.01,0,1,1,1
+"GO:2001141","regulation of RNA biosynthetic process",396,0,0.52,0,1,1,1
+"GO:2001166","regulation of histone H2B ubiquitination",5,0,0.01,0,1,1,1
+"GO:2001207","regulation of transcription elongation by RNA polymerase I",6,0,0.01,0,1,1,1
+"GO:2001209","positive regulation of transcription elongation by RNA polymerase I",6,0,0.01,0,1,1,1
+"GO:2001252","positive regulation of chromosome organization",69,0,0.09,0,1,1,1

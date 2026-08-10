@@ -107,13 +107,43 @@ We used `lfcThreshold = 1` and `altHypothesis = "greaterAbs"` to identify transc
 
 To get insights about the function and the processes that are represented by the sets of up-regulated and down-regulated genes we carried out over representation analysis (ORA) for gene ontology terms (GO) and KEGG pathways.
 
-- GO: We used topGO R package (v2.58.0), p-value < 0.05 and corrected for multiple testing using BH procedure
+#### GO enrichment — topGO `weight01`
 
-    - Up: [Top 20 overrepresented GO terms by p-value in up-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_up.pdf)
+We used the topGO R package (v2.58.0) restricted to the **Biological Process** ontology. The gene universe is the **3,024 genes carrying at least one BP annotation** in the reference annotation, and terms with fewer than five annotated genes were excluded (`nodeSize = 5`), leaving **2,633 testable terms**.
 
-    - Down: [Top 20 overrepresented GO terms by p-value in down-regulated genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_down.pdf)
+**The method reported here is `weight01`, not `classic`.** `weight01` is topology-aware: it traverses the GO graph from the most specific terms upward and scores each term *conditional on its descendants*, so a broad parent term whose signal is already explained by a more specific child is down-weighted. This removes the redundant ancestor/descendant blocks that a term-by-term test produces (102 of the 137 terms nominally significant under `classic` fall to p = 1 under `weight01`).
 
-- KEGG: We used enrichKEGG function from Cluster profiler R package (v4.14.6) to get KEGG enriched categories in each gene set (up regulated and down regulated)
+**`weight01` p-values are reported uncorrected, and this is deliberate.** The algorithm conditions each test on the graph structure and therefore already accounts for the dependency between terms; applying a further FDR correction on top of it is not recommended by the method's authors and would be doubly conservative. We use raw `weight01` p < 0.05 as the significance criterion.
+
+| gene set | terms at `weight01` p < 0.05 | interpretation |
+|---|---|---|
+| up-regulated in clay (83 genes) | **28** | significant; central carbon metabolism |
+| down-regulated in clay (5 genes) | 19 | **not significant** — see caveat below |
+
+**Up-regulated (main result)** — the 20 most significant of the 28 terms. Point area = number of up-regulated genes annotated to the term (2–8); fill colour = fold enrichment over the count expected by chance (7.3–44.8×); dashed line = p = 0.05.
+
+![Topology-corrected GO biological processes over-represented among genes up-regulated in clay relative to sandy soil (topGO weight01)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_up_weight01.png)
+
+[Up-regulated, weight01 (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_up_weight01.pdf)
+
+**Down-regulated — no term is statistically significant.** No GO term survives FDR correction in this gene set (0 of 2,633). The down-regulated set contains only 5 genes, 4 of which carry a GO annotation, and **every term in the panel below is supported by a single gene**, so the apparent 21.6–151.2× fold enrichments are an artefact of very small counts and must not be read as biological enrichment. Shown for completeness only.
+
+[Down-regulated, weight01 — exploratory, not significant (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.pdf)
+
+**Supporting, non-topology view.** For reference we also ran the `classic` algorithm (each term scored independently of the GO graph) with Benjamini–Hochberg correction across all 2,633 tested terms; 67 terms pass FDR < 0.05. Because `classic` ignores the graph, ancestor and descendant terms sharing the same genes appear as separate entries — the three leading acid-metabolism terms rest on the same 19 genes, and six glycolysis-related terms on the same 4. This is exactly the redundancy `weight01` resolves, which is why `weight01` is the reported method.
+
+[Up-regulated, classic + BH (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_up_classic_BH.pdf) · [Down-regulated, classic raw p — not significant (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_classic_rawp_NOT_significant.pdf)
+
+> **Correction note.** These results supersede an earlier run of `topGO.r`. That script compared p-values as formatted text, which silently discarded every term with p below ~1e-4 (the 31 most significant up-regulated terms, best true p = 4.1e-09, never reached the output), and applied BH correction to the already-significant subset, which makes the correction vacuous. The superseded `GO_up.*` / `GO_down.*` files are kept in `overall_clay_vs_sandy/` for comparison. Full description, evidence and figure legends: [README_fix_topgo.md](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/README_fix_topgo.md). Script: [`topGO_fixed.r`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/topGO_fixed.r).
+
+Figures use the perceptually uniform, colour-vision-deficiency safe scientific colour map *batlow* (Crameri 2018).
+
+- Alexa A, Rahnenführer J, Lengauer T (2006) Improved scoring of functional groups from gene expression data by decorrelating GO graph structure. *Bioinformatics* 22:1600–1607.
+- Crameri F (2018) Scientific colour maps. Zenodo, doi:10.5281/zenodo.1243862.
+
+#### KEGG
+
+We used the enrichKEGG function from Cluster profiler R package (v4.14.6) to get KEGG enriched categories in each gene set (up regulated and down regulated)
 
 [Overrepresented KEGGs in differentially expressed genes (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/keggs_plots.pdf)
 
@@ -148,8 +178,12 @@ Full results in:
 | **Differential Expression (DESeq2)** | Up-regulated genes | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/DEGs_upregulated_overall_clay_vs_sandy.csv` |
 | | Down-regulated genes | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/DEGs_upregulated_overall_clay_vs_sandy.csv` |
 | | Main dir analysis | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/` |
-| **Functional Enrichment (GO & KEGG)** | GO up results | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_up.csv` |
-| | GO down results | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_down.csv` |
+| **Functional Enrichment (GO, topGO `weight01`)** | GO up — significant terms (28) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_up_weight01_p0.05.csv` |
+| | GO down — 19 terms, none significant | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv` |
+| | All 2,633 tested terms (counts, fold enrichment, classic p, BH, weight01 p) | `rnaseq/.../overall_clay_vs_sandy/topgo_corrected/GO_{up,down}_all_tested_terms.csv` |
+| | Supporting: classic + BH, FDR < 0.05 (67 up, 0 down) | `rnaseq/.../overall_clay_vs_sandy/topgo_corrected/GO_{up,down}_FDR0.05.csv` |
+| | Enrichment script | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/topGO_fixed.r` |
+| | *Superseded* GO results (kept for comparison) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/GO_{up,down}.csv` |
 | | GO–KEGG interaction network (up-regulated) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_up_edges.tsv` |
 | | GO–KEGG interaction network (down-regulated) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/gene_network_down_edges.tsv` |
 | **Functional Annotation** | EggNOG results | `references/PEDRO_genome/annotation/eggnog.emapper.annotations` |
