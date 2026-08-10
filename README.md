@@ -140,7 +140,7 @@ The down-regulated set contains only 5 genes, 4 of which carry a GO annotation, 
 
 The figure below plots all 19 terms of [`GO_down_weight01_p0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv), with the same encodings as the up-regulated panel; every point carries the smallest size in the legend, which is the one-gene support made visible.
 
-[Topology-corrected GO biological processes over-represented among genes down-regulated in clay relative to sandy soil (topGO weight01)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.png)
+![Topology-corrected GO biological processes over-represented among genes down-regulated in clay relative to sandy soil (topGO weight01)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.png)
 
 
 [Down-regulated, weight01 — (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.pdf) — plotted from [`GO_down_weight01_p0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv)
