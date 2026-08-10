@@ -1,0 +1,146 @@
+# .gitignore for the bianca / bookish-waffle analysis repo
+#
+# This repo tracks the *reported* results only: the README, the analysis
+# scripts behind it, and the figures and tables it links to. Everything else
+# in this working tree — 36 GB of raw reads, the reference genome, BAMs, and
+# all regenerable pipeline output — stays local.
+#
+# Note: .gitignore does not affect files that are already tracked. Adding a
+# pattern here will not remove anything from the repo. To commit a new file
+# that matches one of these rules, use `git add -f <path>`.
+
+# ---------------------------------------------------------------
+# Bulk sequence data
+# ---------------------------------------------------------------
+raw_reads/
+references/
+augustus/
+NCBI_Ssci_genome.fa
+
+# Reads, assemblies, alignments, indices, coverage tracks
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.bam
+*.bam.bai
+*.bai
+*.cram
+*.crai
+*.bigWig
+*.bw
+
+# ---------------------------------------------------------------
+# Nextflow
+# ---------------------------------------------------------------
+.nextflow/
+.nextflow.log*
+work/
+run_nextflow.sh.bak
+
+# nf-core/rnaseq pipeline checkout — upstream source, not our results
+rnaseq/assets/
+rnaseq/bin/
+rnaseq/conf/
+rnaseq/docs/
+rnaseq/modules/
+rnaseq/subworkflows/
+rnaseq/workflows/
+rnaseq/tests/
+rnaseq/.devcontainer/
+rnaseq/.github/
+rnaseq/.vscode/
+rnaseq/.gitattributes
+rnaseq/.gitignore
+rnaseq/.gitpod.yml
+rnaseq/.nf-core.yml
+rnaseq/.pre-commit-config.yaml
+rnaseq/.prettierignore
+rnaseq/.prettierrc.yml
+rnaseq/CHANGELOG.md
+rnaseq/CITATIONS.md
+rnaseq/CODE_OF_CONDUCT.md
+rnaseq/LICENSE
+rnaseq/README.md
+rnaseq/main.nf
+rnaseq/modules.json
+rnaseq/nextflow.config
+rnaseq/nextflow_schema.json
+rnaseq/nf-test.config
+rnaseq/ro-crate-metadata.json
+rnaseq/run_nextflow.sh
+rnaseq/tower.yml
+
+# ---------------------------------------------------------------
+# Pipeline output — regenerated on every run
+# ---------------------------------------------------------------
+rnaseq/full_run1_no_collapse/fastqc/
+rnaseq/full_run1_no_collapse/fq_lint/
+rnaseq/full_run1_no_collapse/multiqc/
+rnaseq/full_run1_no_collapse/trimgalore/
+rnaseq/full_run1_no_collapse/pipeline_info/execution_*
+rnaseq/full_run1_no_collapse/pipeline_info/params_*
+rnaseq/full_run1_no_collapse/pipeline_info/pipeline_dag_*
+
+# STAR/Salmon per-sample directories and QC modules
+rnaseq/full_run1_no_collapse/star_salmon/*_control_*/
+rnaseq/full_run1_no_collapse/star_salmon/*_inoc_*/
+rnaseq/full_run1_no_collapse/star_salmon/bigwig/
+rnaseq/full_run1_no_collapse/star_salmon/dupradar/
+rnaseq/full_run1_no_collapse/star_salmon/log/
+rnaseq/full_run1_no_collapse/star_salmon/picard_metrics/
+rnaseq/full_run1_no_collapse/star_salmon/qualimap/
+rnaseq/full_run1_no_collapse/star_salmon/rseqc/
+rnaseq/full_run1_no_collapse/star_salmon/samtools_stats/
+rnaseq/full_run1_no_collapse/star_salmon/stringtie/
+
+# Merged quantification matrices (regenerable from the pipeline)
+rnaseq/full_run1_no_collapse/star_salmon/salmon.merged.*
+rnaseq/full_run1_no_collapse/star_salmon/tx2gene.tsv
+
+# ---------------------------------------------------------------
+# DESeq2 / downstream analysis — untracked working output
+# ---------------------------------------------------------------
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/5503_clay_vs_sandy/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/6007_clay_vs_sandy/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/5503_vs_6007_clay/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/5503_vs_6007_sandy/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_5503_vs_6007/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/size_factors/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/upset_plots/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/upset_plots_refactor/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/old/
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/DEG_summary_overall.csv
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/deseq2.pca.vals.txt
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/deseq2.sample.dists.txt
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/kegg_claude_eggnog.r
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/kegg_claude_sugarcane.r
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/topGO.r
+rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/upset_degs.r
+
+# ---------------------------------------------------------------
+# R session objects
+# ---------------------------------------------------------------
+*.RData
+*.rda
+*.rds
+*.Rds
+.Rhistory
+.Rproj.user/
+Rplots.pdf
+
+# ---------------------------------------------------------------
+# Scratch, editor and OS files
+# ---------------------------------------------------------------
+tmp/
+**/tmp/
+*.swp
+*.swo
+*~
+.~lock.*#
+.DS_Store
+Thumbs.db
