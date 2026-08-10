@@ -162,6 +162,42 @@ We used Phobius v1.01 (https://phobius.sbc.su.se/) to signal peptides and transm
 
 /dados04/jorge/bianca/references/PEDRO_genome/annotation
 
+This classified 687 of the 6,659 annotated genes as putative effectors.
+
+#### Putative effectors among the differentially expressed genes
+
+Crossing the putative effector set with the DEGs of the main contrast
+(`overall_clay_vs_sandy`) identifies **10 putative effectors, all of them
+up-regulated in clay**; none of the down-regulated genes is a putative effector.
+Each of the 10 carries a Phobius signal peptide with a predicted cleavage site
+and no transmembrane domain.
+
+| gene | log2FC | padj | baseMean | length (aa) | Cys (%) | EggNOG description |
+|---|---|---|---|---|---|---|
+| g5898 | 2.70 | 0.034 | 1.4 | 1039 | 1.1 | 2-oxoglutarate dehydrogenase N-terminus |
+| g23 | 2.62 | 0.040 | 1.4 | 575 | 2.1 | Amidase |
+| g2129 | 2.61 | 0.0087 | 4.1 | 291 | 3.4 | carbohydrate-binding module family 13 protein |
+| g3141 | 2.61 | 0.040 | 1.3 | 1494 | 0.8 | pyruvate flavodoxin/ferredoxin oxidoreductase |
+| **g3614** | **2.45** | **0.045** | **2.5** | **255** | **11.0** | **no hit** |
+| g3201 | 2.40 | 0.0029 | 6.7 | 682 | 0.4 | Fasciclin I domain |
+| g2120 | 2.38 | 0.029 | 3.1 | 224 | 0.9 | no hit |
+| g1928 | 2.30 | 0.044 | 2.2 | 359 | 2.8 | Transglycosylase SLT domain |
+| g2995 | 1.91 | 2.3e-05 | 29.1 | 791 | 0.0 | no hit |
+| g5411 | 1.32 | 0.0022 | 18.2 | 560 | 1.6 | no hit |
+
+Source table: [`putative_effectors_in_DEGs.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/putative_effectors_in_DEGs.csv)
+— the 10 genes with their full DESeq2 statistics, per-condition base means, Phobius
+signal-peptide predictions, protein length, cysteine content, and EggNOG annotation.
+
+**`g3614` is the strongest candidate.** Canonical fungal effectors are small,
+secreted, cysteine-rich proteins with no recognisable homology outside the
+species, and `g3614` is the only gene in this set that matches that description on
+every count. It is 255 aa against a genome-wide median of 515, and its cysteine
+content of 11.0% is more than ten times the median of 0.9% for both the genome as
+a whole and the 687 putative effectors — the single most cysteine-rich protein
+among the differentially expressed genes. It returns no EggNOG hit at any orthologous
+level, so it is not a conserved housekeeping enzyme that happens to be secreted.
+
 
 ### 8. **GO-KEGG Interaction Network**
 
@@ -197,5 +233,6 @@ Full results in:
 | **Functional Annotation** | EggNOG results | `references/PEDRO_genome/annotation/eggnog.emapper.annotations` |
 | gene_go_table.txt | formatted GO terms | `references/PEDRO_genome/annotation/gene_go_table.txt` |
 | putative_effectors.ids | Putative effectors | `references/PEDRO_genome/annotation/putative_effectors.ids` |
+| | Putative effectors among the DEGs (10 genes, with DESeq2 stats, Phobius and EggNOG annotation) | `rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/putative_effectors_in_DEGs.csv` |
 
 
