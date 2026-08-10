@@ -136,11 +136,12 @@ Both tables carry, per term: `GO.ID`, `Term`, `Annotated` (genes in the universe
 
 The down-regulated set contains only 5 genes, 4 of which carry a GO annotation, and **every one of the 19 terms is supported by exactly one gene** — the `Significant` column of [`GO_down_weight01_p0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv) reads `1` in every row. A single gene falling in a small term is enough to produce p ≈ 0.007 from Fisher's exact test, and the resulting 21.6–151.2× fold enrichments are arithmetic on counts of one, not biological enrichment.
 
-`weight01` also has no purchase here: in that same table `p_weight01` is *identical* to the uncorrected `p_classic` in all 19 rows, because decorrelating a term from its descendants requires descendant signal to remove and one gene per term provides none. The topology correction is inert on a gene set this small.
 
-For completeness, the `classic` + BH analysis of the same set returns 0 terms at FDR < 0.05 — the file [`GO_down_FDR0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_FDR0.05.csv) contains a header and no rows. That is a different method under a different criterion, and is not the `weight01` result reported here.
 
 The figure below plots all 19 terms of [`GO_down_weight01_p0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv), with the same encodings as the up-regulated panel; every point carries the smallest size in the legend, which is the one-gene support made visible.
+
+[Topology-corrected GO biological processes over-represented among genes down-regulated in clay relative to sandy soil (topGO weight01)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.png)
+
 
 [Down-regulated, weight01 — (PDF)](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01.pdf) — plotted from [`GO_down_weight01_p0.05.csv`](rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/topgo_corrected/GO_down_weight01_p0.05.csv)
 
