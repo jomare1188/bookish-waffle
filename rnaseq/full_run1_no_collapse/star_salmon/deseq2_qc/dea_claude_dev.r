@@ -10,10 +10,10 @@ library("wesanderson")
 # ============================================================================
 
 # Base directory
-base_dir <- "/home/diegoj/bianca"
+base_dir <- "/dados04/jorge/bianca"
 
 # Output directory
-output_dir <- "/home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc"
+output_dir <- "/dados04/jorge/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc"
 
 # Design formula - using interaction term to allow all comparisons
 design_formula <- ~ genotype + soil + genotype:soil

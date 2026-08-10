@@ -4,7 +4,7 @@
 
 ## Overview
 
-ALL FILES IN /home/diegoj/bianca
+ALL FILES IN /dados04/jorge/bianca
 
 ---
 
@@ -23,42 +23,42 @@ ALL FILES IN /home/diegoj/bianca
 
 | sample                   | fastq_1                                                                                   | fastq_2                                                                                   | strandedness | status    | genotype | soil  | group        |
 |--------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|-----------|----------|-------|--------------|
-| 5503_clay_control_1      | /home/diegoj/bianca/raw_reads/NGS726_19_S19_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_19_S19_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
-| 5503_clay_control_2      | /home/diegoj/bianca/raw_reads/NGS726_20_S20_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_20_S20_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
-| 5503_clay_control_3      | /home/diegoj/bianca/raw_reads/NGS726_21_S21_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_21_S21_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
-| 5503_clay_inoc_1         | /home/diegoj/bianca/raw_reads/NGS726_13_S13_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_13_S13_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
-| 5503_clay_inoc_2         | /home/diegoj/bianca/raw_reads/NGS726_14_S14_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_14_S14_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
-| 5503_clay_inoc_3         | /home/diegoj/bianca/raw_reads/NGS726_15_S15_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_15_S15_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
-| 5503_sandy_control_1     | /home/diegoj/bianca/raw_reads/NGS726_7_S7_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_7_S7_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
-| 5503_sandy_control_2     | /home/diegoj/bianca/raw_reads/NGS726_8_S8_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_8_S8_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
-| 5503_sandy_control_3     | /home/diegoj/bianca/raw_reads/NGS726_9_S9_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_9_S9_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
-| 5503_sandy_inoc_1        | /home/diegoj/bianca/raw_reads/NGS726_1_S1_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_1_S1_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
-| 5503_sandy_inoc_2        | /home/diegoj/bianca/raw_reads/NGS726_2_S2_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_2_S2_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
-| 5503_sandy_inoc_3        | /home/diegoj/bianca/raw_reads/NGS726_3_S3_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_3_S3_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
-| 6007_clay_control_1      | /home/diegoj/bianca/raw_reads/NGS726_22_S22_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_22_S22_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
-| 6007_clay_control_2      | /home/diegoj/bianca/raw_reads/NGS726_23_S23_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_23_S23_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
-| 6007_clay_control_3      | /home/diegoj/bianca/raw_reads/NGS726_24_S24_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_24_S24_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
-| 6007_clay_inoc_1         | /home/diegoj/bianca/raw_reads/NGS726_16_S16_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_16_S16_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
-| 6007_clay_inoc_2         | /home/diegoj/bianca/raw_reads/NGS726_17_S17_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_17_S17_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
-| 6007_clay_inoc_3         | /home/diegoj/bianca/raw_reads/NGS726_18_S18_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_18_S18_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
-| 6007_sandy_control_1     | /home/diegoj/bianca/raw_reads/NGS726_10_S10_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_10_S10_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
-| 6007_sandy_control_2     | /home/diegoj/bianca/raw_reads/NGS726_11_S11_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_11_S11_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
-| 6007_sandy_control_3     | /home/diegoj/bianca/raw_reads/NGS726_12_S12_L001_R1_001.fastq.gz                          | /home/diegoj/bianca/raw_reads/NGS726_12_S12_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
-| 6007_sandy_inoc_1        | /home/diegoj/bianca/raw_reads/NGS726_4_S4_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_4_S4_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
-| 6007_sandy_inoc_2        | /home/diegoj/bianca/raw_reads/NGS726_5_S5_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_5_S5_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
-| 6007_sandy_inoc_3        | /home/diegoj/bianca/raw_reads/NGS726_6_S6_L001_R1_001.fastq.gz                            | /home/diegoj/bianca/raw_reads/NGS726_6_S6_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
+| 5503_clay_control_1      | /dados04/jorge/bianca/raw_reads/NGS726_19_S19_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_19_S19_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
+| 5503_clay_control_2      | /dados04/jorge/bianca/raw_reads/NGS726_20_S20_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_20_S20_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
+| 5503_clay_control_3      | /dados04/jorge/bianca/raw_reads/NGS726_21_S21_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_21_S21_L001_R2_001.fastq.gz                          | auto         | control   | 5503     | clay  | NA           |
+| 5503_clay_inoc_1         | /dados04/jorge/bianca/raw_reads/NGS726_13_S13_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_13_S13_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
+| 5503_clay_inoc_2         | /dados04/jorge/bianca/raw_reads/NGS726_14_S14_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_14_S14_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
+| 5503_clay_inoc_3         | /dados04/jorge/bianca/raw_reads/NGS726_15_S15_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_15_S15_L001_R2_001.fastq.gz                          | auto         | infected  | 5503     | clay  | 5503_clay    |
+| 5503_sandy_control_1     | /dados04/jorge/bianca/raw_reads/NGS726_7_S7_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_7_S7_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
+| 5503_sandy_control_2     | /dados04/jorge/bianca/raw_reads/NGS726_8_S8_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_8_S8_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
+| 5503_sandy_control_3     | /dados04/jorge/bianca/raw_reads/NGS726_9_S9_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_9_S9_L001_R2_001.fastq.gz                            | auto         | control   | 5503     | sandy | NA           |
+| 5503_sandy_inoc_1        | /dados04/jorge/bianca/raw_reads/NGS726_1_S1_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_1_S1_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
+| 5503_sandy_inoc_2        | /dados04/jorge/bianca/raw_reads/NGS726_2_S2_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_2_S2_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
+| 5503_sandy_inoc_3        | /dados04/jorge/bianca/raw_reads/NGS726_3_S3_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_3_S3_L001_R2_001.fastq.gz                            | auto         | infected  | 5503     | sandy | 5503_sandy   |
+| 6007_clay_control_1      | /dados04/jorge/bianca/raw_reads/NGS726_22_S22_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_22_S22_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
+| 6007_clay_control_2      | /dados04/jorge/bianca/raw_reads/NGS726_23_S23_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_23_S23_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
+| 6007_clay_control_3      | /dados04/jorge/bianca/raw_reads/NGS726_24_S24_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_24_S24_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | clay  | NA           |
+| 6007_clay_inoc_1         | /dados04/jorge/bianca/raw_reads/NGS726_16_S16_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_16_S16_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
+| 6007_clay_inoc_2         | /dados04/jorge/bianca/raw_reads/NGS726_17_S17_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_17_S17_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
+| 6007_clay_inoc_3         | /dados04/jorge/bianca/raw_reads/NGS726_18_S18_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_18_S18_L001_R2_001.fastq.gz                          | auto         | infected  | 6007     | clay  | 6007_clay    |
+| 6007_sandy_control_1     | /dados04/jorge/bianca/raw_reads/NGS726_10_S10_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_10_S10_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
+| 6007_sandy_control_2     | /dados04/jorge/bianca/raw_reads/NGS726_11_S11_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_11_S11_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
+| 6007_sandy_control_3     | /dados04/jorge/bianca/raw_reads/NGS726_12_S12_L001_R1_001.fastq.gz                          | /dados04/jorge/bianca/raw_reads/NGS726_12_S12_L001_R2_001.fastq.gz                          | auto         | control   | 6007     | sandy | NA           |
+| 6007_sandy_inoc_1        | /dados04/jorge/bianca/raw_reads/NGS726_4_S4_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_4_S4_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
+| 6007_sandy_inoc_2        | /dados04/jorge/bianca/raw_reads/NGS726_5_S5_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_5_S5_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
+| 6007_sandy_inoc_3        | /dados04/jorge/bianca/raw_reads/NGS726_6_S6_L001_R1_001.fastq.gz                            | /dados04/jorge/bianca/raw_reads/NGS726_6_S6_L001_R2_001.fastq.gz                            | auto         | infected  | 6007     | sandy | 6007_sandy   |
 
 
 ### 1. **References**
 
-- `Genome Assembly`: /home/diegoj/bianca/references/PEDRO_genome/fix_pedro.fasta 
-- `Proteins`: /home/diegoj/bianca/references/PEDRO_genome/proteins_clean.fasta
-- `GTF`: /home/diegoj/bianca/references/PEDRO_genome/SSC04-MAT1.gtf
+- `Genome Assembly`: /dados04/jorge/bianca/references/PEDRO_genome/fix_pedro.fasta 
+- `Proteins`: /dados04/jorge/bianca/references/PEDRO_genome/proteins_clean.fasta
+- `GTF`: /dados04/jorge/bianca/references/PEDRO_genome/SSC04-MAT1.gtf
 
 ### 2. **Protein Annotation**
 
 We used `emapper-2.1.3` from `EggNOG v5.0` to get KEGG orthology and GO  annotations for the proteins of the genome based on orthology relationships. 
-- Results: `/home/diegoj/bianca/references/PEDRO_genome/annotation/eggnog.emapper.annotations`
+- Results: `/dados04/jorge/bianca/references/PEDRO_genome/annotation/eggnog.emapper.annotations`
 
 ### 3. **RNAseq processing**
 
@@ -98,10 +98,10 @@ We used `lfcThreshold = 1` and `altHypothesis = "greaterAbs"` to identify transc
 | overall_5503_vs_6007  | 0     | 0           | 0             |
 
 
-- code: /home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/dea_claude_dev.r
+- code: /dados04/jorge/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/dea_claude_dev.r
 
     For overrall clay vs sand the complete results are located at 
-- results: /home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/
+- results: /dados04/jorge/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy/
 
 ### 6. **Functional Enrichment Analysis**
 
@@ -160,7 +160,7 @@ We used the enrichKEGG function from Cluster profiler R package (v4.14.6) to get
 
 We used Phobius v1.01 (https://phobius.sbc.su.se/) to signal peptides and transmembrane domais, the proteins with at least one signal peptide and with no transmembrando domains where classified as putative effectors.
 
-/home/diegoj/bianca/references/PEDRO_genome/annotation
+/dados04/jorge/bianca/references/PEDRO_genome/annotation
 
 
 ### 8. **GO-KEGG Interaction Network**
@@ -174,7 +174,7 @@ To get some insights about the function of down regulated and up regulated genes
 
 Full results in: 
 
-/home/diegoj/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy
+/dados04/jorge/bianca/rnaseq/full_run1_no_collapse/star_salmon/deseq2_qc/overall_clay_vs_sandy
 
 ### 9. **Important Files**
 
